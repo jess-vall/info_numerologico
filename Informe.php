@@ -270,26 +270,37 @@
                 </select>
             
             <br>
-                                            <!--Número kármicoNúmero kármico
-                                                Número kármicoNúmero kármico -->
+            <br>
+                                            <!--Número kármico Número kármico
+                                                Número kármico Número kármico -->
+
+            <hr>
             <br>
             <label for=""><h4>Número kármico</h4></label>
             <br>
-            Encabezado<input type="checkbox" class="check" name="siNuka" value="siNuka">
-            No<input type="checkbox" class="check" name="noNuka" value="noNuka">
-            
-            13<input type="checkbox" class="check" name="13Nuka" value="13Nuka">
-            14<input type="checkbox" class="check" name="14Nuka" value="14Nuka">
-            16<input type="checkbox" class="check" name="16Nuka" value="16Nuka">
-            19<input type="checkbox" class="check" name="19Nuka" value="19Nuka">
+            <input class="radios" type="radio" name="siN" value="si">Encabezado
+            <input type="checkbox" class="check" name="13Nuka" value="13Nuka">13
+            <input type="checkbox" class="check" name="14Nuka" value="14Nuka">14
+            <input type="checkbox" class="check" name="16Nuka" value="16Nuka">16
+            <input type="checkbox" class="check" name="19Nuka" value="19Nuka">19
+            <input class="radios" type="radio" name="siN" value="no" checked>vacio
             <br>
+            <br>
+            <hr>
+            <br>
+            <input class="radios" type="radio" name="noNuk" value="no"><b>Sin Número kármico</b> 
+            <input class="radios" type="radio" name="noNuk" value="vacio" checked>vacio
+            <br>
+            <br>
+            
+            <hr>
             <br>
             <label for=""><h4>Número Problemático</h4></label>
             <br>
-            Encabezado<input type="checkbox" class="check" name="siProblematico" value="siProblematico">
-            No<input type="checkbox" class="check" name="noProblematico" value="noProblematico">
-            12<input type="checkbox" class="check" name="12Problematico" value="12Problematico">
-            15<input type="checkbox" class="check" name="15Problematico" value="15Problematico">
+            <input class="radios" type="radio" name="siProblematico" value="siProblematico">Encabezado
+            <input type="checkbox" class="check" name="12Problematico" value="12Problematico">12
+            <input type="checkbox" class="check" name="15Problematico" value="15Problematico">15
+            <input class="radios" type="radio" name="siProblematico" value="noProblematico" checked>vacio
             
             <br>            
             <br>
@@ -494,7 +505,7 @@
                                                 Números en Exceso
                                                 Números en Carencia -->
 
-                <label for=""><h4>Números en Equilibrio</h4></label>
+            <label for=""><h4>Números en Equilibrio</h4></label>
             <br>
             <input type="checkbox" class="check" name="siEqui" value="siEqui">Encabezado
             <input type="checkbox" class="check" name="1Equi" value="1Equi">1
@@ -551,8 +562,8 @@
 
             <label for=""><h4>----- INFORME PREDICTIVO -----</h4></label>
             <br>
-            <input class="radios" type="radio" name="siInfoPre" value="si">Si
-            <input class="radios" type="radio" name="noInfoPre" value="no" checked>No
+            <input class="radios" type="radio" name="siNoInfoPre" value="siInfoPre">Si
+            <input class="radios" type="radio" name="siNoInfoPre" value="noInfoPre" checked>No
 
             <br>
             <br>

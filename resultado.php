@@ -26,6 +26,10 @@ $coseno = $_POST['coseno'];
 $sinoLeka = $_POST['sinoLeka'];
 $leka = $_POST['leka'];
 
+$siN = $_POST['siN'];
+$noNuk = $_POST['noNuk'];
+ 
+
 $sinoPla = $_POST['sinoPla'];
 $planoMental = $_POST['planoMental'];
 $planoFisico = $_POST['planoFisico'];
@@ -42,6 +46,9 @@ $sinoCla = $_POST['sinoCla'];
 $clavePer = $_POST['clavePer'];
 
 $numOcu = $_POST['numOcu'];
+
+$siNoInfoPre = $_POST['siNoInfoPre'];
+
 
 $sinoPina = $_POST['sinoPina'];
 
@@ -987,6 +994,9 @@ echo '<br>';
             echo 'La gran lección que viniste a aprender, tu sendero natal, camino de vida, vibración Kármica; distintos nombres para significar lo mismo. Si te enfocas en transitarlo en positivo te va a permitir ampliar tus aptitudes y talentos para avanzar cada vez más hacia tu gran aprendizaje. Y si lo transitas en aspectos negativos te mostrará los puntos sobre los cuales debés trabajar para progresar. Se lo considera uno de los números más importantes. Hay que aclarar que no es lo que soy, es lo que vengo a recorrer, lo que vengo a aprender, a desarrollar, a trabajar, a afianzar y así poder lograr la realización como ser humano y sentir plenitud.';
             echo '<br>';
         break;
+
+        case 'no':
+            echo '';
                                     
         }
 
@@ -1148,23 +1158,42 @@ echo '<br>';
         break;
 
     }
+    echo '<br>';
 
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
-    if(isset($_POST["calcular"]))
-    {
-        if(isset($_POST["siNuka"]))
-            echo 'Numero Kármico';
-            echo '<br>';
-            echo 'Tener un número Kármico en tu informe implica que, si no tomas consciencia sobre ello para corregir y aprender, la vida se encargará de poner una y otra vez en tu camino esto para que logres la total apertura. Entonces ¿Por qué no comenzamos a trabajar sobre ello ahora mismo? Muchas veces aquí se encuentran las respuestas a aquello que no le encontramos sentido en nuestra vida; de esta forma se torna muy difícil definir el rumbo a seguir.
-            <br>            
-            Implica la necesidad de manejar y equilibrar estas energías, tal vez, con un poco más de trabajo. Los números Kármicos se refieren al mal uso o abuso de las leyes naturales en vidas anteriores, lo cual está delineando una reconstrucción que deberás realizar. Si aceptas las premisas de este karma, estarás ante un nuevo punto de partida para iniciar un nuevo ciclo ascendente, de lo contrario, volverás a repetir el aprendizaje con mayor dificultad. El karma está vinculado a la ley de causa y efecto, esto quiere decir que todo efecto tuvo una causa anterior que lo originó. Toda persona puede terminar con su karma negativo aquí y ahora y comenzar a generar Dharma, es decir, que comprender este significado, es tener en tus manos las herramientas necesarias para la toma de consciencia y de accionar para cambiarlo o trabajarlo, al punto de conseguir Dharma, el aprendizaje.';
-            echo '<br>';
+     switch ($siN){
 
-        if(isset($_POST["noNuka"]))
+         case 'si':
+             echo 'Numero Kármico';
+             echo '<br>';
+             echo 'Tener un número Kármico en tu informe implica que, si no tomas consciencia sobre ello para corregir y aprender, la vida se encargará de poner una y otra vez en tu camino esto para que logres la total apertura. Entonces ¿Por qué no comenzamos a trabajar sobre ello ahora mismo? Muchas veces aquí se encuentran las respuestas a aquello que no le encontramos sentido en nuestra vida; de esta forma se torna muy difícil definir el rumbo a seguir.
+             <br>            
+            Implica la necesidad de manejar y equilibrar estas energías, tal vez, con un poco más de trabajo. Los números Kármicos se refieren al mal uso o abuso de las leyes naturales en vidas anteriores, lo cual está delineando una reconstrucción que deberás realizar. Si aceptas las premisas de este karma, estarás ante un nuevo punto de partida para iniciar un nuevo ciclo ascendente, de lo contrario, volverás a repetir el aprendizaje con mayor dificultad. El karma está vinculado a la ley de causa y efecto, esto quiere decir que todo efecto tuvo una causa anterior que lo originó. Toda persona puede terminar con su karma negativo aquí y ahora y comenzar a generar Dharma, es decir, que comprender este significado, es tener en tus manos las herramientas necesarias para la toma de consciencia y de accionar para cambiarlo o trabajarlo, al punto de conseguir Dharma, el aprendizaje.<br>';
+            break;
+
+        case 'no':
+            echo '';
+            break;
+        
+     }
+     echo '<br>';
+     
+     switch ($noNuk){
+        
+        case 'no':
             echo 'Se puede observar que en tu mapa numerológico no existen números Kármicos.';
-            echo '<br>';
+        echo '<br>';
+            break;
+        
+        case 'vacio':
+            echo '';
+            break;
+     }
+
+
+    if(isset($_POST["calcular"])){
 
         if(isset($_POST["13Nuka"]))
         echo 'El número Kármico 13 implica la toma de consciencia sobre la necesidad de transmutar, transformar actitudes, evitar la pereza o dispersión, actuar con actitud objetiva y responsable. Representa la transición, algo que puede resultar sumamente positivo, si como portadora de estas energías estás decidida a experimentar los cambios, si sos responsable y protagonista de ello. Tal como la muerte (a la que está muy asociado este dígito) representa la finalización de una etapa y comienzo de otra. Si has asumido esta vibración Kármica, el fin consiste en una verdadera transformación de la conciencia en tu camino hacia el encuentro del Ser. Es decir que será necesario aprender a cerrar ciclos, poner fin a situaciones y dejar ir a las personas que no suman a tu evolución.
@@ -1893,6 +1922,9 @@ echo '<br>';
             echo 'Este, es otro talento o inclinación que vas a adquirir, es un número que se activa a partir de los 45/50 años. Ejerce su influencia a lo largo de toda tu vida, pero su fuerza alcanza su plenitud en la última etapa de la misma.';
             echo '<br>';
         break;
+
+        case 'no':
+            echo '';
         
         
     }
@@ -1957,6 +1989,9 @@ echo '<br>';
             echo 'El número de la Clave personal o de carácter es muy importante ya que indica de qué manera nos manejamos ante las adversidades o cómo desarrollamos nuestra capacidad de decisión ante conflictos de distinta índole, además, determina el comportamiento de tu persona y también algunas situaciones que regirán tu vida. Se mostrará aquello que debés potenciar y aquello que tendrías que trabajar.';
             echo '<br>';
         break;
+
+        case 'no':
+            echo '';
     }
 
     switch ($clavePer) {
@@ -2278,15 +2313,19 @@ echo '<br>';
                                     // INFORME PREDICTIVO // INFORME PREDICTIVO // INFORME PREDICTIVO
                                     // INFORME PREDICTIVO // INFORME PREDICTIVO // INFORME PREDICTIVO
                                     // INFORME PREDICTIVO // INFORME PREDICTIVO // INFORME PREDICTIVO
-if(isset($_POST["calcular"]))
+
+switch ($siNoInfoPre)
     {
-        if(isset($_POST["siInfoPre"]))
+        case 'siInfoPre':
             echo 'INFORME PREDICTIVO
             <br>
             Este informe de predicciones del 2022, nos facilita el acceso al reconocimiento de los hechos y circunstancias que estás viviendo y las tendencias vibracionales, facilitará la activación de tus herramientas y potencialidades para manejar y equilibrar las energías que correspondan en cada etapa. El pináculo (etapas y desafíos) te evidencia aquellas pruebas que debes sortear, las oportunidades y obstáculos que enfrentas, sus predicciones son precisas ya sea que estés preparada o no para ello; podrás conocer en qué etapas de tu vida estarás bajo determinadas influencias. También conocer las fuerzas complementarias que se utilizan para tomar decisiones. Cada año posee su propia vibración, podrás conocer qué tipo de acontecimientos o actividades podés esperar en el año que se avecina. Advertir qué tipo de trabajo podés realizar en ese año para desarrollarte, crecer y concretar tus experiencias de manera productiva y eficaz. Ciclo anual personal y año dividido por cuatrimestres.
             <br>
             ////////////////////ACÁ VAN LOS 3 CUADROS////////////////////
             <br>';
+
+        case 'noInfoPre':
+            echo '';
     }
 
                         //PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS
@@ -2320,8 +2359,7 @@ switch ($sinoPina) {
     }
     return $resultadoDia;
     }
-    echo "Día " . a($dia);
-    echo "<br>";
+    // echo "Día " . a($dia);
                                     //MES//MES//MES//MES
     $mes = $_POST['pinaMes'];
     function b($mes) {
@@ -2333,8 +2371,7 @@ switch ($sinoPina) {
     }
     return $resultadoMes;
     }
-    echo "Mes " . b($mes);
-    echo "<br>";
+    // echo "Mes " . b($mes);
                                  //AÑO//AÑO//AÑO//AÑO
     $año = $_POST['pinaAño'];
     function c($año) {
@@ -2346,9 +2383,9 @@ switch ($sinoPina) {
     }
     return $resultadoAño;
     }
-    echo "Año " . c($año);
-    echo "<br>";
+    // echo "Año " . c($año);
                                 //SENDERO//SENDERO//SENDERO
+
     $sendero = $dia + $mes + $año;
     echo "Sendero Natal " . d($sendero);
     function d($sendero) {
