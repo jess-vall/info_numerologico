@@ -292,7 +292,6 @@
             <input class="radios" type="radio" name="noNuk" value="vacio" checked>vacio
             <br>
             <br>
-            
             <hr>
             <br>
             <label for=""><h4>Número Problemático</h4></label>
@@ -301,7 +300,6 @@
             <input type="checkbox" class="check" name="12Problematico" value="12Problematico">12
             <input type="checkbox" class="check" name="15Problematico" value="15Problematico">15
             <input class="radios" type="radio" name="siProblematico" value="noProblematico" checked>vacio
-            
             <br>            
             <br>
             <hr>
@@ -570,7 +568,7 @@
             <hr>
             <br>
 
-            <label for=""><h4>----- PINÁCULOS -----</h4></label>
+            <label for=""><h4>----- Pináculos / Desafíos -----</h4></label>
             <br>
             <input class="radios" type="radio" name="sinoPina" value="si">Si
             <input class="radios" type="radio" name="sinoPina" value="no" checked>No
@@ -633,6 +631,106 @@
             <label for=""><h4>Año</h4></label>
             <br>
             <input class="controls" type="number" name="pinaAño">
+
+            <br>
+            <br>
+            <hr>
+            <br>
+            <label for=""><h4>Tránsito de Letras</h4></label>
+            <br>
+            Encabezado<input class="radios" type="radio" name="sinoTletras" value="si">Si
+            <input class="radios" type="radio" name="sinoTletras" value="no" checked>No
+            <br>
+            <h4>Desde los / hasta los</h4>
+            <br>
+            <input class="controls" type="number" name="desdeAño1"><input class="controls" type="number" name="hastaAño1">
+            <br>
+            <select class="controls" name="transitoLetras1" id="">
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
+            <br>
+            <label for=""><b>(Opcional)</b></label>
+            <br>
+            <h4>Desde los / hasta los</h4>
+            <br>
+            <input class="controls" type="number" name="desdeAño2"><input class="controls" type="number" name="hastaAño2">
+            <br>
+            <select class="controls" name="transitoLetras2" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
+            <br>
+            <br>
+            <hr>
+            <br>
+            <label for=""><h4>Día de nacimiento y su influencia</h4></label>
+            <br>
+            <b>AGUA</b><select class="controls" name="agua" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="5">5</option>
+                <option value="7">7</option>
+                <option value="10">10</option>
+                <option value="14">14</option>
+                <option value="16">16</option>
+                <option value="19">19</option>
+                <option value="23">23</option>
+                <option value="25">25</option>
+                <option value="28">28</option>
+            </select>
+            <br>
+            <b>FUEGO</b><select class="controls" name="agua" id=""> 
+                <option value=""></option>
+                <option value="2">2</option>
+                <option value="4">4</option>
+                <option value="8">8</option>
+                <option value="11">11</option>
+                <option value="13">13</option>
+                <option value="17">17</option>
+                <option value="20">20</option>
+                <option value="22">22</option>
+                <option value="26">26</option>
+                <option value="29">29</option>
+                <option value="31">31</option>
+            </select>
+            <br>
+            <b>AIRE</b><select class="controls" name="agua" id=""> 
+                <option value=""></option>
+                <option value="3">3</option>
+                <option value="6">6</option>
+                <option value="9">9</option>
+                <option value="12">12</option>
+                <option value="15">15</option>
+                <option value="18">18</option>
+                <option value="21">21</option>
+                <option value="24">24</option>
+                <option value="27">27</option>
+                <option value="30">30</option>
+            </select>
+
+
+            <br>
+            <br>
+            <hr>
+            <br>
+            
                 
                  
 

@@ -52,6 +52,18 @@ $siNoInfoPre = $_POST['siNoInfoPre'];
 
 $sinoPina = $_POST['sinoPina'];
 
+$sinoTletras = $_POST['sinoTletras'];
+
+$transitoLetras1 = $_POST['transitoLetras1'];
+$desdeAño1 = $_POST['desdeAño1'];
+$hastaAño1 = $_POST['hastaAño1'];
+
+$transitoLetras2 = $_POST['transitoLetras2'];
+$desdeAño2 = $_POST['desdeAño2'];
+$hastaAño2 = $_POST['hastaAño2'];
+
+
+
 
 
 
@@ -192,7 +204,21 @@ switch ($deal){
             break;
         
         case 7:
-            echo 'SIN CONTENIDO';
+            echo 'Según la vibración numérica 7, el deseo de tu alma es vivir desde la reflexión, el perfeccionismo y espiritualidad, busca conocimiento y sabiduría sobre todas las cosas. Deseando silencio y paz para vivir tu vida interior, desde el pensamiento profundo, la perfección que se busca alcanzar es desde lo intelectual y espiritual. Representa lo sagrado, enlazando lo Divino y lo humano, formado por el Tres (la divina Trinidad) y el Cuatro (los Elementos Terrestres). El número 7 nos enseña a descubrir nuestra unidad interior, encontrando el equilibrio espiritual y corporal. En él surge la búsqueda de toma de conciencia personal, mediante el estudio y la disciplina interior. El deseo de tu alma es lograr confiar en tu intuición y aprender a oír la voz de tu interior para conectar con la sabiduría que te habita. De esta manera podrás ampliar tu percepción, captando fácilmente un engaño, o reconocer a una persona superficial; del mismo modo, tener el poder de conectar con las almas que te ayudarán y guiarán en tu camino de crecimiento y evolución.
+            <br>
+            Tu alma, con vibración del número 7, necesita cultivar la comprensión, la compasión, evitar el temor y la tristeza profunda. Debe aprender a vivir sola pero no sentirse solitaria, disfrutando de los momentos de silencio; a vivir sola estando con los demás. Aunque hay un agrado por los momentos de soledad, suelen temerle a ésta, y la pobreza. 
+            Es deseo de tu alma es manejarse en el silencio y enriquecerse de él, esto le permite inundarse en su mundo interno y contactar con su sabiduría interior. Tu alma desea tiempo y quietud para meditar. Por esto tu alma se aleja de los ruidos, el bullicio, la confusión del mundo de los negocios. Algunas veces este gusto por el silencio suele generar en el entorno una falta de comprensión hacia tu persona, al ser muy retraída y solitaria. El deseo de tu alma es mantenerse en lo conocido, ya que no hay un sentimiento de comodidad en lo nuevo, lo repentino o efímero. Por lo que tu alma es atraída por los tesoros de antaño, los viejos jardines, las casas antiguas, los muebles y objetos que guardan el paso del tiempo. Aunque no hay un gran gusto por los trabajos manuales y minuciosos, puede encontrar en ellos el agrado de realizarlos por el hecho del silencio y la meditación.
+            <br>
+            El deseo de tu alma es el de desplegar su lado de pensadora profunda, absorbiendo conocimiento prácticamente de toda fuente. A estas almas les gusta analizar, disecar, examinar y considerar desde todos los ángulos; jamás aceptará alguna premisa sin haber agotado todas las probabilidades de error y obviamente sacará sus propias conclusiones. Van a la raíz de todas las cosas y preguntan la razón del por qué. Son buscadas por su sabiduría, pero no brillan en sociedad, suelen ser tímidas y retraídas. Son profundamente emotivas, pero les horroriza exponerse, la mirada del mundo externo las inhibe. Someten todo a un análisis mental agudo, quieren que los detalles estén perfectos antes de pasar al próximo. Son un pozo de secretos, espirituales, científicos, filosóficos o meta-filosóficos, para amarlas hay que conocerlas en profundidad.
+            <br>
+            Cuando el número 7 vibra en positivo habla de una persona que se basa en la reflexión filosófica, la introspección, la agudeza mental, la búsqueda de conocimientos y el perfeccionismo. Vibrando positivamente es un alma que a aprendido a convivir en armonía, amándose y dando amor, suele haber momentos en que se distancia de sus vínculos en la búsqueda interior, para ser protagonista de su vida. Este dígito al estar vibrando en positivo amplía la capacidad de conectarte con vos misma, de vivir la reflexión interior y la toma de conciencia personal, agudeza mental, perfeccionismo y exigencia.
+            <br>
+            Cuando no se ha desarrollado la vibración del 7, ante la carencia de esta vibración podemos ver de una persona con grandes dudas que bloquean su pensamiento; no hay un libre fluir y tiende a escaparse de la realidad. Esto puede llevar a la persona a estados de preocupación extrema, sentimiento de estar perdida, ideales equivocados y un cerramiento absoluto que la vuelve recluida, antisocial e intratable. Puede haber una gran interferencia en pensamientos que imposibilita que contacte con el presente, haciendo que no se “ancle a tierra”, que se evada y hasta que niegue su realidad.
+            <br> 
+            En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de vivenciar una extrema reserva, falta de comunicación, rigor, emotividad reprimida, intolerancia y falta de practicidad, actitudes de superficialidad, falta de reflexión y análisis, dispersión y poca atención al detalle. Esto puede llevar a estados de ansiedad y abatimiento. Se vuelve por demás de aislado, muy exigente e inseguro. No acepta que lo contradigan, si lo hacen responde desde la arrogancia, ya que hay una incomprensión hacia el entorno.
+            <br>
+            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por la infidelidad hacia ella misma y hacia los demás, a veces cayendo en estados de malicia, sarcasmo, frialdad, deshonestidad y orgullo. Se vuelve por demás de aislado, muy exigente y tirano. No acepta oposición a su ego y si se siente expuesto toma revancha sin misericordia; ya que hay una autoimagen muy alta. No escucha al entorno. Existe bajo una desconfianza total.
+            ';
             break;
 
         case 8:
@@ -1247,236 +1273,8 @@ echo '<br>';
         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
         <br>
         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-        
-
     }
 
-
-    // switch ($nuka1){
-
-    //     case 12:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'Pude encontrar el número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 12, llamado el número del Sacrificio, se lo relaciona al castigo, la penitencia, renuncia, abnegación, martirio físico, ser la víctima. En este caso la persona se verá periódicamente sacrificada frente a los planes ajenos; o los demás te verán o te pondrán en ésta posición. Existe como cierto grado de ansiedad y angustia mental, al igual que tensión muscular, causada por la necesidad de sacrificar las metas personales por la ambición ajena. Es como si la vida fuera ingrata y la persona es la victima del destino y la suerte. Tal vez seas una persona con una vida llena de contrariedades, angustias, caídas y una vida difícil en general.
-    //         <br>
-    //         Al encontrarse el 12 en la vibración de tu identidad, hace referencia a cómo los demás te ven, por lo que debes cuidarte del falso halago de quienes solo te persiguen para sus propios fines. Cuida de que tu servilismo no sea confundido con esclavitud, ni que los demás tomen a tu persona para hacer usos indebidos, castigos y abandonos.
-    //         Tener en cuenta: aprende a ser responsable de tu vida, ser protagonista y disfruta del gusto de vivir en armonía y libertad. Trabaja sobre vos misma para no caer en dependencias ni en apegos.
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 13:
-    //         echo 'El número Kármico 13 implica la toma de consciencia sobre la necesidad de transmutar, transformar actitudes, evitar la pereza o dispersión, actuar con actitud objetiva y responsable. Representa la transición, algo que puede resultar sumamente positivo, si como portadora de estas energías estás decidida a experimentar los cambios, si sos responsable y protagonista de ello. Tal como la muerte (a la que está muy asociado este dígito) representa la finalización de una etapa y comienzo de otra. Si has asumido esta vibración Kármica, el fin consiste en una verdadera transformación de la conciencia en tu camino hacia el encuentro del Ser. Es decir que será necesario aprender a cerrar ciclos, poner fin a situaciones y dejar ir a las personas que no suman a tu evolución.
-    //         <br>
-    //         Tener en cuenta: No caer en la haraganería y la pereza. Crecer en la vida cotidiana disfrutando, aprendiendo y aportando. Evitar actitudes negativas como las mencionadas para no paralizar el crecimiento evolutivo.
-    //         <br>';
-    //     break;
-
-    //     case 14:
-    //         echo 'El número 14, está relacionado con el equilibrio afectivo. Nos habla de un gran trabajo de actitudes relacionadas a la compasión, la comprensión y la humildad, evitando caer en excesos materiales y emocionales. Nos indica que pudiste haberte excedido en el uso de la libertad en alguna de tus existencias, provocando con ello el sufrimiento de los demás. Es una invitación a superar este Karma equilibrando los impulsos, encaminándote hacia un camino de comprensión y compromiso que te permitirá transformarte eliminando los efectos nocivos, mediante la humildad, la compasión y el amor.
-    //         <br>
-    //         Hay en esta vibración una tendencia a abusar de la libertad y moverse en los extremos. Es posible que esta tendencia se viva en los planos físicos y sobre todo a nivel sexual.
-    //         <br>
-    //         Tener en cuenta: aprende a desapegarte de las personas, no aferrarte a ellas de modo posesivo. Equilibra las emociones para no caer en altibajos, aprendiendo a encontrar la templanza y comprensión necesarias para no sufrir pérdidas y experimentar continuos contratiempos. Al estar el 14 relacionado con la esencia (el deseo de tu alma) y con tu sendero natal (la gran lección que viniste a aprender), será una cuestión que deberás tener muy en cuenta. Te invita a trabajar sobre la necesidad de equilibrar tu vida interior y exterior, para no repetir constantemente situaciones en que la falta de objetivos concretos se vuelva un obstáculo. Será parte de tu lección, de aquello que viniste a aprender; como también es parte del deseo de tu alma poder crecer en éste aspecto.
-    //         <br>';
-    //     break;
-
-    //     case 15:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'Pude encontrar un número problemático 15; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 16:
-    //         echo 'El número Kármico 16, el cual tiene que ver con la fidelidad y ética en la vida cotidiana; implica un gran trabajo sobre aspectos tendientes al orgullo excesivo, la ansiedad o la superficialidad. Es probable que en una vida anterior se haya actuado con actitudes egoístas, sobre todo a nivel afectivo, provocando dolor y pérdidas. La invitación de este dígito karmático es entonces superar esta vibración mediante el amor. Será importante que encuentres un ideal de amor y vivirlo con mucho respeto cotidianamente.
-    //         <br>
-    //         Tener en cuenta: para valorar el amor y ascender nuevamente en la vida deberás caer primero, quizá encuentre dificultades para consolidar una pareja o debas enfrentarte a la pérdida de la persona amada. Las pérdidas serán las pruebas que deberás enfrentar ante este dígito para poder lograr el desapego.
-    //         <br>';
-    //     break;
-
-
-    //     case 19:
-    //         echo 'El número Kármico 19 el cual tiene que ver con el logro a la tolerancia nos habla de un gran trabajo sobre las actitudes dominantes y egocéntricas. El Karma más difícil de equilibrar en este dígito es el carácter. La paciencia, la tolerancia y la aceptación es el gran condicionamiento de este Karma. Es probable que en otra vida hayas tenido la posibilidad de mando y poder, pero la desaprovechaste o abusaste de ella, con gran intolerancia. Hoy deberás vivir la prueba del ejercicio de la tolerancia y comprensión, intentando manejar actitudes dominantes, que serán tendencias naturales a lo largo de tu vida.
-    //         <br>
-    //         Tener en cuenta: hacerse cargo de los errores pasados y repararlos. Deberás evitar dominar para no ser dominada. Hay una invitación a indagar sobre el sentido de la humanidad y el propio. Será necesario que comprendas el verdadero sentido del dicho “cosecharás tu siembra” y conseguir modificar tu actitud autoritaria, de otra forma, te costará liberarte, y al final podrías perder aquello que considerás de gran valor.
-    //         <br>';
-    //     break;
-
-    // }
-
-    // switch ($nuka2){
-
-    //     case 12:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'Pude encontrar un número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 12, llamado el número del Sacrificio, se lo relaciona al castigo, la penitencia, renuncia, abnegación, martirio físico, ser la víctima. En este caso la persona se verá periódicamente sacrificada frente a los planes ajenos; o los demás te verán o te pondrán en ésta posición. Existe como cierto grado de ansiedad y angustia mental, al igual que tensión muscular, causada por la necesidad de sacrificar las metas personales por la ambición ajena. Es como si la vida fuera ingrata y la persona es la victima del destino y la suerte. Tal vez seas una persona con una vida llena de contrariedades, angustias, caídas y una vida difícil en general.
-    //         <br>
-    //         Al encontrarse el 12 en la vibración de tu identidad, hace referencia a cómo los demás te ven, por lo que debes cuidarte del falso halago de quienes solo te persiguen para sus propios fines. Cuida de que tu servilismo no sea confundido con esclavitud, ni que los demás tomen a tu persona para hacer usos indebidos, castigos y abandonos.
-    //         Tener en cuenta: aprende a ser responsable de tu vida, ser protagonista y disfruta del gusto de vivir en armonía y libertad. Trabaja sobre vos misma para no caer en dependencias ni en apegos.
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 13:
-    //         echo 'El número Kármico 13 implica la toma de consciencia sobre la necesidad de transmutar, transformar actitudes, evitar la pereza o dispersión, actuar con actitud objetiva y responsable. Representa la transición, algo que puede resultar sumamente positivo, si como portadora de estas energías estás decidida a experimentar los cambios, si sos responsable y protagonista de ello. Tal como la muerte (a la que está muy asociado este dígito) representa la finalización de una etapa y comienzo de otra. Si has asumido esta vibración Kármica, el fin consiste en una verdadera transformación de la conciencia en tu camino hacia el encuentro del Ser. Es decir que será necesario aprender a cerrar ciclos, poner fin a situaciones y dejar ir a las personas que no suman a tu evolución.
-    //         <br>
-    //         Tener en cuenta: No caer en la haraganería y la pereza. Crecer en la vida cotidiana disfrutando, aprendiendo y aportando. Evitar actitudes negativas como las mencionadas para no paralizar el crecimiento evolutivo.
-    //         <br>';
-    //     break;
-
-    //     case 14:
-    //         echo 'El número 14, está relacionado con el equilibrio afectivo. Nos habla de un gran trabajo de actitudes relacionadas a la compasión, la comprensión y la humildad, evitando caer en excesos materiales y emocionales. Nos indica que pudiste haberte excedido en el uso de la libertad en alguna de tus existencias, provocando con ello el sufrimiento de los demás. Es una invitación a superar este Karma equilibrando los impulsos, encaminándote hacia un camino de comprensión y compromiso que te permitirá transformarte eliminando los efectos nocivos, mediante la humildad, la compasión y el amor.
-    //         <br>
-    //         Hay en esta vibración una tendencia a abusar de la libertad y moverse en los extremos. Es posible que esta tendencia se viva en los planos físicos y sobre todo a nivel sexual.
-    //         <br>
-    //         Tener en cuenta: aprende a desapegarte de las personas, no aferrarte a ellas de modo posesivo. Equilibra las emociones para no caer en altibajos, aprendiendo a encontrar la templanza y comprensión necesarias para no sufrir pérdidas y experimentar continuos contratiempos. Al estar el 14 relacionado con la esencia (el deseo de tu alma) y con tu sendero natal (la gran lección que viniste a aprender), será una cuestión que deberás tener muy en cuenta. Te invita a trabajar sobre la necesidad de equilibrar tu vida interior y exterior, para no repetir constantemente situaciones en que la falta de objetivos concretos se vuelva un obstáculo. Será parte de tu lección, de aquello que viniste a aprender; como también es parte del deseo de tu alma poder crecer en éste aspecto.
-    //         <br>';
-    //     break;
-
-    //     case 15:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'También pude encontrar un número problemático 15; que aparece en tu ////// ATENCION EDITAR!! ////////; éste último al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu sendero natal, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva; esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 16:
-    //         echo 'El número Kármico 16, el cual tiene que ver con la fidelidad y ética en la vida cotidiana; implica un gran trabajo sobre aspectos tendientes al orgullo excesivo, la ansiedad o la superficialidad. Es probable que en una vida anterior se haya actuado con actitudes egoístas, sobre todo a nivel afectivo, provocando dolor y pérdidas. La invitación de este dígito karmático es entonces superar esta vibración mediante el amor. Será importante que encuentres un ideal de amor y vivirlo con mucho respeto cotidianamente.
-    //         <br>
-    //         Tener en cuenta: para valorar el amor y ascender nuevamente en la vida deberás caer primero, quizá encuentre dificultades para consolidar una pareja o debas enfrentarte a la pérdida de la persona amada. Las pérdidas serán las pruebas que deberás enfrentar ante este dígito para poder lograr el desapego.
-    //         <br>';
-    //     break;
-
-    //     case 19:
-    //         echo 'El número Kármico 19 el cual tiene que ver con el logro a la tolerancia nos habla de un gran trabajo sobre las actitudes dominantes y egocéntricas. El Karma más difícil de equilibrar en este dígito es el carácter. La paciencia, la tolerancia y la aceptación es el gran condicionamiento de este Karma. Es probable que en otra vida hayas tenido la posibilidad de mando y poder, pero la desaprovechaste o abusaste de ella, con gran intolerancia. Hoy deberás vivir la prueba del ejercicio de la tolerancia y comprensión, intentando manejar actitudes dominantes, que serán tendencias naturales a lo largo de tu vida.
-    //         <br>
-    //         Tener en cuenta: hacerse cargo de los errores pasados y repararlos. Deberás evitar dominar para no ser dominada. Hay una invitación a indagar sobre el sentido de la humanidad y el propio. Será necesario que comprendas el verdadero sentido del dicho “cosecharás tu siembra” y conseguir modificar tu actitud autoritaria, de otra forma, te costará liberarte, y al final podrías perder aquello que considerás de gran valor.
-    //         <br>';
-    //     break;
-    // }
-
-    // switch ($nuka3){
-
-    //     case 12:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'Pude encontrar un número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 12, llamado el número del Sacrificio, se lo relaciona al castigo, la penitencia, renuncia, abnegación, martirio físico, ser la víctima. En este caso la persona se verá periódicamente sacrificada frente a los planes ajenos; o los demás te verán o te pondrán en ésta posición. Existe como cierto grado de ansiedad y angustia mental, al igual que tensión muscular, causada por la necesidad de sacrificar las metas personales por la ambición ajena. Es como si la vida fuera ingrata y la persona es la victima del destino y la suerte. Tal vez seas una persona con una vida llena de contrariedades, angustias, caídas y una vida difícil en general.
-    //         <br>
-    //         Al encontrarse el 12 en la vibración de tu identidad, hace referencia a cómo los demás te ven, por lo que debes cuidarte del falso halago de quienes solo te persiguen para sus propios fines. Cuida de que tu servilismo no sea confundido con esclavitud, ni que los demás tomen a tu persona para hacer usos indebidos, castigos y abandonos.
-    //         Tener en cuenta: aprende a ser responsable de tu vida, ser protagonista y disfruta del gusto de vivir en armonía y libertad. Trabaja sobre vos misma para no caer en dependencias ni en apegos.
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 13:
-    //         echo 'El número Kármico 13 implica la toma de consciencia sobre la necesidad de transmutar, transformar actitudes, evitar la pereza o dispersión, actuar con actitud objetiva y responsable. Representa la transición, algo que puede resultar sumamente positivo, si como portadora de estas energías estás decidida a experimentar los cambios, si sos responsable y protagonista de ello. Tal como la muerte (a la que está muy asociado este dígito) representa la finalización de una etapa y comienzo de otra. Si has asumido esta vibración Kármica, el fin consiste en una verdadera transformación de la conciencia en tu camino hacia el encuentro del Ser. Es decir que será necesario aprender a cerrar ciclos, poner fin a situaciones y dejar ir a las personas que no suman a tu evolución.
-    //         <br>
-    //         Tener en cuenta: No caer en la haraganería y la pereza. Crecer en la vida cotidiana disfrutando, aprendiendo y aportando. Evitar actitudes negativas como las mencionadas para no paralizar el crecimiento evolutivo.
-    //         <br>';
-    //     break;
-
-    //     case 14:
-    //         echo 'El número 14, está relacionado con el equilibrio afectivo. Nos habla de un gran trabajo de actitudes relacionadas a la compasión, la comprensión y la humildad, evitando caer en excesos materiales y emocionales. Nos indica que pudiste haberte excedido en el uso de la libertad en alguna de tus existencias, provocando con ello el sufrimiento de los demás. Es una invitación a superar este Karma equilibrando los impulsos, encaminándote hacia un camino de comprensión y compromiso que te permitirá transformarte eliminando los efectos nocivos, mediante la humildad, la compasión y el amor.
-    //         <br>
-    //         Hay en esta vibración una tendencia a abusar de la libertad y moverse en los extremos. Es posible que esta tendencia se viva en los planos físicos y sobre todo a nivel sexual.
-    //         <br>
-    //         Tener en cuenta: aprende a desapegarte de las personas, no aferrarte a ellas de modo posesivo. Equilibra las emociones para no caer en altibajos, aprendiendo a encontrar la templanza y comprensión necesarias para no sufrir pérdidas y experimentar continuos contratiempos. Al estar el 14 relacionado con la esencia (el deseo de tu alma) y con tu sendero natal (la gran lección que viniste a aprender), será una cuestión que deberás tener muy en cuenta. Te invita a trabajar sobre la necesidad de equilibrar tu vida interior y exterior, para no repetir constantemente situaciones en que la falta de objetivos concretos se vuelva un obstáculo. Será parte de tu lección, de aquello que viniste a aprender; como también es parte del deseo de tu alma poder crecer en éste aspecto.
-    //         <br>';
-    //     break;
-
-    //     case 15:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'También pude encontrar un número problemático 15; que aparece en tu ////// ATENCION EDITAR!! ////////; éste último al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu sendero natal, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva; esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 16:
-    //         echo 'El número Kármico 16, el cual tiene que ver con la fidelidad y ética en la vida cotidiana; implica un gran trabajo sobre aspectos tendientes al orgullo excesivo, la ansiedad o la superficialidad. Es probable que en una vida anterior se haya actuado con actitudes egoístas, sobre todo a nivel afectivo, provocando dolor y pérdidas. La invitación de este dígito karmático es entonces superar esta vibración mediante el amor. Será importante que encuentres un ideal de amor y vivirlo con mucho respeto cotidianamente.
-    //         <br>
-    //         Tener en cuenta: para valorar el amor y ascender nuevamente en la vida deberás caer primero, quizá encuentre dificultades para consolidar una pareja o debas enfrentarte a la pérdida de la persona amada. Las pérdidas serán las pruebas que deberás enfrentar ante este dígito para poder lograr el desapego.
-    //         <br>';
-    //     break;
-
-    //     case 19:
-    //         echo 'El número Kármico 19 el cual tiene que ver con el logro a la tolerancia nos habla de un gran trabajo sobre las actitudes dominantes y egocéntricas. El Karma más difícil de equilibrar en este dígito es el carácter. La paciencia, la tolerancia y la aceptación es el gran condicionamiento de este Karma. Es probable que en otra vida hayas tenido la posibilidad de mando y poder, pero la desaprovechaste o abusaste de ella, con gran intolerancia. Hoy deberás vivir la prueba del ejercicio de la tolerancia y comprensión, intentando manejar actitudes dominantes, que serán tendencias naturales a lo largo de tu vida.
-    //         <br>
-    //         Tener en cuenta: hacerse cargo de los errores pasados y repararlos. Deberás evitar dominar para no ser dominada. Hay una invitación a indagar sobre el sentido de la humanidad y el propio. Será necesario que comprendas el verdadero sentido del dicho “cosecharás tu siembra” y conseguir modificar tu actitud autoritaria, de otra forma, te costará liberarte, y al final podrías perder aquello que considerás de gran valor.
-    //         <br>';
-    //     break;
-    // }
-
-    // switch ($nuka4){
-
-    //     case 12:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'Pude encontrar un número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 12, llamado el número del Sacrificio, se lo relaciona al castigo, la penitencia, renuncia, abnegación, martirio físico, ser la víctima. En este caso la persona se verá periódicamente sacrificada frente a los planes ajenos; o los demás te verán o te pondrán en ésta posición. Existe como cierto grado de ansiedad y angustia mental, al igual que tensión muscular, causada por la necesidad de sacrificar las metas personales por la ambición ajena. Es como si la vida fuera ingrata y la persona es la victima del destino y la suerte. Tal vez seas una persona con una vida llena de contrariedades, angustias, caídas y una vida difícil en general.
-    //         <br>
-    //         Al encontrarse el 12 en la vibración de tu identidad, hace referencia a cómo los demás te ven, por lo que debes cuidarte del falso halago de quienes solo te persiguen para sus propios fines. Cuida de que tu servilismo no sea confundido con esclavitud, ni que los demás tomen a tu persona para hacer usos indebidos, castigos y abandonos.
-    //         Tener en cuenta: aprende a ser responsable de tu vida, ser protagonista y disfruta del gusto de vivir en armonía y libertad. Trabaja sobre vos misma para no caer en dependencias ni en apegos.
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 13:
-    //         echo 'El número Kármico 13 implica la toma de consciencia sobre la necesidad de transmutar, transformar actitudes, evitar la pereza o dispersión, actuar con actitud objetiva y responsable. Representa la transición, algo que puede resultar sumamente positivo, si como portadora de estas energías estás decidida a experimentar los cambios, si sos responsable y protagonista de ello. Tal como la muerte (a la que está muy asociado este dígito) representa la finalización de una etapa y comienzo de otra. Si has asumido esta vibración Kármica, el fin consiste en una verdadera transformación de la conciencia en tu camino hacia el encuentro del Ser. Es decir que será necesario aprender a cerrar ciclos, poner fin a situaciones y dejar ir a las personas que no suman a tu evolución.
-    //         <br>
-    //         Tener en cuenta: No caer en la haraganería y la pereza. Crecer en la vida cotidiana disfrutando, aprendiendo y aportando. Evitar actitudes negativas como las mencionadas para no paralizar el crecimiento evolutivo.
-    //         <br>';
-    //     break;
-
-    //     case 14:
-    //         echo 'El número 14, está relacionado con el equilibrio afectivo. Nos habla de un gran trabajo de actitudes relacionadas a la compasión, la comprensión y la humildad, evitando caer en excesos materiales y emocionales. Nos indica que pudiste haberte excedido en el uso de la libertad en alguna de tus existencias, provocando con ello el sufrimiento de los demás. Es una invitación a superar este Karma equilibrando los impulsos, encaminándote hacia un camino de comprensión y compromiso que te permitirá transformarte eliminando los efectos nocivos, mediante la humildad, la compasión y el amor.
-    //         <br>
-    //         Hay en esta vibración una tendencia a abusar de la libertad y moverse en los extremos. Es posible que esta tendencia se viva en los planos físicos y sobre todo a nivel sexual.
-    //         <br>
-    //         Tener en cuenta: aprende a desapegarte de las personas, no aferrarte a ellas de modo posesivo. Equilibra las emociones para no caer en altibajos, aprendiendo a encontrar la templanza y comprensión necesarias para no sufrir pérdidas y experimentar continuos contratiempos. Al estar el 14 relacionado con la esencia (el deseo de tu alma) y con tu sendero natal (la gran lección que viniste a aprender), será una cuestión que deberás tener muy en cuenta. Te invita a trabajar sobre la necesidad de equilibrar tu vida interior y exterior, para no repetir constantemente situaciones en que la falta de objetivos concretos se vuelva un obstáculo. Será parte de tu lección, de aquello que viniste a aprender; como también es parte del deseo de tu alma poder crecer en éste aspecto.
-    //         <br>';
-    //     break;
-
-    //     case 15:
-    //         echo 'Número Problemático';
-    //         echo '<br>';
-    //         echo 'También pude encontrar un número problemático 15; que aparece en tu ////// ATENCION EDITAR!! ////////; éste último al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
-    //         <br>
-    //         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
-    //         <br>
-    //         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu sendero natal, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva; esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
-    //     break;
-
-    //     case 16:
-    //         echo 'El número Kármico 16, el cual tiene que ver con la fidelidad y ética en la vida cotidiana; implica un gran trabajo sobre aspectos tendientes al orgullo excesivo, la ansiedad o la superficialidad. Es probable que en una vida anterior se haya actuado con actitudes egoístas, sobre todo a nivel afectivo, provocando dolor y pérdidas. La invitación de este dígito karmático es entonces superar esta vibración mediante el amor. Será importante que encuentres un ideal de amor y vivirlo con mucho respeto cotidianamente.
-    //         <br>
-    //         Tener en cuenta: para valorar el amor y ascender nuevamente en la vida deberás caer primero, quizá encuentre dificultades para consolidar una pareja o debas enfrentarte a la pérdida de la persona amada. Las pérdidas serán las pruebas que deberás enfrentar ante este dígito para poder lograr el desapego.
-    //         <br>';
-    //     break;
-
-    //     case 19:
-    //         echo 'El número Kármico 19 el cual tiene que ver con el logro a la tolerancia nos habla de un gran trabajo sobre las actitudes dominantes y egocéntricas. El Karma más difícil de equilibrar en este dígito es el carácter. La paciencia, la tolerancia y la aceptación es el gran condicionamiento de este Karma. Es probable que en otra vida hayas tenido la posibilidad de mando y poder, pero la desaprovechaste o abusaste de ella, con gran intolerancia. Hoy deberás vivir la prueba del ejercicio de la tolerancia y comprensión, intentando manejar actitudes dominantes, que serán tendencias naturales a lo largo de tu vida.
-    //         <br>
-    //         Tener en cuenta: hacerse cargo de los errores pasados y repararlos. Deberás evitar dominar para no ser dominada. Hay una invitación a indagar sobre el sentido de la humanidad y el propio. Será necesario que comprendas el verdadero sentido del dicho “cosecharás tu siembra” y conseguir modificar tu actitud autoritaria, de otra forma, te costará liberarte, y al final podrías perder aquello que considerás de gran valor.
-    //         <br>';
-    //     break;
-    // }
 
                                                     /////PLANOS DE EXISTENCIA/////
                                                     /////PLANOS DE EXISTENCIA/////
@@ -2406,15 +2204,15 @@ switch ($sinoPina) {
     
     //////////////  PRIMERA ETAPA  //////////////
     $primera= a($dia) + b($mes);
-    var_dump($primera);
+    
 
     //////////////  SEGUNDA ETAPA  //////////////
     $segunda = a($dia) + c($año);
-    var_dump($segunda);
+    
     
     //////////////  TERCERA ETAPA  //////////////
     $tercera = $primera + $segunda;
-    var_dump($tercera);
+    
     
     ////////////// CUARTA ETAPA  //////////////
     $cuarta = b($mes) + c($año);
@@ -2998,6 +2796,170 @@ switch ($sinoPina) {
             echo 'Como desafío el gran aprendizaje está en encontrar el equilibrio entre el mundo espiritual y las demandas materiales que la sociedad establece. Salir de las situaciones extremas, de una ambición desmedida y demasiado ligada al dinero, a las cosas materiales ya que muchas veces genera una insatisfacción permanente sin poder disfrutar de todos los bienes que te da la vida. El desafío radica en que podes llegar a ser desconfiada en extremo e intolerante, desvirtuando las grandes cualidades de planificación, autoridad y justicia de las que estás dotada.';
             break;
 
+    }
+    echo '<br>';
+    echo '<br>';
+
+
+    switch ($sinoTletras) {
+        case 'si':
+            echo 'Entendido como un horóscopo, es un número temporal, en donde, según tu nombre y edad, podremos ver aquellos acontecimientos y situaciones de la vida; pueden ser en el lapso de un año, de 2 años, de 3 años, etc. También nos habla de las tendencias, cómo estará auspiciado tu año, qué puede suceder, bajo qué energías va a vibrar, etc. Lo que facilitará el tomar consciencia y lograr activar las herramientas y potencialidades necesarias para equilibrar y manejar las energías que correspondan. Te voy a contar que, desde tu edad actual hasta los ' . $hastaAño1 . ' años, aquellas situaciones y acontecimientos de tu vida, las tendencias, lo que deberás prestar atención y cómo estará auspiciado tu año.';
+            break;
+
+        case 'no':
+            echo '';
+            break;
+    }
+    echo '<br>';
+    echo '<br>';
+
+
+    switch ($transitoLetras1) {
+        case '1':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por la vibración 1, será un año en lo que es probable que te encuentres inquieta y con deseos de independizarte, rebelándote ante toda forma de opresión. Mostrarás actitudes más audaces, y probablemente vivas con los nervios a flor de piel. No importa que en tu Numeróscopo haya características de paciencia, porque durante este tránsito te costará ponerla en práctica. Seguramente durante lo que se extiende este tránsito, te muestres un poco egoísta.
+            <br>
+            En lo afectivo, irás tras la conquista de un vínculo sexual, si no tenes pareja, lo harás sin buscar demasiados compromisos, más que nada buscando la variedad; en cambio sí en este tránsito estas en pareja, es posible que te abras al deseo y a la sensualidad. En lo mental, contarás con nuevas ideas, una mente muy lúcida y extremadamente activa, que necesitará tiempo para relajarse.
+            <br> 
+            En lo laboral, buscarás cambiar de trabajo, es posible que, llevada por la insatisfacción, buscando reconocimiento económico y personal. Es un buen año para iniciar nuevas actividades y retomar estudios ya comenzados. En cuanto a la salud, deberás cuidar aspectos relacionados a la circulación sanguínea, estrés, corazón y controlar tu presión arterial.';
+            break;
+    
+        case '2':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por esta vibración 2, es probable que vivas bajo la influencia de estos dos años, sintiendo deseos de armonizar con todo y con todos, ya que representa una vibración de paz. Querrás ayudar a los demás, actuando diplomáticamente y seguramente soliciten tus consejos. También contarás con mayor intuición.
+            <br>
+            En lo afectivo, si estas en esta etapa soltera y además acompañan el panorama otros dígitos 2, como año Personal o dígito de la edad, es muy probable que encuentres pareja; y si ya posees pareja, es probable que se consolide la situación al punto de compromisos, mudanzas, matrimonio; aunque también pueden presentarse algunos conflictos que deberán aprender a resolver para que no determine la relación o caiga en rupturas. Será importante el diálogo y acuerdo debido; la cooperación y reciprocidad facilitarán que el lazo se consolide. En lo mental, probablemente vivas estos años con mucha capacidad intuitiva, mucha sensibilidad y quizá algunas inseguridades. Tal vez con hipersensibilidad y algunos vaivenes.
+            <br>
+            En lo laboral, es momento de sociedades, de trabajo en equipo, con otros o para otros, y seguramente necesites pedir consejos antes de actuar o tomar decisiones. En cuanto a la salud, pueden surgir problemas digestivos, úlceras, gastritis y problemas intestinales por no exteriorizar las emociones. También deberás prestar atención al aparato reproductivo, ovarios, útero y mamas, y según el año Personal o edad que esté transitando, puede ser un período muy fértil. El hombre debe vigilar próstata, riñones, sistema urinario.';
+        break;
+
+        case '3':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por esta vibración 3, serán años donde probablemente te sientas mucho más sociable, comunicativa, auto-expresiva y abierta a los nuevos contactos. En general, es un tránsito que trae buenas posibilidades y oportunidades, ya que contas con mayor jovialidad, alegría y optimismo. Tendrás que tener cuidado de no desperdiciar esta vibración por la dispersión. Hay grandes posibilidades de viajes y traslados.
+            <br>
+            En lo afectivo, es un momento propicio para tener hijos, adoptar o abrirte a la maternidad en cualquier expresión. En lo mental, seguramente cuentes con mucha creatividad, expresividad y buen humor, aunque por momentos pudieras resultar algo explosiva. Es importante que tomes como advertencia sobre el aspecto negativo de este tránsito, ligado a la palabra, y sobre el cuidado que debes tener antes de decir las cosas, ya que podés lastimar sin darte cuenta.
+            <br>
+            En lo laboral, los buenos contactos suelen traer buenas posibilidades y oportunidades de crecimiento. Existe una vibración en torno al ascenso laboral y las buenas ganancias, siempre y cuando se focalice en ello. En cuanto a la salud, será importante que tengas en cuenta el cuidado de tu garganta, vías respiratorias, sobre todo en tendencias de asma y alergias; es lo que más se afecta durante este tránsito, que está muy ligado a lo emocional, por lo tanto, puede traer también aparejados problemas de tiroides y tendencia a engordar.';
+            break;
+
+        case '4':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por esta vibración, es probable que pases por momentos de mucho trabajo, rutina y orden; de gran esfuerzo, preocupación económica y necesidad de estabilidad. 
+            En lo afectivo, es muy probable que consolides una relación que venis manteniendo; o si no tenes un vínculo, es posible que conozcas a alguien que comenzará algo estable, si te permitís abrirte a ello. En este periodo no te mostrarás muy afectiva, vas a necesitar demostrar más los sentimientos para no caer en estados de hipersensibilidad, enojos o problemas de vinculación.
+            <br>
+            En lo laboral, es un período de mucho trabajo, no siempre bien remunerado, quizás muy rutinario y con algunas trabas u obstáculos; hay que contemplar tu creatividad para expandirte y sentirte en equilibrio y armonía. Es buen momento para ahorrar, al tener exceso de números 3 y 5, es posible que se tienda al derroche, entonces te costará lograr una estabilidad y previsión. En lo mental, contas con mucho detalle, orden y mentalidad responsable. Seguramente un poco encasillada en tus ideas y con gran capacidad de organización, orden y administración. En cuanto a la salud, se podría ver afectada la parte ósea, sobre todo las piernas, y hay una gran tendencia al mal carácter y mal humor que llevaría a guardarte todo, y, por consiguiente, a enfermedades.';
+            break;
+
+        case '5':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por la vibración 5, es probable que sienta grandes deseos de hacer cambios en todos los aspectos de tu vida, que no siempre resultarán beneficiosos porque los harás llevada por el impulso y la ansiedad. Son 5 años de cambios imprevistos y rápidos, movimientos, viajes cortos y largos. 
+            En lo afectivo, los deseos de cambio también afectan la pareja, si la tenes es probable que haya una sensación de inconformismo, que puede llevar a la infidelidad o a tomar decisiones sin pensar demasiado en las consecuencias, ya que es una vibración muy física.
+            <br>
+            En lo laboral, se te aconseja que ante los cambios que se te presenten pienses mucho antes de actuar. Si estás estudiando, podes hacer intercambios por estudio a otros lugares. Deberás adaptarte y acomodarte a las situaciones cambiantes e imprevistas con paciencia y comprensión. Vas a contar con mucha lucidez, ideas y gran invención, ya que la mente estará en constante movimiento.
+            <br>
+            En cuanto a la salud, existe la posibilidad de que vivas trastornos del sueño, dificultad para relajarte, estrés y probables trastornos en los órganos genitales. Es necesario que realices algún deporte o actividad para descargar la tensión que se acumula en este período.';
+            break;
+    
+        case '6':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, está transitando por esta vibración 6, es muy probable que sientas el peso de las responsabilidades. Sentirás deseos de pasar más tiempo junto a tus seres queridos, en el hogar, con la familia, y estarás rodeada de una gran vibración de amor.
+            <br>
+            En lo afectivo, podrías llegar a pasar por situaciones de extrema felicidad o de fracasos significativos. Posibilidades de concreción de un vínculo (mudarse juntos, matrimonio, etc) o separaciones y ruptras. Bajo esta vibración es probable que debas hacerte cargo de padres o suegros, o personas allegadas de la familia. Y existe la posibilidad tanto de nacimientos como de fallecimientos en la familia. Si te encontras junto a una letra de valor 9 (I o R) puede haber cambios en el hogar o mudanzas. En lo mental, seguramente necesites amar y sentirte amada y valorada. Esto se intensifica al prevalecer en tu mapa los números emotivos. Este tránsito marca los opuestos, alegrías o tristezas, nacimientos o muertes. Es posible que decidas asumir responsabilidades cívicas (escuela, comunidad, hospitales, etc.)
+            <br>
+            En lo laboral, es un buen tránsito para el dinero. Quizá tengas gente a cargo, mayores responsabilidades, y esto podría implicar ascensos. Bajo esta vibración los estudios se realizan con mayor responsabilidad, y aquellos que están cerca del final, se concluyen con éxito. En cuanto a la salud, se pueden presentar problemas circulatorios y trastornos de la salud relacionados a lo emocional, también es necesario que hagas chequeos por las tiroides, corazón; hay tendencia a engordar por lo que será necesaria una buena alimentación equilibrada y deporte; y a veces necesitarás manejar las emociones con especialistas que te guíen y auxilien.';
+        break;
+
+        case '7':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al transitar por esta vibración es posible que atravieses 7 años un tanto difíciles. Hay una gran tendencia a querer analizar todos los aspectos de tu vida, a asilarte, y a sentirte sola aun estando rodeada de gente. En su aspecto positivo, encontrarás una gran oportunidad para crecer intelectual e interiormente, ya que esta vibración concentra las energías en lo analítico e intelectual.
+            <br> 
+            En lo afectivo, pueden verse afectadas las relaciones de pareja y familiares, ya que la necesidad de búsqueda interior no permite las manifestaciones, y podrías mostrarte fría o alejada, algo que a la pareja le costará entender, sobre todo por estados de ánimo cambiantes y posibles angustias extremas. En lo mental, en este tiempo desplegarás una intuición súper desarrollada, un gran sentido de la reflexión y el análisis que pueden llevarte a buscar respuestas a varios de tus interrogantes existenciales. Al tener muchos dígitos 7 en tu Mapa, es muy probable que esta vibración se acentúe.
+            <br>
+            En lo laboral, hay mucha iniciativa, aunque hay caídas de perfeccionismo y crítica que no son productivas. No son convenientes las asociaciones, ni la idea de emprender negocios propios. En cuanto a la salud, por lo general es buena; aunque mal manejada lleva a angustia extrema, por lo que existe la posibilidad de volcarse a evitar la realidad; lo que acarrearía a algunas dependencias. Tanta actividad mental y análisis puede desembocar en picos de estrés y nerviosismo, por la autoexigencia y el perfeccionismo, por lo que también es posible que haya un déficit de energía y vitalidad, que llevará a que te sientas apática, aburrida y cansada constantemente. ';
+            break;
+
+        case '8':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, Estarás transitando por la vibración del número 8, cuando se transita esta vibración es probable que, durante estos 8 años vivas con gran fuerza de voluntad, más audaz y con mayor carisma. Son años de razonamiento, expansión y fuerza física. Probablemente des mucha más importancia a tu estado físico y sexual; y estarás volcada, casi por excelencia, a lo material y mental. 
+            En lo afectivo, buscarás pareja, pero como un objetivo más, usando tu carisma y poder de seducción para encontrarla; vas a conectar con tu parte sensual y provocativa, es decir que hay una búsqueda de sentirte deseada, utilizando al otro para elevar tu autoestima. Puede que en este periodo también haya algunas crisis que lleven a separaciones o rupturas en el plano amoroso. Puede haber también problemas familiares por la falta de tolerancia de esta vibración.
+            <br>
+            También está asociado a las sucesiones y asuntos legales, tendrás que mirar bien antes de firmar cualquier papel. En lo laboral, existen grandes posibilidades de éxito, ascenso y logros. Claro que, como encontramos en el informe muchos números de carencia, es probable que dejes pasar estas oportunidades y no las aproveches en su totalidad. 
+            Es buen momento para poner un negocio propio. En lo mental, puede existir poca paciencia, agresividad e intolerancia que caracterizan este tránsito; lo que provoca tensiones y peleas, ya que hay grandes deseos de que todos hagan las cosas a tu modo. 
+            <br>
+            No es una vibración espiritual, ya que no tenés en tus números muchos dígitos de energía espiritual (en tu plano espiritual), por lo que puede que te vuelques a lo material con un gran peso y concentración en ello. En cuanto a la salud, debe haber un cuidado generalizado, ya que hay tendencias a complicaciones en todas las áreas.';
+            break;
+
+        case '9':
+            echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, estarás transitando por la vibración del número 9, te verás ante 9 años de muchas fluctuaciones, ambigüedades, y puede que atravieses momentos de mucha felicidad o un sinfín de pérdidas y pruebas. Vivirás bajo mucha emotividad; en lo afectivo, vivirás una gran sensibilidad, podes llegar a concretar tu relación de pareja en casamiento o darle un fin con una separación; también puede que haya algunas pérdidas de seres queridos o que ganes en número familiar (tener hijos, sobrinos, nietos, etc.). Serán sucesos intensos. Este tránsito de letra dependerá siempre de los factores a tu alrededor para un mayor análisis. En lo mental, existirá una gran apertura de visión humanitaria, la necesidad de comprender ante las pérdidas o pruebas. Se despierta en este tránsito un gran humanismo universal. En cuanto a la salud, el sistema nervioso, y el desequilibrio emocional son las partes más afectadas de este tránsito, debido a las fluctuaciones, cambios y transformaciones en todos los aspectos; es necesario preverlo para que no haya complicaciones severas.';
+            break;
+    }
+
+    echo '<br>';
+    echo '<br>';
+
+
+    switch ($transitoLetras2) {
+        case '1':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por la vibración 1, será un año en lo que es probable que te encuentres inquieta y con deseos de independizarte, rebelándote ante toda forma de opresión. Mostrarás actitudes más audaces, y probablemente vivas con los nervios a flor de piel. No importa que en tu Numeróscopo haya características de paciencia, porque durante este tránsito te costará ponerla en práctica. Seguramente durante lo que se extiende este tránsito, te muestres un poco egoísta.
+            <br>
+            En lo afectivo, irás tras la conquista de un vínculo sexual, si no tenes pareja, lo harás sin buscar demasiados compromisos, más que nada buscando la variedad; en cambio sí en este tránsito estas en pareja, es posible que te abras al deseo y a la sensualidad. En lo mental, contarás con nuevas ideas, una mente muy lúcida y extremadamente activa, que necesitará tiempo para relajarse.
+            <br> 
+            En lo laboral, buscarás cambiar de trabajo, es posible que, llevada por la insatisfacción, buscando reconocimiento económico y personal. Es un buen año para iniciar nuevas actividades y retomar estudios ya comenzados. En cuanto a la salud, deberás cuidar aspectos relacionados a la circulación sanguínea, estrés, corazón y controlar tu presión arterial.';
+            break;
+    
+        case '2':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por esta vibración 2, es probable que vivas bajo la influencia de estos dos años, sintiendo deseos de armonizar con todo y con todos, ya que representa una vibración de paz. Querrás ayudar a los demás, actuando diplomáticamente y seguramente soliciten tus consejos. También contarás con mayor intuición.
+            <br>
+            En lo afectivo, si estas en esta etapa soltera y además acompañan el panorama otros dígitos 2, como año Personal o dígito de la edad, es muy probable que encuentres pareja; y si ya posees pareja, es probable que se consolide la situación al punto de compromisos, mudanzas, matrimonio; aunque también pueden presentarse algunos conflictos que deberán aprender a resolver para que no determine la relación o caiga en rupturas. Será importante el diálogo y acuerdo debido; la cooperación y reciprocidad facilitarán que el lazo se consolide. En lo mental, probablemente vivas estos años con mucha capacidad intuitiva, mucha sensibilidad y quizá algunas inseguridades. Tal vez con hipersensibilidad y algunos vaivenes.
+            <br>
+            En lo laboral, es momento de sociedades, de trabajo en equipo, con otros o para otros, y seguramente necesites pedir consejos antes de actuar o tomar decisiones. En cuanto a la salud, pueden surgir problemas digestivos, úlceras, gastritis y problemas intestinales por no exteriorizar las emociones. También deberás prestar atención al aparato reproductivo, ovarios, útero y mamas, y según el año Personal o edad que esté transitando, puede ser un período muy fértil. El hombre debe vigilar próstata, riñones, sistema urinario.';
+        break;
+
+        case '3':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por esta vibración 3, serán años donde probablemente te sientas mucho más sociable, comunicativa, auto-expresiva y abierta a los nuevos contactos. En general, es un tránsito que trae buenas posibilidades y oportunidades, ya que contas con mayor jovialidad, alegría y optimismo. Tendrás que tener cuidado de no desperdiciar esta vibración por la dispersión. Hay grandes posibilidades de viajes y traslados.
+            <br>
+            En lo afectivo, es un momento propicio para tener hijos, adoptar o abrirte a la maternidad en cualquier expresión. En lo mental, seguramente cuentes con mucha creatividad, expresividad y buen humor, aunque por momentos pudieras resultar algo explosiva. Es importante que tomes como advertencia sobre el aspecto negativo de este tránsito, ligado a la palabra, y sobre el cuidado que debes tener antes de decir las cosas, ya que podés lastimar sin darte cuenta.
+            <br>
+            En lo laboral, los buenos contactos suelen traer buenas posibilidades y oportunidades de crecimiento. Existe una vibración en torno al ascenso laboral y las buenas ganancias, siempre y cuando se focalice en ello. En cuanto a la salud, será importante que tengas en cuenta el cuidado de tu garganta, vías respiratorias, sobre todo en tendencias de asma y alergias; es lo que más se afecta durante este tránsito, que está muy ligado a lo emocional, por lo tanto, puede traer también aparejados problemas de tiroides y tendencia a engordar.';
+            break;
+
+        case '4':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por esta vibración, es probable que pases por momentos de mucho trabajo, rutina y orden; de gran esfuerzo, preocupación económica y necesidad de estabilidad. 
+            En lo afectivo, es muy probable que consolides una relación que venis manteniendo; o si no tenes un vínculo, es posible que conozcas a alguien que comenzará algo estable, si te permitís abrirte a ello. En este periodo no te mostrarás muy afectiva, vas a necesitar demostrar más los sentimientos para no caer en estados de hipersensibilidad, enojos o problemas de vinculación.
+            <br>
+            En lo laboral, es un período de mucho trabajo, no siempre bien remunerado, quizás muy rutinario y con algunas trabas u obstáculos; hay que contemplar tu creatividad para expandirte y sentirte en equilibrio y armonía. Es buen momento para ahorrar, al tener exceso de números 3 y 5, es posible que se tienda al derroche, entonces te costará lograr una estabilidad y previsión. En lo mental, contas con mucho detalle, orden y mentalidad responsable. Seguramente un poco encasillada en tus ideas y con gran capacidad de organización, orden y administración. En cuanto a la salud, se podría ver afectada la parte ósea, sobre todo las piernas, y hay una gran tendencia al mal carácter y mal humor que llevaría a guardarte todo, y, por consiguiente, a enfermedades.';
+            break;
+
+        case '5':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por la vibración 5, es probable que sienta grandes deseos de hacer cambios en todos los aspectos de tu vida, que no siempre resultarán beneficiosos porque los harás llevada por el impulso y la ansiedad. Son 5 años de cambios imprevistos y rápidos, movimientos, viajes cortos y largos. 
+            En lo afectivo, los deseos de cambio también afectan la pareja, si la tenes es probable que haya una sensación de inconformismo, que puede llevar a la infidelidad o a tomar decisiones sin pensar demasiado en las consecuencias, ya que es una vibración muy física.
+            <br>
+            En lo laboral, se te aconseja que ante los cambios que se te presenten pienses mucho antes de actuar. Si estás estudiando, podes hacer intercambios por estudio a otros lugares. Deberás adaptarte y acomodarte a las situaciones cambiantes e imprevistas con paciencia y comprensión. Vas a contar con mucha lucidez, ideas y gran invención, ya que la mente estará en constante movimiento.
+            <br>
+            En cuanto a la salud, existe la posibilidad de que vivas trastornos del sueño, dificultad para relajarte, estrés y probables trastornos en los órganos genitales. Es necesario que realices algún deporte o actividad para descargar la tensión que se acumula en este período.';
+            break;
+    
+        case '6':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, está transitando por esta vibración 6, es muy probable que sientas el peso de las responsabilidades. Sentirás deseos de pasar más tiempo junto a tus seres queridos, en el hogar, con la familia, y estarás rodeada de una gran vibración de amor.
+            <br>
+            En lo afectivo, podrías llegar a pasar por situaciones de extrema felicidad o de fracasos significativos. Posibilidades de concreción de un vínculo (mudarse juntos, matrimonio, etc) o separaciones y ruptras. Bajo esta vibración es probable que debas hacerte cargo de padres o suegros, o personas allegadas de la familia. Y existe la posibilidad tanto de nacimientos como de fallecimientos en la familia. Si te encontras junto a una letra de valor 9 (I o R) puede haber cambios en el hogar o mudanzas. En lo mental, seguramente necesites amar y sentirte amada y valorada. Esto se intensifica al prevalecer en tu mapa los números emotivos. Este tránsito marca los opuestos, alegrías o tristezas, nacimientos o muertes. Es posible que decidas asumir responsabilidades cívicas (escuela, comunidad, hospitales, etc.)
+            <br>
+            En lo laboral, es un buen tránsito para el dinero. Quizá tengas gente a cargo, mayores responsabilidades, y esto podría implicar ascensos. Bajo esta vibración los estudios se realizan con mayor responsabilidad, y aquellos que están cerca del final, se concluyen con éxito. En cuanto a la salud, se pueden presentar problemas circulatorios y trastornos de la salud relacionados a lo emocional, también es necesario que hagas chequeos por las tiroides, corazón; hay tendencia a engordar por lo que será necesaria una buena alimentación equilibrada y deporte; y a veces necesitarás manejar las emociones con especialistas que te guíen y auxilien.';
+        break;
+
+        case '7':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al transitar por esta vibración es posible que atravieses 7 años un tanto difíciles. Hay una gran tendencia a querer analizar todos los aspectos de tu vida, a asilarte, y a sentirte sola aun estando rodeada de gente. En su aspecto positivo, encontrarás una gran oportunidad para crecer intelectual e interiormente, ya que esta vibración concentra las energías en lo analítico e intelectual.
+            <br> 
+            En lo afectivo, pueden verse afectadas las relaciones de pareja y familiares, ya que la necesidad de búsqueda interior no permite las manifestaciones, y podrías mostrarte fría o alejada, algo que a la pareja le costará entender, sobre todo por estados de ánimo cambiantes y posibles angustias extremas. En lo mental, en este tiempo desplegarás una intuición súper desarrollada, un gran sentido de la reflexión y el análisis que pueden llevarte a buscar respuestas a varios de tus interrogantes existenciales. Al tener muchos dígitos 7 en tu Mapa, es muy probable que esta vibración se acentúe.
+            <br>
+            En lo laboral, hay mucha iniciativa, aunque hay caídas de perfeccionismo y crítica que no son productivas. No son convenientes las asociaciones, ni la idea de emprender negocios propios. En cuanto a la salud, por lo general es buena; aunque mal manejada lleva a angustia extrema, por lo que existe la posibilidad de volcarse a evitar la realidad; lo que acarrearía a algunas dependencias. Tanta actividad mental y análisis puede desembocar en picos de estrés y nerviosismo, por la autoexigencia y el perfeccionismo, por lo que también es posible que haya un déficit de energía y vitalidad, que llevará a que te sientas apática, aburrida y cansada constantemente. ';
+            break;
+
+        case '8':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, Estarás transitando por la vibración del número 8, cuando se transita esta vibración es probable que, durante estos 8 años vivas con gran fuerza de voluntad, más audaz y con mayor carisma. Son años de razonamiento, expansión y fuerza física. Probablemente des mucha más importancia a tu estado físico y sexual; y estarás volcada, casi por excelencia, a lo material y mental. 
+            En lo afectivo, buscarás pareja, pero como un objetivo más, usando tu carisma y poder de seducción para encontrarla; vas a conectar con tu parte sensual y provocativa, es decir que hay una búsqueda de sentirte deseada, utilizando al otro para elevar tu autoestima. Puede que en este periodo también haya algunas crisis que lleven a separaciones o rupturas en el plano amoroso. Puede haber también problemas familiares por la falta de tolerancia de esta vibración.
+            <br>
+            También está asociado a las sucesiones y asuntos legales, tendrás que mirar bien antes de firmar cualquier papel. En lo laboral, existen grandes posibilidades de éxito, ascenso y logros. Claro que, como encontramos en el informe muchos números de carencia, es probable que dejes pasar estas oportunidades y no las aproveches en su totalidad. 
+            Es buen momento para poner un negocio propio. En lo mental, puede existir poca paciencia, agresividad e intolerancia que caracterizan este tránsito; lo que provoca tensiones y peleas, ya que hay grandes deseos de que todos hagan las cosas a tu modo. 
+            <br>
+            No es una vibración espiritual, ya que no tenés en tus números muchos dígitos de energía espiritual (en tu plano espiritual), por lo que puede que te vuelques a lo material con un gran peso y concentración en ello. En cuanto a la salud, debe haber un cuidado generalizado, ya que hay tendencias a complicaciones en todas las áreas.';
+            break;
+
+        case '9':
+            echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, estarás transitando por la vibración del número 9, te verás ante 9 años de muchas fluctuaciones, ambigüedades, y puede que atravieses momentos de mucha felicidad o un sinfín de pérdidas y pruebas. Vivirás bajo mucha emotividad; en lo afectivo, vivirás una gran sensibilidad, podes llegar a concretar tu relación de pareja en casamiento o darle un fin con una separación; también puede que haya algunas pérdidas de seres queridos o que ganes en número familiar (tener hijos, sobrinos, nietos, etc.). Serán sucesos intensos. Este tránsito de letra dependerá siempre de los factores a tu alrededor para un mayor análisis. En lo mental, existirá una gran apertura de visión humanitaria, la necesidad de comprender ante las pérdidas o pruebas. Se despierta en este tránsito un gran humanismo universal. En cuanto a la salud, el sistema nervioso, y el desequilibrio emocional son las partes más afectadas de este tránsito, debido a las fluctuaciones, cambios y transformaciones en todos los aspectos; es necesario preverlo para que no haya complicaciones severas.';
+            break;
     }
     
 
