@@ -18,60 +18,11 @@
             <hr>
             <br>
             <label for=""><h4>Escencia/Deseo del Alma</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoDeal" value="si">
-                NO<input class="radios" type="radio" name="sinoDeal" value="no" checked>
-                <br>
-                <select class="controls" name="deal" id="">
-                        <option value=""></option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="11">11</option>
-                        <option value="22">22</option>
-                        <option value="33">33</option>
-                        <option value="44">44</option>
-                </select> 
-
-                <br>
-                <br>
-
-            <label for=""><h4>Imagen/Personalidad Externa</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoPeex" value="si">
-                NO<input class="radios" type="radio" name="sinoPeex" value="no" checked>
-                <br>
-                <select class="controls" name="peex" id="">
-                        <option value=""></option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="11">11</option>
-                        <option value="22">22</option>
-                        <option value="33">33</option>
-                        <option value="44">44</option>
-                </select>
-                <br>
-                <br>
-
-            <label for=""><h4>Misión/Destino</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoMide" value="si">
-                NO<input class="radios" type="radio" name="sinoMide" value="no" checked>
-                <br>
-                <select class="controls" name="mide" id="">
+            <br>
+            SI<input class="radios" type="radio" name="sinoDeal" value="si">
+            NO<input class="radios" type="radio" name="sinoDeal" value="no" checked>
+            <br>
+            <select class="controls" name="deal" id="">
                     <option value=""></option>
                     <option value="1">1</option>
                     <option value="2">2</option>
@@ -86,32 +37,81 @@
                     <option value="22">22</option>
                     <option value="33">33</option>
                     <option value="44">44</option>
-                </select>
+            </select> 
+
+            <br>
+            <br>
+
+            <label for=""><h4>Imagen/Personalidad Externa</h4></label>
+            <br>
+            SI<input class="radios" type="radio" name="sinoPeex" value="si">
+            NO<input class="radios" type="radio" name="sinoPeex" value="no" checked>
+            <br>
+            <select class="controls" name="peex" id="">
+                    <option value=""></option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="11">11</option>
+                    <option value="22">22</option>
+                    <option value="33">33</option>
+                    <option value="44">44</option>
+            </select>
+            <br>
+            <br>
+
+            <label for=""><h4>Misión/Destino</h4></label>
+            <br>
+            SI<input class="radios" type="radio" name="sinoMide" value="si">
+            NO<input class="radios" type="radio" name="sinoMide" value="no" checked>
+            <br>
+            <select class="controls" name="mide" id="">
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+                <option value="33">33</option>
+                <option value="44">44</option>
+            </select>
         
             <br>
             <br>
 
             <label for=""><h4>Arquetipo Numerológico</h4></label>
             <br>
-                SI<input class="radios" type="radio" name="sinoArque" value="si">
-                NO<input class="radios" type="radio" name="sinoArque" value="no" checked>
-                <br>
-                <select class="controls" name="arque" id="">
-                    <option value=""></option>
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
-                    <option value="7">7</option>
-                    <option value="8">8</option>
-                    <option value="9">9</option>
-                    <option value="11">11</option>
-                    <option value="22">22</option>
-                    <option value="33">33</option>
-                    <option value="44">44</option>
-                </select>
+            SI<input class="radios" type="radio" name="sinoArque" value="si">
+            NO<input class="radios" type="radio" name="sinoArque" value="no" checked>
+            <br>
+            <select class="controls" name="arque" id="">
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+                <option value="33">33</option>
+                <option value="44">44</option>
+            </select>
 
             <br>
             <br>
@@ -120,127 +120,127 @@
             
             <label for=""><h4>Sobre la energía que vibra en tu nombre</h4></label>
             <br>
-                SI<input class="radios" type="radio" name="sinoEvn" value="si">
-                NO<input class="radios"  type="radio" name="sinoEvn" value="no"checked>
-                <br>
-                <label for=""><h4>Primer nombre</h4></label>
-                <br>
-                <input class="controls" type="text" name="pimerNombreEnv">
-                <select class="controls" name="evn1" id="">
-                    <option value=""></option>
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
-                    <option value="7">7</option>
-                    <option value="8">8</option>
-                    <option value="9">9</option>
-                </select>
-                <br>
-                <label for=""><h4>Segundo nombre</h4></label>
-                <br>
-                <input class="controls" type="text" name="segundoNombreEnv">
-                <select class="controls" name="evn2" id="">
-                    <option value=""></option>
-                    <option value="0">0</option>
-                    <option value="1">1</option>
-                    <option value="2">2</option>
-                    <option value="3">3</option>
-                    <option value="4">4</option>
-                    <option value="5">5</option>
-                    <option value="6">6</option>
-                    <option value="7">7</option>
-                    <option value="8">8</option>
-                    <option value="9">9</option>
-                </select>
+            SI<input class="radios" type="radio" name="sinoEvn" value="si">
+            NO<input class="radios"  type="radio" name="sinoEvn" value="no"checked>
+            <br>
+            <label for=""><h4>Primer nombre</h4></label>
+            <br>
+            <input class="controls" type="text" name="pimerNombreEnv">
+            <select class="controls" name="evn1" id="">
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
+            <br>
+            <label for=""><h4>Segundo nombre</h4></label>
+            <br>
+            <input class="controls" type="text" name="segundoNombreEnv">
+            <select class="controls" name="evn2" id="">
+                <option value=""></option>
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+            </select>
 
             <br>
 
             <label for=""><h4>Vocal del Nombre</h4></label>
             <br>
-                <select class="controls" name="vono" id="">
-                    <option value=""></option>
-                    <option value="a">a</option>
-                    <option value="e">e</option>
-                    <option value="i">i</option>
-                    <option value="o">o</option>
-                    <option value="u">u</option>
-                </select>
+            <select class="controls" name="vono" id="">
+                <option value=""></option>
+                <option value="a">a</option>
+                <option value="e">e</option>
+                <option value="i">i</option>
+                <option value="o">o</option>
+                <option value="u">u</option>
+            </select>
 
             <br>
             
             <label for=""><h4>Consonante del Nombre</h4></label>
             <br>
-                <select class="controls" name="cono" id="">
-                    <option value=""></option>
-                    <option value="b">b</option>
-                    <option value="c">c</option>
-                    <option value="d">d</option>
-                    <option value="f">f</option>
-                    <option value="g">g</option>
-                    <option value="h">h</option>
-                    <option value="j">j</option>
-                    <option value="k">k</option>
-                    <option value="l">l</option>
-                    <option value="m">m</option>
-                    <option value="n">n</option>
-                    <option value="ñ">ñ</option>
-                    <option value="p">p</option>
-                    <option value="q">q</option>
-                    <option value="r">r</option>
-                    <option value="s">s</option>
-                    <option value="t">t</option>
-                    <option value="v">v</option>
-                    <option value="w">w</option>
-                    <option value="x">x</option>
-                    <option value="y">y</option>
-                    <option value="z">z</option>
-                </select>
+            <select class="controls" name="cono" id="">
+                <option value=""></option>
+                <option value="b">b</option>
+                <option value="c">c</option>
+                <option value="d">d</option>
+                <option value="f">f</option>
+                <option value="g">g</option>
+                <option value="h">h</option>
+                <option value="j">j</option>
+                <option value="k">k</option>
+                <option value="l">l</option>
+                <option value="m">m</option>
+                <option value="n">n</option>
+                <option value="ñ">ñ</option>
+                <option value="p">p</option>
+                <option value="q">q</option>
+                <option value="r">r</option>
+                <option value="s">s</option>
+                <option value="t">t</option>
+                <option value="v">v</option>
+                <option value="w">w</option>
+                <option value="x">x</option>
+                <option value="y">y</option>
+                <option value="z">z</option>
+            </select>
 
             <br>
             
             <label for=""><h4>Vocal del Segundo Nombre</h4></label>
             <br>
-                <select class="controls" name="voseno" id="">
-                    <option value=""></option>
-                    <option value="a">a</option>
-                    <option value="e">e</option>
-                    <option value="i">i</option>
-                    <option value="o">o</option>
-                    <option value="u">u</option>
-                </select>
+            <select class="controls" name="voseno" id="">
+                <option value=""></option>
+                <option value="a">a</option>
+                <option value="e">e</option>
+                <option value="i">i</option>
+                <option value="o">o</option>
+                <option value="u">u</option>
+            </select>
 
             <br>
 
             <label for=""><h4>Consonante del Segundo Nombre</h4></label>
             <br>
-                <select class="controls" name="coseno" id="">
-                    <option value=""></option>
-                    <option value="b">b</option>
-                    <option value="c">c</option>
-                    <option value="d">d</option>
-                    <option value="f">f</option>
-                    <option value="g">g</option>
-                    <option value="h">h</option>
-                    <option value="j">j</option>
-                    <option value="k">k</option>
-                    <option value="l">l</option>
-                    <option value="m">m</option>
-                    <option value="n">n</option>
-                    <option value="ñ">ñ</option>
-                    <option value="p">p</option>
-                    <option value="q">q</option>
-                    <option value="r">r</option>
-                    <option value="s">s</option>
-                    <option value="t">t</option>
-                    <option value="v">v</option>
-                    <option value="w">w</option>
-                    <option value="x">x</option>
-                    <option value="y">y</option>
-                    <option value="z">z</option>
-                </select>
+            <select class="controls" name="coseno" id="">
+                <option value=""></option>
+                <option value="b">b</option>
+                <option value="c">c</option>
+                <option value="d">d</option>
+                <option value="f">f</option>
+                <option value="g">g</option>
+                <option value="h">h</option>
+                <option value="j">j</option>
+                <option value="k">k</option>
+                <option value="l">l</option>
+                <option value="m">m</option>
+                <option value="n">n</option>
+                <option value="ñ">ñ</option>
+                <option value="p">p</option>
+                <option value="q">q</option>
+                <option value="r">r</option>
+                <option value="s">s</option>
+                <option value="t">t</option>
+                <option value="v">v</option>
+                <option value="w">w</option>
+                <option value="x">x</option>
+                <option value="y">y</option>
+                <option value="z">z</option>
+            </select>
             <br>
             <br>
             <hr>
@@ -248,25 +248,25 @@
 
             <label for=""><h4>Lecciones Kármicas</h4></label>
             <br>
-                SI<input class="radios" type="radio" name="sinoLeka" value="si">
-                NO<input class="radios"  type="radio" name="sinoLeka" value="no"checked>
+            SI<input class="radios" type="radio" name="sinoLeka" value="si">
+            NO<input class="radios"  type="radio" name="sinoLeka" value="no"checked>
             <br>
             <select class="controls" name="leka" id="">
-                        <option value=""></option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="11">11</option>
-                        <option value="22">22</option>
-                        <option value="33">33</option>
-                        <option value="44">44</option>
-                </select>
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+                <option value="33">33</option>
+                <option value="44">44</option>
+            </select>
             
             <br>
             <br>
@@ -309,10 +309,10 @@
             <br>
             <hr>
             <br>
-                <label for=""><h4>Planos de existencia</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoPla" value="si">
-                NO<input class="radios" type="radio" name="sinoPla" value="no"checked>
+            <label for=""><h4>Planos de existencia</h4></label>
+            <br>
+            SI<input class="radios" type="radio" name="sinoPla" value="si">
+            NO<input class="radios" type="radio" name="sinoPla" value="no"checked>
             <br>            
             <label for=""><b>Plano Mental</b></label>
             <select class="controls" name="planoMental" id="">
@@ -432,20 +432,18 @@
                 <option value="27">27</option>
                 <option value="30">30</option>
             </select>
-        
-
-                                                               
+                                                  
             <br>
             <br>
             <hr>
             <br>
             
             <label for=""><h4>Número de madurez</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoMadu" value="si">
-                NO<input class="radios" type="radio" name="sinoMadu" value="no" checked>  
-                <br>
-                <select class="controls" name="madu" id="">
+            <br>
+            SI<input class="radios" type="radio" name="sinoMadu" value="si">
+            NO<input class="radios" type="radio" name="sinoMadu" value="no" checked>  
+            <br>
+            <select class="controls" name="madu" id="">
                 <option value=""></option>
                 <option value="1">1</option>
                 <option value="2">2</option>
@@ -466,11 +464,11 @@
             <br>
 
             <label for=""><h4>Clave personal</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoCla" value="si">
-                NO<input class="radios" type="radio" name="sinoCla" value="no" checked>  
-                <br>
-                <select class="controls" name="clavePer" id="">
+            <br>
+            SI<input class="radios" type="radio" name="sinoCla" value="si">
+            NO<input class="radios" type="radio" name="sinoCla" value="no" checked>  
+            <br>
+            <select class="controls" name="clavePer" id="">
                 <option value=""></option>
                 <option value="1">1</option>
                 <option value="2">2</option>
@@ -533,7 +531,8 @@
             <br>
             <hr>
             <br>
-                <label for=""><h4>Números en Exceso</h4></label>
+            
+            <label for=""><h4>Números en Exceso</h4></label>
             <br>
             <input type="checkbox" class="check" name="siExce" value="siExce">Encabezado
             <input type="checkbox" class="check" name="1Exce" value="1Exce">1
@@ -551,7 +550,7 @@
             <br>
             <hr>
             <br>
-                <label for=""><h4>Números en Carencia</h4></label>
+            <label for=""><h4>Números en Carencia</h4></label>
             <br>
             <input type="checkbox" class="check" name="siCare" value="siCare">Encabezado
             <input type="checkbox" class="check" name="1Care" value="1Care">1
@@ -669,6 +668,7 @@
                 <option value="8">8</option>
                 <option value="9">9</option>
             </select>
+            
             <br>
             <label for=""><b>(Opcional)</b></label>
             <br>
@@ -688,10 +688,12 @@
                 <option value="8">8</option>
                 <option value="9">9</option>
             </select>
+           
             <br>
             <br>
             <hr>
             <br>
+
             <label for=""><h4>Numerología Predictiva</h4></label>
             <br>
             Encabezado<input class="radios" type="radio" name="sinoNumPre" value="si">Si
@@ -736,7 +738,9 @@
                 <option value="11">11</option>
                 <option value="22">22</option>
             </select>
+
             <br>
+
             Segundo Cuatrimestre<select class="controls" name="cuatri2" id=""> 
                 <option value=""></option>
                 <option value="1">1</option>
@@ -751,7 +755,9 @@
                 <option value="11">11</option>
                 <option value="22">22</option>
             </select>
+
             <br>
+
             Tercer Cuatrimestre<select class="controls" name="cuatri3" id=""> 
                 <option value=""></option>
                 <option value="1">1</option>
@@ -767,7 +773,6 @@
                 <option value="22">22</option>
             </select>
             <br>
-
             <br>
             <br>
             <hr>
@@ -791,7 +796,9 @@
                 <option value="9">9</option>
                 <option value="11">11</option>
             </select>
+
             <br>
+
             Segundo Semestre<select class="controls" name="semestre2" id=""> 
                 <option value=""></option>
                 <option value="1">1</option>
@@ -805,7 +812,9 @@
                 <option value="9">9</option>
                 <option value="11">11</option>
             </select>
+
             <br>
+            
             Interpretación Anual<select class="controls" name="interAnual" id=""> 
                 <option value=""></option>
                 <option value="1">1</option>
@@ -820,15 +829,6 @@
                 <option value="11">11</option>
                 <option value="22">22</option>
             </select>
-
-            
-
-
-            
-            
-                
-                 
-
 
                                                         <!-- BOTON ENVIAR  -->
                                                         <!-- BOTON ENVIAR  -->

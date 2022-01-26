@@ -80,331 +80,330 @@ $semestre2 = $_POST['semestre2'];
 $interAnual = $_POST['interAnual'];
 
 
-
-
-
-
-
-
-
-
-
-
-
-
                                                             // DESEO DEL ALMA
                                                             // DESEO DEL ALMA
                                                             // DESEO DEL ALMA
 
-switch ($sinoDeal){
+    switch ($sinoDeal){
 
-    case 'si':
-        echo 'INFORME DE AUTOCONOCIMIENTO';
-            echo '<br>';
-            echo 'Este informe es una herramienta para conocer tus dones y potencialidades, tu lado constructivo (nutricio), negativo y destructivo, lo que te preparará conscientemente para una nueva etapa de esclarecimiento espiritual. Ya que somos seres en movimiento constante, a cada momento de nuestra evolución se presentarán barreras y obstáculos, es importante conocer tus habilidades y herramientas para hacer de esto un proceso de crecimiento. Conocer la Ley Kármica de causa y efecto te permite focalizarte más en ser protagonista de tu destino, dominar aquellas cualidades y debilidades que posees para poder sortear mejor aquello que se presente. Este informe te acerca a las lecciones Kármicas, las cuales reflejan aquellas cualidades y/o debilidades que posee tu alma para esta vida, te muestran las experiencias u obligaciones que se han eludido en vidas pasadas, y hoy se presentan ante vos para ser responsable, saldarlas y convertirlas en experiencia. Tener esta herramienta en tus manos es tener un mapa de tu Ser, por lo que será una gran ayuda para la sabia toma de decisiones presentes y futuras. Este informe te acerca hacia el arquetipo numerológico, los deseos del alma y la misión de tu vida, los atributos de tu personalidad, tu destino, lo que viniste a trabajar y aprender en esta vida, tus talentos personales, cualidades, habilidades y tus sombras que debes reconocer para evolucionar conscientemente.';
-            echo '<br>';
-            echo "Deseo del Alma";
-            echo '<br>';
-            echo 'Comenzamos por el deseo del ALMA, que revela tu deseo más profundo, ese deseo de corazón, tu fuerza interna, tus inclinaciones ocultas, ambiciones, aspiraciones, aquellos ideales que te movilizan. Es lo que queremos ser y hacer en la vida, es donde nos sentimos a gusto con lo que creamos y con quienes estamos. Es muy importante que seas consciente de esto, ya que lo traes con vos y tenés que tratar de expresarlo y potenciarlo para tu evolución consciente.';
-            echo "<br>";
-    
-}
-                                        
-switch ($deal){
-        case 1:
-            
-            echo "Según la vibración numérica 1, el deseo de tu alma es dirigir, ser guía, líder. Tu alma, al vibrar con la energía del liderazgo prefiere trabajar sola o con personas que pueda guiar. Tu alma desea crear y ser original, ella no se detiene en los detalles, sino que le llaman las cuestiones más importantes. Esta alma desea ser capaz de grandes logros. Tu alma es originadora de ideas y de acciones, con la fuerza de su voluntad y su capacidad pionera e individualista, genera iniciativa. El número 1, al ser el punto de partida hace que tu alma tenga deseos de dar el impulso inicial, no teme los reinicios ni los cambios, al contrario, los toma como desafíos, como una semilla de la que puede tener grandes cosechas. Esta alma tiene grandes deseos de inventiva, de liderazgo y voluntad; se destaca por la toma de decisiones, la iniciativa, individualidad y posicionamiento personal, lo que empuja a tu alma a tomar siempre las riendas de tu vida. Tu alma, con vibración del número 1, necesita cultivar la bondad, humildad y el interés humano. Los números del alma reducidos a uno, carecen en su mayoría de paciencia, diplomacia y tacto, que deberán cultivar durante toda su vida.
-            <br>
-            Cuando el número 1 vibra en positivo habla de una persona que busca oportunidades para lucirse. Quiere sentir que su familia la honra. Es leal en la amistad, estrictamente justa en los negocios, es líder segura. Tiene valentía e inteligencia para explorar lo desconocido. El alma con vibración 1 aprende más por experiencia. Quiere ser independiente para escoger sus propias acciones y aventuras. Tiene un impulso creador y original; espíritu precursor, pues le agrada explorar. Ambiciona que la escuchen. Quiere ser jefa, ya que tiene cualidades de mando.
-            <br>
-            Cuando no se ha desarrollado la vibración del 1, ante la carencia de esta vibración tu alma puede sentirse perdida, ya que no se está desplegando su potencial, lo que llevará a posibles bloqueos, sin iniciativas ni voluntad de acción; no está motivada por la vida y suele caer en indecisiones constantemente; necesita que los demás le digan qué hacer, cómo actuar. No son muy emotivos y el amor no es realmente necesario para su felicidad.
-            <br>
-            En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de egolatría, cayendo en la crítica y la impaciencia. En su aspecto negativo, es proclive a mandar a los demás y salirse con la suya. Si esta condición negativa se mantiene, deberá precaverse de la pereza, el cinismo, la inseguridad en lo que hace y en la preposición de mando hacia los demás.
-            <br>
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre el exceso de autoestima, la autosuficiencia, egoísmo, exceso de protagonismo, intolerancia y posesividad que pueden llevar a esta alma a encerrarse en soberbia. O bien, falta de confianza, iniciativa y voluntad; indecisión, inseguridad y dificultades para afirmar una imagen de sí misma que llevan a encerar a tu alma en una gran tristeza y soledad. Un alma vibrando en negativo posee muchos miedos que estancan, le teme a la vida, siente que no es parte de ningún sitio, lo que lleva a que se sienta siempre rechazada, excluida y a la defensiva.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por el miedo, la inestabilidad, obstinación, fanfarronería, tiranía, intolerancia, dominación. Un alma vibrando con la fuerza del 1 en forma destructiva es una gran opresora y puede dirigir a los demás para garantizar su propio bien; o por gusto a la dominación. Puede caer en estados de malicia y perversión.";
-            break;
+        case 'si':
+            echo 'INFORME DE AUTOCONOCIMIENTO';
+                echo '<br>';
+                echo 'Este informe es una herramienta para conocer tus dones y potencialidades, tu lado constructivo (nutricio), negativo y destructivo, lo que te preparará conscientemente para una nueva etapa de esclarecimiento espiritual. Ya que somos seres en movimiento constante, a cada momento de nuestra evolución se presentarán barreras y obstáculos, es importante conocer tus habilidades y herramientas para hacer de esto un proceso de crecimiento. Conocer la Ley Kármica de causa y efecto te permite focalizarte más en ser protagonista de tu destino, dominar aquellas cualidades y debilidades que posees para poder sortear mejor aquello que se presente. Este informe te acerca a las lecciones Kármicas, las cuales reflejan aquellas cualidades y/o debilidades que posee tu alma para esta vida, te muestran las experiencias u obligaciones que se han eludido en vidas pasadas, y hoy se presentan ante vos para ser responsable, saldarlas y convertirlas en experiencia. Tener esta herramienta en tus manos es tener un mapa de tu Ser, por lo que será una gran ayuda para la sabia toma de decisiones presentes y futuras. Este informe te acerca hacia el arquetipo numerológico, los deseos del alma y la misión de tu vida, los atributos de tu personalidad, tu destino, lo que viniste a trabajar y aprender en esta vida, tus talentos personales, cualidades, habilidades y tus sombras que debes reconocer para evolucionar conscientemente.';
+                echo '<br>';
+                echo "Deseo del Alma";
+                echo '<br>';
+                echo 'Comenzamos por el deseo del ALMA, que revela tu deseo más profundo, ese deseo de corazón, tu fuerza interna, tus inclinaciones ocultas, ambiciones, aspiraciones, aquellos ideales que te movilizan. Es lo que queremos ser y hacer en la vida, es donde nos sentimos a gusto con lo que creamos y con quienes estamos. Es muy importante que seas consciente de esto, ya que lo traes con vos y tenés que tratar de expresarlo y potenciarlo para tu evolución consciente.';
+                echo "<br>";
+                break;
 
-        case 2:
-            echo "Según la vibración numérica 2, el deseo de tu alma es tener capacidad de recepción, sensibilidad y cooperación. Es decir, que estamos frente a un alma receptora de una emocionalidad muy fuerte, una gran sensibilidad, intuición y vulnerabilidad. Tu alma busca ser una buena mediadora y escuchar a todas las partes. Además, sos increíblemente sensible, te preocupas por el bienestar la personas a tu alrededor, sin embargo, por esta misma razón, en reiteradas oportunidades te olvidas de ocuparte de vos misma, de apreciarte y complacerte.
-            <br>
-            Al tener la capacidad de ver los dos lados de una situación, servís de equilibrio de fuerzas opuestas y te califica como excelente árbitra o pacificadora. El número 2 es sumamente cooperativo, ya que es considerado un mensajero de la paz, por lo que el deseo de tu alma es que potencies tu don de diplomática, pacificadora y sostén.
-            <br>
-            El deseo de tu alma es desde el amor y la compañía; logrando trabajar para los demás y junto con ellos. Por lo general, las personas que portan en su esencia el numero 2 suelen ser tímidas, sensibles y faltas de confianza en sí mismas, por lo que el deseo de tu alma es de evaluar tus dones y capacidades para apoyarse sobre vos misma.
-            <br>
-            El deseo de tu alma es el de armonía y paz, te solicita que amplíes tu capacidad de la asociación y el trabajo en equipo. La vibración 2 enseña a evolucionar en la colaboración, a desarrollar el control de las emociones y la capacidad de dar y recibir. Esta vibración representa la dualidad, necesita sentir y ser.
-            <br> 
-            También nos habla de una persona que necesita constantemente de la mirada de aprobación del otro, porque duda de sí misma, no tiene un gran sentido de la identidad; por lo que el deseo de tu alma es el de introducirte al mundo de las emociones y el modo de vivirlas. Definir tu autoestima y cómo te relacionas con cualquier vínculo de dos. Al vibrar tu alma con la energía del número 2 necesita cultivar firmeza de propósito, cultivar un plan definido en se vida; necesita definirse.
-            <br>
-            Cuando el número 2 vibra en positivo habla de una persona que no le importa brillar por sobre los demás; pretende holgura y confort sin exigir fortuna ni lujo. No es ambiciosa, no insiste en el reconocimiento de sus derechos y de su punto de vista. Es bondadosa, considerada, pacificadora y diplomática. Atrae numerosas amistades, aun a aquellos que son enemigos mutuos, guarda todos los secretos, los propios y los de los demás. No es demasiado franca por temor a causar angustia, es muy sensible y emotiva, se enamora fácilmente y llora con frecuencia; es indulgente y delicada. Se deja engañar fácilmente, no tiene tendencia a la disciplina para sí misma ni para los demás. Pacífica, armoniosa, cariñosa, ama el arte, lo rítmico y musical. No pensás en la puntualidad ni en la rigidez. Te conformás con poco, frecuentemente sos estudiosa por lo que acumulas mucha sabiduría; atraes sea lo positivo que lo negativo hacia vos misma, absorbiendo fácilmente lo de tu entorno.
-            <br>
-            Cuando no se desarrolla la vibración del número 2, puede generar actitudes tales como timidez, sumisión, indecisión, extrema dualidad y vulnerabilidad. La carencia de esta vibración, genera una alta emotividad, que, por una parte, puede transformarse en postura de víctima, o bien, por temor a expresar estas emociones, puede llevar a la falta de confianza, de tacto, indiferencia, sensibilidad, egocentrismo y a una posible referencia femenina distorsionada.
-            En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos individualistas, donde el amor no se ha desarrollado o se ha bloqueado, al punto de alejarse de las personas y aislarse. Considera que no debe dar explicaciones de sus actos y no desea que se inmiscuyan en sus asuntos; por lo tanto, oculta sus problemas o necesidades por orgullo; y como cree que nadie puede ayudarla, prefiere resolver todo por sí misma y en soledad, sin buscar algún tipo de ayuda.
-            <br>
-            Considera que nadie se encuentra mejor capacitado que ella misma para resolver los problemas. Esta autosuficiencia, les puede generar gran tensión, angustia y enojo, les resulta muy difícil pedir ayuda y delegar. La dualidad del 2 está muy presente en la vibración negativa, por ejemplo, implica que haya un conflicto interno entre el sentimiento de que “deben” ayudarla y que “no saben” tanto como ella; también entre “amor - odio”, donde la persona pasa de estados amorosos a los de odiar en segundos. La persona suele enmascarar en falsa alegría el malestar que le contrae esta dualidad.
-            <br>  
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que tiene la necesidad de llamar la atención de su entorno por una gran carencia afectiva; con caídas extremadamente materialistas, codicia, egoísmo, reclamando ser oída constantemente, muchas veces chocando con su entorno por sus demandas, sus derechos y la necesidad de imponer su punto de vista por sobre los demás. Esto la hace aislarse de su entorno, volviéndose distante, reservada, orgullosa, solitaria y autosuficiente. Suelen ser extremadamente individualistas y dada su elevada capacidad intelectual, encuentran difícil hallar quienes puedan comprenderla; lo que la lleva a un sentimiento de frustración que le genera el no poder encontrar un compañero que le brinde aventuras intelectuales o se encuentre en su nivel. Esto puede impulsarla a volverse arrogante e intolerante con su entorno. La suele invadir un sentimiento de aburrimiento, porque nada le resulta interesante, o que valga la pena invertir tiempo en ello.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por la desconfianza hacia el entorno, lo que la pone en situaciones de paranoia y descontrol emocional. Encontrándose completamente a la defensiva y en guerra con el entorno, tornándose despiadada e insensible. El nivel de franqueza sin filtros puede llegar a herir al entorno y a sí misma. Se torna demasiado crítica, intolerante y arrogante hacia los demás, lo que puede llevar a estados de enojo acumulado que repercute en su cuerpo y mente.";
-            break;
-
-        case 3:
-            echo "Según la vibración numérica 3, tu deseo del alma es dar alegría, dicha y felicidad, tu alma tiene un gran deseo de derramar su amor, energía y talentos. Según la vibración del número 3 tenés un vivo interés por las actividades, buscas popularidad y muchos amigos, belleza en todos sus contornos.
-            <br>
-            Lo importante de esta vibración es que nunca te invade la preocupación en extremo ni permitís que la depresión te domine. Tomas la vida como ella se presenta y te reís de la decepción y el fracaso. Relacionas todo en la vida con lo emocional, pero nunca trágicamente. No te derrumbas por errores de amor o de negocios; sos de aquellas personas que vuelven a ensayar. Nunca pedís más de lo que encontrás, siempre estás interesada, entretenida. Tu alma vibra con el arte y la diversión, por lo que sos expresiva, intuitiva e innovadora; te encanta recibir, sos muy buena anfitriona y buscás que todo el mundo se divierta. Amas a los niños y animales domésticos. Existe un gusto por el cortejo y la sensualidad, aunque no sos infiel. Haces de la vida un juego.
-            <br>
-            Tu deseo del alma es expresarte cuando hablas, escribís o actúas, estás dotada de creación y creatividad. Soñás grandes aventuras, ya que pensás en gran escala. Por tener una mente rápida y aguda, aprendes con facilidad. Podes hacer casi todo de lo que te propones realizar. Estás dotada de súper-imaginación, lo que te hace apta para el espectáculo. Esto puede conducir a muchas oportunidades y éxito financiero. Al ser tu vibración 3 debés precaverte de no dispersar tu talento en varias direcciones a la vez. 
-            <br>
-            Al poseer una vibración 3 en tu alma, te movilizan las ambiciones, el ser independiente e intrépida. Como pensadora profunda, podes adquirir conocimientos con facilidad. También hay que advertir que te disgusta lo minucioso y rutinario. Tenés tendencia a dispersar tu talento, por lo que también se te da la enseñanza y exposición.
-            <br>
-            Los números 3 necesitan cultivar en su alma concentración y paciencia, tolerancia y a no dispersar su energía y talento. Los números tres pueden triunfar como oradores, escritores, actores, músicos, pintores, humoristas, comediantes, directores, comerciantes, especialmente de productos de belleza o sanitarios.
-            <br>
-            Hay tres tipos de tres: Uno es la variedad estudiosa o mental; el otro la variedad social; y el tercero, la variedad emotiva y levemente inestable. Por lo que tu alma puede movilizar tu energía según en la variedad que te encuentres.  
-            <br>
-            Cuando el número 3 vibra en positivo habla de una persona que promueve una expresión franca y altruista; permitiendo que su alma se comunique con inspiración, sensibilidad, y disfrute; siendo muy independiente para expresarte; creativa; entusiasta y sociable.
-            <br>
-            Cuando hay una carencia de la vibración del 3, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra dificultades de expresión y comunicación, pesimismo, mal humor, rigidez mental, que impide el desarrollo de la imaginación y dificultades para desarrollar también la creatividad.
-            <br>
-            Si vibra en desequilibrio puede generar actitudes de superficialidad, dispersión, inquietud, excesiva franqueza, falta de practicidad, celos e inmadurez. 
-            <br>
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee obsesiones, devoción por el trabajo, excesivo entusiasmo que hace que su energía se disperse y lleva al mal humor o cambios repentinos de estados de ánimo. Con continuas quejas, crítica negativa, ve el mundo en su contra y ponerse a la defensiva constantemente, llevando finalmente su mal estado a los demás y contaminando espacios con chismerío, extravagancia, vanidad, trivialidad, y superficialidad. Conlleva al apego excesivo, que deviene en incertidumbre, dualidad, miedos y falta de autoestima.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona con un gran pesimismo, falso orgullo, intolerancia, celos, hipocresía, avaricia, engaño, chismorreo.";
-            break;
-
-        case 4:
-            echo "Según la vibración numérica 4, tu deseo del alma es obtener estabilidad, respetabilidad y solidez, queriendo servir y ser una roca de seguridad; estando dispuesta a sacrificarte para que otros se beneficien; siendo disciplinada hacia vos misma y quienes te rodean. Evocas el sentido del deber y de la disciplina, lo que nos habla de una construcción sólida. Tu alma está dotada de una fuerte voluntad que deberías usar de manera constructiva; además, posees un profundo sentido de la justicia; un gran sentido de la responsabilidad, paciencia, seriedad y organización en el desarrollo de tus actividades; nunca actúas de manera obstinada porque tu fuerte tenacidad te permite superar las restricciones que puedas encontrar en tu camino. Tu alma pide añadir a tu determinación una pizca de creatividad, si lo haces habrás encontrado la fórmula del éxito. Tu alma necesita cultivar amplitud de criterio y el deshacerse de lo caduco, cultivar el cambio y aceptar lo nuevo mientras desecha lo viejo.
-            <br>
-            Cuando el número 4 vibra en positivo habla de una persona que ama su hogar, su familia y su país. Por lo que se podía decir que sos constante, fiel y segura en tus relaciones, más que nada familiares. Necesitas y querés mucho amor, pero a menudo no lo conseguís debido a tu rigurosidad o lo rechazas por tu propia austeridad y rigidez. Se puede decir que detestas la pretensión y la insinceridad. Sos detallistas y metódica por lo que preferís el orden, posees habilidad mecánica natural y trabajas bien con tus manos; al ser excelente observadora minuciosa y rutinaria son habilidades que podes desarrollar. En tus puntos de vista sos más bien cerrada, por lo general al ser muy observadora, detallista y perfeccionista, muchas veces te quedas atrapada en el problema, en lugar de hallar la solución.
-            <br>
-            Bajo este número se puede observar que no te agrada del todo las innovaciones, sino que te sentís más cómoda en el orden y la regularidad. Sin embargo Los números cuatro cultivan el cambio y anhelan aceptar lo nuevo mientras desechan lo viejo; aunque deben pasar por un proceso para lograrlo; nunca lo harán de forma abrupta. En lo laboral te gusta que te especifiquen trabajos que debes hacer y haces exactamente lo que se te encarga, siendo muy práctica, analítica, confiable y honesta. Muchas veces condesciende ante tu superior, tu conciencia y/o tu tradición. 
-            Cuando no se ha desarrollado la vibración del 4, encontramos falta de sentido práctico, desorganización, irresponsabilidad, falta de disciplina y dispersión, imprudencia y poco humor.
-            <br>
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita cultivar amplitud de criterio y el deshacerse de lo caduco, cultivar el cambio y aceptar lo nuevo mientras desecha lo viejo. 
-            Si vibra en negativo o en desequilibrio nos muestra rigidez extrema, autolimitaciones que no permiten la apertura a lo nuevo, al cambio y a la creatividad; la falta de expresividad, adicción al trabajo, falta de imaginación, comunicación y testarudez.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona controladora, que no le gusta lo inesperado porque lo desacomoda y hace que estalle en ira, eso repercute en su cuerpo. La estrechez mental hace que no acepte otros puntos de vista y se cierre en sí misma. También en su extremo y rigidez se puede llegar a estado de vulgaridad, odio, violencia, celos, envidia, inhumanidad, rechazo, destrucción, avaricia, crueldad.";
-            break;
-
-        case 5:
-            echo 'Según la vibración numérica 5, tu deseo del alma es obtener libertad personal en todas las direcciones, tu alma está en búsqueda del cambio constante, la variedad y la apertura a nuevas oportunidades; un permanente volver a empezar. Tu alma quiere saber de la vida en todas sus fases. No te molestan ni las convenciones ni las ideas ajenas. Tu alma ama los placeres, viajes, deportes, artes, ciencia, música, idiomas. Al ser un alma en movimiento constante no le gusta esperar y quedarse; no podes someterte a la rutina o al detalle. Como alma inquieta amas la gente extraña, las caras, cosas y lugares nuevos; sos progresista intelectual, emotiva versátil y a menudo espiritual. Te adaptas a cualquier condición, país, o clase de gente, inyectas nueva vida a todo lo que tocas y seguís adelante sin detenerte con rapidez. Necesitas muchos y variados intereses; sobre todo luz de sol y multitudes. Tenés la cualidad de deshacerte fácilmente, no atarte a nada; tomando las responsabilidades o no tomarlas para nada; aunque se puede decir que a tu alma no le agrada del todo las responsabilidades.
-            <br>
-            Tu alma, con vibración del número 5, necesita cultivar la lealtad, paciencia y firmeza de propósito. Debes cultivar la concentración, y si ya poseen algún cierto grado de ella, mejorarla. Es deseo de tu alma el movimiento continuo, la búsqueda y la libertad. Representa la energía intensa y movediza. El número 5 nos enseña a evolucionar conectando el Cielo y la Tierra, a desarrollar las cualidades de adaptación, y la capacidad de libertad, movimiento y cambio. En el número 5 surge la noción de búsqueda intelectual, se revela ante las normas y comienza a diferenciarse en su modo de pensar y de vivir. Generalmente al ser una alma inquieta, también puede ser impulsiva y rápida en su actuar; esta alma ama la aventura y si es necesario caminar en la cuerda floja lo hará.
-            <br>
-            El deseo de esta alma es no desechar nada; aprovechar las oportunidades que se le presente. Es una alma sociable, por lo que sabe cómo avivar una fiesta y entretener a las personas con una interesante conversación.
-            Como alma en movimiento le gusta especular y aprovechar hasta el último centavo de su dinero en lo que se cree que es conveniente, por lo que podría ser una buena comerciante y vendedora; a esta alma le gusta también ser atleta, viajera, dirigir agencias de viaje o ser guía en una expedición alrededor del mundo; al poner mucha de sus energías en actividades sociales, puede ser organizadora de fiestas y encuentros. También al gustarle la aventura y las personas esta alma estaría muy gustosa de trabajar como psicóloga, investigadora, escritora, filósofa, detective.
-            <br>
-            Cuando el número 5 vibra en positivo habla de una persona que está en movimiento constante, en libre fluir, con libertad e independencia, apertura mental; en búsqueda del cambio y adaptación, de nuevas experiencias. La necesidad de independencia despierta el deseo imperioso de libertad personal, de encontrar la verdadera identidad y fuerza interior.
-            <br>
-            Cuando no se ha desarrollado la vibración del 5, ante la carencia de esta vibración podemos ver resistencia a los cambios, dificultades en la comunicación, severidad, rigidez, autolimitación. Este dígito nos habla de nuestra capacidad de vivir la libertad y adaptación a los cambios. Define el modo de relacionarnos con el cuerpo, la sexualidad y la energía masculina. Esta alma aprende promoviendo ideas por las que tiene insaciable curiosidad. Su progreso se debe al avance constante, con el valor de desechar lo viejo y el anhelo de aprender lo no intentado todavía.
-            <br>
-            En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de dispersión, inconstancia, derroche, falta de practicidad, rebeldía, irresponsabilidad, morosidad; muchas veces tiene caídas de imprudencia, irreflexión, descuido. También puede observarse sensacionalismo y mal gusto. Oscila entre la dependencia extrema y la independencia; intenta hacer demasiado. Muy indulgente con sí misma.
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la irreflexión, irresponsabilidad, libertinaje, perversión, malevolencia, vicios adictivos, precaverse de la tendencia al juego, a la bebida y las drogas. También de oportunismo, corrupción y ventajismo. Cuando vibra en negativo se puede ver un rechazo hacia las personas, esta alma puede volverse antisocial y hasta vibrar con un grado de intolerancia y sectarismo.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por los vicios y la dependencia, siendo irresponsable, inestable, indiferente ante los demás e incluso ante la vida. Terminan en una esclavitud del hábito del cuerpo; con gran pereza, sin gusto por el quehacer. Esta alma con una vibración destructiva resulta ser hipercrítica, nerviosa, cambiante, sin ética, con muchos miedos, con gran deshonestidad y libertinaje. 
-            ';
-            break;
-
-        case 6:
-            echo 'Según la vibración numérica 6, el deseo de tu alma es desde la responsabilidad, armonía y bienestar. Estas almas desean responsabilidad, amor constante, tienen un gran deseo por el calor del hogar, por echar raíces y sentirse anclada en tierra. El deseo de tu alma es desde la responsabilidad en todos sus aspectos, sobre todo en lo afectivo, se comienza a vivir el intercambio entre el dar y el recibir, de manera sensible. El deseo del alma es consagrarse en amor y equilibrio armónico, representa la estrella de David, formada con dos triángulos, significando el equilibrio: “como es arriba es abajo”, generando la fusión entre las energías creativas y las receptoras.
-            <br> 
-            El deseo de tu alma es el de evolucionar en armonía, ofrecer amor de manera desinteresada, a apreciar la belleza y vivir en bienestar. El alma con el número 6 ansía amor, amigos y compañía. Se dedica a su familia hasta el punto de sobreprotegerlos por amor. Si bien el amor, la paz y la armonía son su meta, gusta de un debate con amigos, siempre que éstos no queden enojados. Es el deseo de tu alma servir a la comunidad, lo cual te brinda gran placer. Agradas a la mayoría por ser benévola y tolerante, aunque a veces podés ser obstinada o inquisitiva si alguien está en desacuerdo con vos.
-            <br>
-            El deseo del alma es de generar seguridad y protección al entorno, mediante la bondad, el amor y la ternura. Este dígito se relaciona con tu capacidad de amar, de asumir las responsabilidades sin sentirte agobiada. Define el modo de vivir, el interés hacia los otros, de manera sensible y receptiva. Debés tener en cuenta que es necesario cultivar firmeza para balancear tus emociones y tu juicio, siendo precavida contra la discusión, la testarudez o la intromisión respecto de los demás, lograr una actitud menos personal.
-            <br>
-            Cuando el número 6 vibra en positivo habla de una especie de padre/madre cósmica o guardiana; siendo buena consejera y amiga leal; es un refugio y un asilo para aquellos que necesitan consuelo o abrigo. Tu alma ama la holgura, el confort, la belleza, la música y la armonía, en manera artística, amable y comprensiva; aunque le gusta ser reconocida, no posee ambición de hacerse un gran nombre, tener fama o gloria; este es simplemente su propósito: ir en búsqueda de corregir y ajustar aquello que marcha mal en la vida de otros.
-            <br>
-            Si bien tu alma se inclina al convencionalismo, prima siempre la amplitud y tolerancia; es también buena jueza siempre y cuando tus emociones no estén demasiado involucradas en el asunto. Centrás tu vida en el hogar y tus seres amados. Tu alma en vibración del numero 6 ama trabajar con los demás, le gusta la alabanza, las gracias, pero rinde servicio con gusto. La belleza, la ternura, el intercambio estable, responsable y comprensivo, el sentido de protección y disponibilidad definen el significado del número 6.
-            <br>
-            Cuando no se ha desarrollado la vibración del 6, podemos ver que existe demasiada preocupación, gran carga de indecisión en tu vida, sobre todo ante los cambios personales y del entorno. En este caso se carece de una idea clara de hacia dónde dirigirse; tu alma siente que los diversos caminos que se le presentan no la conducen a ninguna parte, o la hacen feliz. La falta de orientación angustia, y la sensación de inacción te deja perpleja, sintiendo que no poseés la fuerza o determinación proveniente desde el fondo de tu Ser para encontrar el sendero que te conduzca hacia una vida plena. La carencia de esta vibración vuelve tu alma pasiva ante la vida y con una gran frustración por la inactividad o la desorientación.
-            <br>
-            En su aspecto negativo o en desequilibrio debe precaverse contra la discusión, la testarudez o la intromisión respecto de los demás. Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la ansiedad, la tiranía, celos, preocupación, fanfarronería, cinismo, intromisión, engaño, orgullo, engreimiento, esclavitud al trabajo (trabajar sin ganas), abatimiento.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por un mal manejo de sus energías, en vez de ser responsable de su vida recae sobre el victimismo y la lástima. Se torna resignada, apática, entregándose a lo que les toca vivir sin luchar en un estado de completa apatía, sin ningún tipo de entusiasmo, siendo indiferente hacia la vida. Su entorno se vuelve opresivo, al punto de querer escaparse de la vida; por lo que puede llevarte a caer en estados de angustia extrema y depresión. Al no ser responsable de tu vida, ni vibrar en armonía, te volvés una persona de poca vitalidad, abúlica e insensible; el amor no fluye naturalmente, los sentimientos dejan de movilizar tu corazón y todos los centros de energía se van bloqueando para finalmente, volverte un Ser triste y con actitud fatalista.
-             ';
+        case 'no':
+            echo '';
             break;
         
-        case 7:
-            echo 'Según la vibración numérica 7, el deseo de tu alma es vivir desde la reflexión, el perfeccionismo y espiritualidad, busca conocimiento y sabiduría sobre todas las cosas. Deseando silencio y paz para vivir tu vida interior, desde el pensamiento profundo, la perfección que se busca alcanzar es desde lo intelectual y espiritual. Representa lo sagrado, enlazando lo Divino y lo humano, formado por el Tres (la divina Trinidad) y el Cuatro (los Elementos Terrestres). El número 7 nos enseña a descubrir nuestra unidad interior, encontrando el equilibrio espiritual y corporal. En él surge la búsqueda de toma de conciencia personal, mediante el estudio y la disciplina interior. El deseo de tu alma es lograr confiar en tu intuición y aprender a oír la voz de tu interior para conectar con la sabiduría que te habita. De esta manera podrás ampliar tu percepción, captando fácilmente un engaño, o reconocer a una persona superficial; del mismo modo, tener el poder de conectar con las almas que te ayudarán y guiarán en tu camino de crecimiento y evolución.
-            <br>
-            Tu alma, con vibración del número 7, necesita cultivar la comprensión, la compasión, evitar el temor y la tristeza profunda. Debe aprender a vivir sola pero no sentirse solitaria, disfrutando de los momentos de silencio; a vivir sola estando con los demás. Aunque hay un agrado por los momentos de soledad, suelen temerle a ésta, y la pobreza. 
-            Es deseo de tu alma es manejarse en el silencio y enriquecerse de él, esto le permite inundarse en su mundo interno y contactar con su sabiduría interior. Tu alma desea tiempo y quietud para meditar. Por esto tu alma se aleja de los ruidos, el bullicio, la confusión del mundo de los negocios. Algunas veces este gusto por el silencio suele generar en el entorno una falta de comprensión hacia tu persona, al ser muy retraída y solitaria. El deseo de tu alma es mantenerse en lo conocido, ya que no hay un sentimiento de comodidad en lo nuevo, lo repentino o efímero. Por lo que tu alma es atraída por los tesoros de antaño, los viejos jardines, las casas antiguas, los muebles y objetos que guardan el paso del tiempo. Aunque no hay un gran gusto por los trabajos manuales y minuciosos, puede encontrar en ellos el agrado de realizarlos por el hecho del silencio y la meditación.
-            <br>
-            El deseo de tu alma es el de desplegar su lado de pensadora profunda, absorbiendo conocimiento prácticamente de toda fuente. A estas almas les gusta analizar, disecar, examinar y considerar desde todos los ángulos; jamás aceptará alguna premisa sin haber agotado todas las probabilidades de error y obviamente sacará sus propias conclusiones. Van a la raíz de todas las cosas y preguntan la razón del por qué. Son buscadas por su sabiduría, pero no brillan en sociedad, suelen ser tímidas y retraídas. Son profundamente emotivas, pero les horroriza exponerse, la mirada del mundo externo las inhibe. Someten todo a un análisis mental agudo, quieren que los detalles estén perfectos antes de pasar al próximo. Son un pozo de secretos, espirituales, científicos, filosóficos o meta-filosóficos, para amarlas hay que conocerlas en profundidad.
-            <br>
-            Cuando el número 7 vibra en positivo habla de una persona que se basa en la reflexión filosófica, la introspección, la agudeza mental, la búsqueda de conocimientos y el perfeccionismo. Vibrando positivamente es un alma que a aprendido a convivir en armonía, amándose y dando amor, suele haber momentos en que se distancia de sus vínculos en la búsqueda interior, para ser protagonista de su vida. Este dígito al estar vibrando en positivo amplía la capacidad de conectarte con vos misma, de vivir la reflexión interior y la toma de conciencia personal, agudeza mental, perfeccionismo y exigencia.
-            <br>
-            Cuando no se ha desarrollado la vibración del 7, ante la carencia de esta vibración podemos ver de una persona con grandes dudas que bloquean su pensamiento; no hay un libre fluir y tiende a escaparse de la realidad. Esto puede llevar a la persona a estados de preocupación extrema, sentimiento de estar perdida, ideales equivocados y un cerramiento absoluto que la vuelve recluida, antisocial e intratable. Puede haber una gran interferencia en pensamientos que imposibilita que contacte con el presente, haciendo que no se “ancle a tierra”, que se evada y hasta que niegue su realidad.
-            <br> 
-            En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de vivenciar una extrema reserva, falta de comunicación, rigor, emotividad reprimida, intolerancia y falta de practicidad, actitudes de superficialidad, falta de reflexión y análisis, dispersión y poca atención al detalle. Esto puede llevar a estados de ansiedad y abatimiento. Se vuelve por demás de aislado, muy exigente e inseguro. No acepta que lo contradigan, si lo hacen responde desde la arrogancia, ya que hay una incomprensión hacia el entorno.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por la infidelidad hacia ella misma y hacia los demás, a veces cayendo en estados de malicia, sarcasmo, frialdad, deshonestidad y orgullo. Se vuelve por demás de aislado, muy exigente y tirano. No acepta oposición a su ego y si se siente expuesto toma revancha sin misericordia; ya que hay una autoimagen muy alta. No escucha al entorno. Existe bajo una desconfianza total.
-            ';
-            break;
+    }
+                                            
+    switch ($deal){
+            case 1:
+                
+                echo "Según la vibración numérica 1, el deseo de tu alma es dirigir, ser guía, líder. Tu alma, al vibrar con la energía del liderazgo prefiere trabajar sola o con personas que pueda guiar. Tu alma desea crear y ser original, ella no se detiene en los detalles, sino que le llaman las cuestiones más importantes. Esta alma desea ser capaz de grandes logros. Tu alma es originadora de ideas y de acciones, con la fuerza de su voluntad y su capacidad pionera e individualista, genera iniciativa. El número 1, al ser el punto de partida hace que tu alma tenga deseos de dar el impulso inicial, no teme los reinicios ni los cambios, al contrario, los toma como desafíos, como una semilla de la que puede tener grandes cosechas. Esta alma tiene grandes deseos de inventiva, de liderazgo y voluntad; se destaca por la toma de decisiones, la iniciativa, individualidad y posicionamiento personal, lo que empuja a tu alma a tomar siempre las riendas de tu vida. Tu alma, con vibración del número 1, necesita cultivar la bondad, humildad y el interés humano. Los números del alma reducidos a uno, carecen en su mayoría de paciencia, diplomacia y tacto, que deberán cultivar durante toda su vida.
+                <br>
+                Cuando el número 1 vibra en positivo habla de una persona que busca oportunidades para lucirse. Quiere sentir que su familia la honra. Es leal en la amistad, estrictamente justa en los negocios, es líder segura. Tiene valentía e inteligencia para explorar lo desconocido. El alma con vibración 1 aprende más por experiencia. Quiere ser independiente para escoger sus propias acciones y aventuras. Tiene un impulso creador y original; espíritu precursor, pues le agrada explorar. Ambiciona que la escuchen. Quiere ser jefa, ya que tiene cualidades de mando.
+                <br>
+                Cuando no se ha desarrollado la vibración del 1, ante la carencia de esta vibración tu alma puede sentirse perdida, ya que no se está desplegando su potencial, lo que llevará a posibles bloqueos, sin iniciativas ni voluntad de acción; no está motivada por la vida y suele caer en indecisiones constantemente; necesita que los demás le digan qué hacer, cómo actuar. No son muy emotivos y el amor no es realmente necesario para su felicidad.
+                <br>
+                En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de egolatría, cayendo en la crítica y la impaciencia. En su aspecto negativo, es proclive a mandar a los demás y salirse con la suya. Si esta condición negativa se mantiene, deberá precaverse de la pereza, el cinismo, la inseguridad en lo que hace y en la preposición de mando hacia los demás.
+                <br>
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre el exceso de autoestima, la autosuficiencia, egoísmo, exceso de protagonismo, intolerancia y posesividad que pueden llevar a esta alma a encerrarse en soberbia. O bien, falta de confianza, iniciativa y voluntad; indecisión, inseguridad y dificultades para afirmar una imagen de sí misma que llevan a encerar a tu alma en una gran tristeza y soledad. Un alma vibrando en negativo posee muchos miedos que estancan, le teme a la vida, siente que no es parte de ningún sitio, lo que lleva a que se sienta siempre rechazada, excluida y a la defensiva.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por el miedo, la inestabilidad, obstinación, fanfarronería, tiranía, intolerancia, dominación. Un alma vibrando con la fuerza del 1 en forma destructiva es una gran opresora y puede dirigir a los demás para garantizar su propio bien; o por gusto a la dominación. Puede caer en estados de malicia y perversión.";
+                break;
 
-        case 8:
-            echo 'Según la vibración numérica 8, tu deseo del alma es lograr el equilibrio entre lo material y espiritual. El poder, energía y realización son deseos de tu alma. El número 8 nos habla de la organización, la perseverancia y el control de la energía para producir logros materiales y espirituales. Representa el poder de la realización, la abundancia en el mundo mental y espiritual representado en la curva superior, y la abundancia material, a la que hace referencia en su curva o base inferior. Es decir que el deseo de tu alma es trabajar sobre la abundancia en todo lo que ella respecta.
-            <br> 
-            El deseo de tu alma implica aprender a descubrir tus propias capacidades, aquellos talentos que sirven para transformar la Tierra. En el número 8 surge la capacidad de organización y el poder de realización a través de tus propias estrategias. La fuerza creadora tanto material como espiritual.
-            <br>
-            Según la vibración del número 8, ansías asuntos grandes y el poder de dominarlos, queriendo éxito en todas las cosas materiales. Estas a gusto con la organización, la construcción, las finanzas, las grandes operaciones del mundo financiero, te gusta manejar y dirigir, tenés habilidad para los grandes logros y acumulaciones. Sos generosa, amplia de mente, poderosa. La ambición, el poder psíquico y material, la audacia, el coraje y la capacidad de mando definen el alma que vibra con el número 8. Ya has desarrollado la toma de consciencia personal, ahora estas lista para transformar y desarrollar tus tesoros internos con el fin de construirte.
-            <br>
-            Se puede confiar en tu alma por el gran tinte de honestidad que trae. Tienen fuerza, entusiasmo, valentía, ecuanimidad y determinación. Les gusta luchar contra la oposición confiando en su propia victoria, pueden ser dominantes y exigentes, pero no se economizan ellos mismos o sea que ellos saben dar o rendir. Puede gustarles el dinero y el lucimiento, pero son la piedra angular de la comunidad. Tienen visión e imaginación para hacer que sus esfuerzos produzcan. Son eficaces, ejecutivos de excelente criterio; son un poder del bien.
-            <br>
-            Con tu alma con una vibración 8, te moviliza la capacidad de manejar tus talentos y tu poder. Referido a la capacidad de trabajo, de perseverancia y de la búsqueda del equilibrio material y espiritual. El modo de desenvolverte con capacidad organizativa, control, perseverancia y solidez.
-            <br>
-            Los números 8 necesitan cultivar la justicia y la tolerancia hacia los más débiles, menos eficientes. Debes aprender organización y cooperación. Cuando el número 8 vibra en positivo habla de una persona que disfruta de la abundancia y de la influencia, no abusa de las preocupaciones; agradece la abundancia y la sabiduría. Posee poder ejecutivo; suele ser exitosa y con capacidad resolutiva; con buen juicio, no estando aferrada a lo material.
-            <br>
-            Cuando hay una carencia de la vibración del 8, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra carencia de voluntad para seguir adelante, con temores referentes a temas de dinero, el poder, el control, y/o el reconocimiento; con un gran saboteo hacia la propia persona. También puede suceder que la persona se vuelva algo avara; haya abuso del poder y se vuelva excesivamente ambiciosa.
-            <br>
-            Ante el desequilibrio de estas energías podemos encontrar actitudes de extrema ambición personal, apego a lo material y una marcada resistencia a los cambios. Rigidez mental, desconfianza y una gran exigencia, dificultad para concretar metas, dificultad para alcanzar objetivos, para descubrir y poner en práctica talentos ante la ineficiencia, falta de ambición y la desorganización. También es se vuelve una persona tímida, desordenada y pasiva en exceso.
-            <br>
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee intolerancia, impaciencia, tensión, intriga, torpeza, con gran temor sobre alguno de los aspectos (materiales y/o espirituales). Por lo que entra en un estado ambivalente que puede llevarla a estados de bipolaridad, confusión; y se puede tornar hacia el alcoholismo. Vive la vida de forma dramática.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona que se aleja demasiado de su parte espiritual recayendo la balanza en un excesivo interés por lo material, lo que la hace ambiciosa, dura, inclemente, con una gran sed de poder. También gobiernan estados de opresión, venganza, injusticia, celos, envidia, avaricia, obstinación, autoritarismo.';
-            break;
+            case 2:
+                echo "Según la vibración numérica 2, el deseo de tu alma es tener capacidad de recepción, sensibilidad y cooperación. Es decir, que estamos frente a un alma receptora de una emocionalidad muy fuerte, una gran sensibilidad, intuición y vulnerabilidad. Tu alma busca ser una buena mediadora y escuchar a todas las partes. Además, sos increíblemente sensible, te preocupas por el bienestar la personas a tu alrededor, sin embargo, por esta misma razón, en reiteradas oportunidades te olvidas de ocuparte de vos misma, de apreciarte y complacerte.
+                <br>
+                Al tener la capacidad de ver los dos lados de una situación, servís de equilibrio de fuerzas opuestas y te califica como excelente árbitra o pacificadora. El número 2 es sumamente cooperativo, ya que es considerado un mensajero de la paz, por lo que el deseo de tu alma es que potencies tu don de diplomática, pacificadora y sostén.
+                <br>
+                El deseo de tu alma es desde el amor y la compañía; logrando trabajar para los demás y junto con ellos. Por lo general, las personas que portan en su esencia el numero 2 suelen ser tímidas, sensibles y faltas de confianza en sí mismas, por lo que el deseo de tu alma es de evaluar tus dones y capacidades para apoyarse sobre vos misma.
+                <br>
+                El deseo de tu alma es el de armonía y paz, te solicita que amplíes tu capacidad de la asociación y el trabajo en equipo. La vibración 2 enseña a evolucionar en la colaboración, a desarrollar el control de las emociones y la capacidad de dar y recibir. Esta vibración representa la dualidad, necesita sentir y ser.
+                <br> 
+                También nos habla de una persona que necesita constantemente de la mirada de aprobación del otro, porque duda de sí misma, no tiene un gran sentido de la identidad; por lo que el deseo de tu alma es el de introducirte al mundo de las emociones y el modo de vivirlas. Definir tu autoestima y cómo te relacionas con cualquier vínculo de dos. Al vibrar tu alma con la energía del número 2 necesita cultivar firmeza de propósito, cultivar un plan definido en se vida; necesita definirse.
+                <br>
+                Cuando el número 2 vibra en positivo habla de una persona que no le importa brillar por sobre los demás; pretende holgura y confort sin exigir fortuna ni lujo. No es ambiciosa, no insiste en el reconocimiento de sus derechos y de su punto de vista. Es bondadosa, considerada, pacificadora y diplomática. Atrae numerosas amistades, aun a aquellos que son enemigos mutuos, guarda todos los secretos, los propios y los de los demás. No es demasiado franca por temor a causar angustia, es muy sensible y emotiva, se enamora fácilmente y llora con frecuencia; es indulgente y delicada. Se deja engañar fácilmente, no tiene tendencia a la disciplina para sí misma ni para los demás. Pacífica, armoniosa, cariñosa, ama el arte, lo rítmico y musical. No pensás en la puntualidad ni en la rigidez. Te conformás con poco, frecuentemente sos estudiosa por lo que acumulas mucha sabiduría; atraes sea lo positivo que lo negativo hacia vos misma, absorbiendo fácilmente lo de tu entorno.
+                <br>
+                Cuando no se desarrolla la vibración del número 2, puede generar actitudes tales como timidez, sumisión, indecisión, extrema dualidad y vulnerabilidad. La carencia de esta vibración, genera una alta emotividad, que, por una parte, puede transformarse en postura de víctima, o bien, por temor a expresar estas emociones, puede llevar a la falta de confianza, de tacto, indiferencia, sensibilidad, egocentrismo y a una posible referencia femenina distorsionada.
+                En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos individualistas, donde el amor no se ha desarrollado o se ha bloqueado, al punto de alejarse de las personas y aislarse. Considera que no debe dar explicaciones de sus actos y no desea que se inmiscuyan en sus asuntos; por lo tanto, oculta sus problemas o necesidades por orgullo; y como cree que nadie puede ayudarla, prefiere resolver todo por sí misma y en soledad, sin buscar algún tipo de ayuda.
+                <br>
+                Considera que nadie se encuentra mejor capacitado que ella misma para resolver los problemas. Esta autosuficiencia, les puede generar gran tensión, angustia y enojo, les resulta muy difícil pedir ayuda y delegar. La dualidad del 2 está muy presente en la vibración negativa, por ejemplo, implica que haya un conflicto interno entre el sentimiento de que “deben” ayudarla y que “no saben” tanto como ella; también entre “amor - odio”, donde la persona pasa de estados amorosos a los de odiar en segundos. La persona suele enmascarar en falsa alegría el malestar que le contrae esta dualidad.
+                <br>  
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que tiene la necesidad de llamar la atención de su entorno por una gran carencia afectiva; con caídas extremadamente materialistas, codicia, egoísmo, reclamando ser oída constantemente, muchas veces chocando con su entorno por sus demandas, sus derechos y la necesidad de imponer su punto de vista por sobre los demás. Esto la hace aislarse de su entorno, volviéndose distante, reservada, orgullosa, solitaria y autosuficiente. Suelen ser extremadamente individualistas y dada su elevada capacidad intelectual, encuentran difícil hallar quienes puedan comprenderla; lo que la lleva a un sentimiento de frustración que le genera el no poder encontrar un compañero que le brinde aventuras intelectuales o se encuentre en su nivel. Esto puede impulsarla a volverse arrogante e intolerante con su entorno. La suele invadir un sentimiento de aburrimiento, porque nada le resulta interesante, o que valga la pena invertir tiempo en ello.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por la desconfianza hacia el entorno, lo que la pone en situaciones de paranoia y descontrol emocional. Encontrándose completamente a la defensiva y en guerra con el entorno, tornándose despiadada e insensible. El nivel de franqueza sin filtros puede llegar a herir al entorno y a sí misma. Se torna demasiado crítica, intolerante y arrogante hacia los demás, lo que puede llevar a estados de enojo acumulado que repercute en su cuerpo y mente.";
+                break;
 
-        case 9:
-            echo 'Según la vibración numérica 9, el deseo de tu alma es el de servir al mundo entero, queriendo brindar a todos los beneficios de tus conocimientos y experiencias; posees un alma altruista y humanitaria. Das de vos misma sin pensar en tu propio empobrecimiento, sabes que siempre podés dar un poco más, porque tenés fe ilimitada en tu propia fuente de proveeduría. Los números 9 son los llamados hermanos universales: compasivos, comprensivos y servidores. Tenés sabiduría, intuición, amplitud de mente y de criterio, posees una gran nobleza en tu alma.
-            <br>
-            Como número 9 sos atractiva y amada por todos. Estás dispuesta a dar tu vida por la humanidad, en tu alma vibra el sentido de lealtad. Tus emociones no admiten una mentalidad cerrada o egoísta; muy por el contrario, tenés lugar para la imaginación y el gusto por la aventura, que te van a permitir revertir cada adversidad. Tu alma siente la necesidad de libertad, por ello te cuesta vincularte con personas o lugares por largos períodos de tiempo. Los 9 necesitan cultivar el balance, el control emocional y necesitan definirse. Los números nueve deben aprender a ser desinteresados y servidores para el bien de todos, pero de forma inteligente.
-            <br>
-            Cuando el número 9 vibra en positivo habla de una persona con dotes de compasión y tolerancia, estos te permiten comprender ideas y situaciones en menor tiempo, y de manera más eficaz que el resto de las personas. Tu alma es completamente libre, física y espiritualmente, esto te permite abrirte a otros mundos, tener un gran sentido de la amistad y amor sano. Tu alma posee gran capacidad de desplegar amor, de modo creativo, idealista, original y bondadoso. Este número en una vibración armoniosa y equilibrada te lleva a desarrollar aspectos de sensibilidad, emotividad, intuición, servicio humanitario como también a ampliar los límites en pos de ideales. El deseo de tu alma es mantener la vibración en la armonía del dar y recibir, esto la conecta con la alegría y el optimismo. Como este es el deseo de tu alma tendrás esta vibración pujante en vos, sin embargo, es importante que realices esto con sabiduría para evitar abusos desde el exterior. 
-            <br> 
-            Cuando hay una carencia de la vibración del 9, tu alma puede sentirse perdida, ya que no se está desplegando su potencial, lo que llevará a posibles bloqueos. A pesar de que la vibración del 9 en tu alma te vuelve una persona más bien callada, una carencia llevaría a una incapacidad de expresión; también nos habla de ingenuidad, superficialidad, incapacidad de comprender a los demás, sensación de haber perdido el rumbo. Muchas veces la carencia de esta vibración en movimiento y en conexión con tu alma provoca un desinterés por los demás, dificultando las relaciones duraderas, ya sea de amistad como amorosas. Probas miedo a ser rechazada, a equivocarte; esto sucede al no estar en contacto con tu intuición, habilidades y dones. Puede darse una pérdida de la alegría, ver la vida sin colores y caer en estados de pesimismo y negación.
-            <br> 
-            Si vibra en desequilibrio, en tu Ser puede generarse un gran monto de ansiedad, sobre todo por una búsqueda incesante de la perfección. No obstante la vibración 9 vuelva tu alma amorosa, en desequilibrio hay una necesidad extrema de ser valorada y querida, llevándote por consiguiente al apego, inseguridades y miedos.
-            <br> 
-            Este número mal aspectado y vibrando en negativo, nos muestra una alta impulsividad y emotividad, exceso de idealismo que lleva a la falta de concreción de metas, baja autoestima y celos. Muestra actitudes de indiferencia, falta de compromiso, intolerancia, desconfianza, ambición y egoísmo. En este aspecto tu alma queda encapsulada y limitada, centrándose en sí misma y cerrándose al mundo, con una mentalidad cerrada y egoísta, con metas relacionadas a la ambición materialista, la rivalidad y la enemistad; con deseos internos de que al otro le vaya mal por falta de fe en vos misma. En este caso debes aprender a canalizar y dirigir la energía, ya que al ser poco constante perdes fuerza y magnetismo.
-            <br>
-            Si vibra en negativo / destructivo, aquello de la energía negativa se potencia aquí al punto de ser destructiva tanto para vos misma como para el mundo; entonces nos encontramos con una persona fanática, egocéntrica, terca, brusca, tajante, indiscreta, insensible, escéptica, racistas, vanidosa, intolerante, con gran incapacidad para amar. Viviendo en estado de competencia con los demás, siendo ventajista e intentando dominar y manipular al entorno.';
-            break;
+            case 3:
+                echo "Según la vibración numérica 3, tu deseo del alma es dar alegría, dicha y felicidad, tu alma tiene un gran deseo de derramar su amor, energía y talentos. Según la vibración del número 3 tenés un vivo interés por las actividades, buscas popularidad y muchos amigos, belleza en todos sus contornos.
+                <br>
+                Lo importante de esta vibración es que nunca te invade la preocupación en extremo ni permitís que la depresión te domine. Tomas la vida como ella se presenta y te reís de la decepción y el fracaso. Relacionas todo en la vida con lo emocional, pero nunca trágicamente. No te derrumbas por errores de amor o de negocios; sos de aquellas personas que vuelven a ensayar. Nunca pedís más de lo que encontrás, siempre estás interesada, entretenida. Tu alma vibra con el arte y la diversión, por lo que sos expresiva, intuitiva e innovadora; te encanta recibir, sos muy buena anfitriona y buscás que todo el mundo se divierta. Amas a los niños y animales domésticos. Existe un gusto por el cortejo y la sensualidad, aunque no sos infiel. Haces de la vida un juego.
+                <br>
+                Tu deseo del alma es expresarte cuando hablas, escribís o actúas, estás dotada de creación y creatividad. Soñás grandes aventuras, ya que pensás en gran escala. Por tener una mente rápida y aguda, aprendes con facilidad. Podes hacer casi todo de lo que te propones realizar. Estás dotada de súper-imaginación, lo que te hace apta para el espectáculo. Esto puede conducir a muchas oportunidades y éxito financiero. Al ser tu vibración 3 debés precaverte de no dispersar tu talento en varias direcciones a la vez. 
+                <br>
+                Al poseer una vibración 3 en tu alma, te movilizan las ambiciones, el ser independiente e intrépida. Como pensadora profunda, podes adquirir conocimientos con facilidad. También hay que advertir que te disgusta lo minucioso y rutinario. Tenés tendencia a dispersar tu talento, por lo que también se te da la enseñanza y exposición.
+                <br>
+                Los números 3 necesitan cultivar en su alma concentración y paciencia, tolerancia y a no dispersar su energía y talento. Los números tres pueden triunfar como oradores, escritores, actores, músicos, pintores, humoristas, comediantes, directores, comerciantes, especialmente de productos de belleza o sanitarios.
+                <br>
+                Hay tres tipos de tres: Uno es la variedad estudiosa o mental; el otro la variedad social; y el tercero, la variedad emotiva y levemente inestable. Por lo que tu alma puede movilizar tu energía según en la variedad que te encuentres.  
+                <br>
+                Cuando el número 3 vibra en positivo habla de una persona que promueve una expresión franca y altruista; permitiendo que su alma se comunique con inspiración, sensibilidad, y disfrute; siendo muy independiente para expresarte; creativa; entusiasta y sociable.
+                <br>
+                Cuando hay una carencia de la vibración del 3, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra dificultades de expresión y comunicación, pesimismo, mal humor, rigidez mental, que impide el desarrollo de la imaginación y dificultades para desarrollar también la creatividad.
+                <br>
+                Si vibra en desequilibrio puede generar actitudes de superficialidad, dispersión, inquietud, excesiva franqueza, falta de practicidad, celos e inmadurez. 
+                <br>
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee obsesiones, devoción por el trabajo, excesivo entusiasmo que hace que su energía se disperse y lleva al mal humor o cambios repentinos de estados de ánimo. Con continuas quejas, crítica negativa, ve el mundo en su contra y ponerse a la defensiva constantemente, llevando finalmente su mal estado a los demás y contaminando espacios con chismerío, extravagancia, vanidad, trivialidad, y superficialidad. Conlleva al apego excesivo, que deviene en incertidumbre, dualidad, miedos y falta de autoestima.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona con un gran pesimismo, falso orgullo, intolerancia, celos, hipocresía, avaricia, engaño, chismorreo.";
+                break;
 
-        case 11:
-            echo 'Según la vibración numérica 11, el deseo de tu alma es revelar las bellezas que han visto y conocido. Puesto que es un número maestro, mucho se espera de un portador de este número, que es idealista e inspirador. Como deseo de tu alma hay un empuje constante de predicar el vivir fiel a los ideales, deseando que todos los Seres aprendan su propia idea de Dios.
-            <br> 
-            Como alma con vibración 11 tenes un gran deseo de abrir puertas y ayudar a los demás para mayores logros; proveyendo remedios universales, pero muchas veces no comprendes las necesidades humanas. Como alma 11 sos siempre universalista, no te preocupa el individuo: sos soñadora y visionaria, con la pasión por la salvación y elevación, amando tus ideales. Posees una gran fuerza interior y la devoción del mártir. Los 11 necesitan cultivar la comprensión humana, debes aprender a mezclarte con el público y brindar conocimientos a todos. El liderazgo es la expresión poderosa de un alma con vibración 11.
-            <br>
-            El deseo de tu alma es ser mensajera, predicando una forma de vivir conectada con la fuente Universal, con la sabiduría interior; por lo que la luz del fuego divino está en tus ojos y a través de tus exhortaciones inspiradas llevas a muchos a vivir la vida alegremente y en conexión con su Ser. Como alma con vibración 11 es importante que puedas confiar en tus corazonadas, ya que existe una gran apertura de la intuición, por lo que el deseo de tu alma será de ser inspiración de todos. El deseo de tu alma es encender la luz de tu propia visión e inspiración.
-            El deseo de tu alma es de elevar la consciencia de los demás, con tu presencia trasmutas lo negativo en positivo, sos un alma próspera y abundante. Por lo que muchas personas pueden tomarte como ejemplo de vida, esto hará que tengas el deseo de vivir humildemente siendo notable. Tu alma desea desarrollar talentos constantemente. Como alma en vibración 11, tenes la capacidad de conectar con los Maestros Ascendidos, siendo un canal Divino, tu alma desea que abras este campo intuitivo y lo despliegues.
-            <br>
-            Cuando el número 11 vibra en positivo estamos frente a una especie de apertura mental, un alma con grandes habilidades psíquicas, pudiendo ser vidente. Tu alma es religiosa y espiritual, sensible y emotiva. Te agrada la inventiva y el liderazgo. Debes aprender a mezclarte con el público y brindar conocimientos a todos. No ambicionas cumplidos, te gusta la compañía de tu entorno y posees un gran don para las uniones, sociedades y amistades. Sos un líder natural, tu intuición es fuerte, posees opiniones propias, definidas y, por lo general, sabias y acertadas; por lo que generas la confianza suficiente para ser un gran guía y maestra.
-            <br> 
-            Cuando no se ha desarrollado la vibración del 11, podemos hablar de una carencia vibracional, estas almas prefieren más seguir antes que dirigir, pueden ser manejables y a menudo sometidas; poseen una falta de confianza en su propio juicio, en sus propias intuiciones, lo que llevaría a que dependa de la mirada de su entorno para validarse. Esto lleva a estados de indecisión, recurriendo en forma permanente a otras personas en búsqueda de consejo, es común que esta situación los lleve a desviarse de su propio camino y sentirse bloqueada. Aunque su intuición es fuerte y su alma es sabia, su miedo a transgredir las normas o a errar es tan grande, que la oculta y niega. Esto lleva a que admire y escuche a la persona equivocada, siendo crédula e inocente. Estas almas empiezan caminos que nunca continúan, diversas carreras, cursos, etc.; no los finalizan porque no es capaz de capitalizar la información que recibe, sintiéndose así insatisfecha y frustrada. También se muda de vivienda, de residencia, de pareja. Cambia constantemente de idea, por lo que quienes lo rodea no confía en ella.
-            <br>
-            En su aspecto negativo o en desequilibrio es un alma sin propósitos, pasa de una cosa a otra, movilidad contante que la lleva a una vida sin sentido, falta de motivación y de comprensión; la falta de orientación angustia, y la sensación de inacción la deja perpleja, y seguramente desearía tener fuerzas que provenga desde el fondo de su Ser, que la ayude a encontrar el sendero que la lleve hacia una vida plena. Siente la frustración de la inactividad y de la desorientación, lo que lo hace inestable, frustrada y resignada frente a la vida. Sin metas y objetivos, va por la vida en un campo de dualidades que bloqueará su energía.
-            <br> 
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona con un ciego fanatismo, con aires de superioridad, imposición de la voluntad, idealismo personal. Siendo un alma miserable, avara, deshonesta, bandida. La tendencia a la acumulación y el materialismo la llevará a hacer asociaciones peligrosas, ser una gran mentirosa, manipuladora y despiadada con tal de llegar a su objetivo. Esta alma vibrando en destructivo será la maestra de las perdiciones, le venderá su alma al diablo si es necesario, con tal de tener fama, dinero y poder. También es posible que esta alma caiga en adicciones, trampas, estafas, robos, corrupción e inmoralidad.';
-            break;
-        
-        case 22:
-            echo 'Según la vibración numérica 22, el deseo de tu alma es ser perfecta constructora para el bien y la seguridad de todos. Tu alma desea construir caminos perfectos para que el mundo pueda andar sin dificultades. Para ello tu alma comprende la necesidad de ser práctica en un mundo práctico. Puesto que es un número maestro, mucho se espera de una portadora de este número, que es idealista e inspiradora. Tu alma está llamada a realizar grandes obras que sirvan a la humanidad, proyectos ambiciosos y de gran amplitud, tenes la posibilidad de trabajar a un nivel concreto, con estrategia y resistencia, para construir propósitos elevados.
-            <br>
-            El deseo de tu alma es de ser maestra mística, representa el ideal realizado. Como maestra enseñas el camino, pero también enseñas a construirlo. Tenes tus ojos colocados en las estrellas y tus pies sobre la tierra. Todos los números 22 necesitan cultivar la constante adhesión a sus ideales en medio de la materialidad, esto los convierte en los constructores materiales y espirituales del mundo.
-            <br>
-            Como alma con vibración 22 tenes un gran deseo de abrir puertas y ayudar a los demás para mayores logros; sos respetada, las personas confían en vos ya que nunca delatas una confidencia. Como alma con vibración 22 no solo tenes visiones, sino que también podes ver cosas en gran escala y llevar a cabo tus planes para concretar tu meta. El 22 es una maestra constructora, da al mundo orden y sistema, por lo que tu alma anhela lanzar proyectos en beneficio de toda la humanidad.
-            El deseo de tu alma es de abrirte como canal de construcción y sabiduría, teniendo en tu Ser el poder de sanación, en tus manos está la clave para lograr milagros. Como alma con vibración 22 posees capacidades extraordinarias y es el deseo de tu alma descubrirlas.
-            <br> 
-            El deseo de tu alma es el de enseñar a diseminar amor y luz por el mundo; impulsando a construir una estructura que contenga las verdades eternas. Un genuino 22 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y está a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados. Es por ello que el deseo de tu alma pasa más por lo colectivo que por lo individual, el anhelo de tu alma es dejar su huella en la humanidad. Para esta alma vibrando en 22 el mundo es su casa.
-            <br>
-            Cuando el número 22 vibra en positivo estamos frente a un alma llena de luz y amor, con la capacidad de iluminarse para iluminar a los demás, es un Ser honesto, creativo, libre, expresivo, innovador, práctico, firme, equilibrado y sólido. Con una gran pureza, armonía y paz. Estamos frente a una maestra mística, enseñará a transitar el camino de una manera próspera y a construir nuevos senderos para los demás. Mediante sus palabras abrirá corazones y lanzará a las almas al encuentro con su vibración amorosa. Cuando un 22 vibra en positivo logra encontrar su propósito aún estando en un entorno negativo y tóxico, puede aprender de las malas experiencias y salir fortalecida.
-            <br>
-            Esta alma ayuda a los demás a conectar con la alegría, con la acción, y con un jubiloso sentimiento de plenitud. Ayuda a encontrar y comprender que dentro de cada Ser existen muchas razones, a veces dormidas o tapadas, para participar en la propia existencia y facilitar así la evolución personal. Ayuda en la construcción de vida de otras personas, despertando interés por las cosas cotidianas que antes no veían, disfrutando de sus vínculos y de lo que pueden aprender.
-            <br>
-            Cuando no se ha desarrollado la vibración del 22, podemos hablar de una carencia vibracional, este doble dígito 2 necesita equilibrar sus aspectos emocionales, para evitar vivir conflictos psicológicos que puedan llevarlos a conflictos afectivos y vinculares. Hay también una gran necesidad de equilibrar su energía física (número 4) que debe ser bien utilizada. Este Número Maestro necesita canalizar sus potentes energías para no tensionarse o deprimirse, ya que su punto débil es lo emocional. Estas almas que no han desarrollado ni potenciado su vibración poseen un complejo de inferioridad, indiferencia hacia en entorno y la vida, reprobación contante, rusticidad, impracticidad, temeridad e incapacidad. Se vuelven ilusos, conflictivos e influenciables. Existe una rigidez consigo mismo y se priva de los placeres de la vida, por lo que se vuelve malhumorado y perfeccionista. Se propone objetivos tan altos, que requieren un permanente esfuerzo por cumplirlo, esto trae aparejado autosacrificios y privaciones muy severas, casos como estos serían los fanáticos extremistas, los defensores de algunas sectas religiosas, ciertas tendencias alimentarias estrictas, o defensores de una causa social, política o idealista. Estas almas pueden volverse orgullosas y se niegan a dar un paso atrás, tornándose entonces rígidos consigo mismo y con el mundo, pero también muy autocríticos.
-            <br>
-            En su aspecto negativo o en desequilibrio es un alma materialista, realizando trucos y engaños para enriquecerse rápidamente, utiliza la habladuría para enmarañar. Cumple con los demás solo por el reconocimiento y para cobrarse luego, no hace nada sin estar midiendo lo que puede obtener a futuro. Su deseo es ser tomada como ejemplo, se considera extremadamente perfecta, siendo orgullosa y rígida; puede llegar al fanatismo, desea convencer a los demás de sus ideas y odia ser vencida. Todas las acciones apuntan a perfeccionarse a sí misma, y los demás sólo cobran algo de importancia si son lo suficientemente inteligentes como para seguir su ejemplo; de lo contrario son descartadas de su vida. Esto la vuelve intolerante, antisocial y aislada.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con un alma oscura, una maestra de la oscuridad; con tendencias a la magia negra, el ocultismo, la política, economía, lugares para alcanzar poder, popularidad y opulencia. Es una constructora individualista y soberbia; solo le interesa su propia perseverancia y la alcanza a cualquier costa. Cuando vibra en destructivo la oscuridad la rodea; llena de problemas, sobre todo económicos y emocionales. Posee un gran deseo de poder y dominio sin piedad, manipula a su entorno desde la lástima o desde la violencia.';
-            break;
+            case 4:
+                echo "Según la vibración numérica 4, tu deseo del alma es obtener estabilidad, respetabilidad y solidez, queriendo servir y ser una roca de seguridad; estando dispuesta a sacrificarte para que otros se beneficien; siendo disciplinada hacia vos misma y quienes te rodean. Evocas el sentido del deber y de la disciplina, lo que nos habla de una construcción sólida. Tu alma está dotada de una fuerte voluntad que deberías usar de manera constructiva; además, posees un profundo sentido de la justicia; un gran sentido de la responsabilidad, paciencia, seriedad y organización en el desarrollo de tus actividades; nunca actúas de manera obstinada porque tu fuerte tenacidad te permite superar las restricciones que puedas encontrar en tu camino. Tu alma pide añadir a tu determinación una pizca de creatividad, si lo haces habrás encontrado la fórmula del éxito. Tu alma necesita cultivar amplitud de criterio y el deshacerse de lo caduco, cultivar el cambio y aceptar lo nuevo mientras desecha lo viejo.
+                <br>
+                Cuando el número 4 vibra en positivo habla de una persona que ama su hogar, su familia y su país. Por lo que se podía decir que sos constante, fiel y segura en tus relaciones, más que nada familiares. Necesitas y querés mucho amor, pero a menudo no lo conseguís debido a tu rigurosidad o lo rechazas por tu propia austeridad y rigidez. Se puede decir que detestas la pretensión y la insinceridad. Sos detallistas y metódica por lo que preferís el orden, posees habilidad mecánica natural y trabajas bien con tus manos; al ser excelente observadora minuciosa y rutinaria son habilidades que podes desarrollar. En tus puntos de vista sos más bien cerrada, por lo general al ser muy observadora, detallista y perfeccionista, muchas veces te quedas atrapada en el problema, en lugar de hallar la solución.
+                <br>
+                Bajo este número se puede observar que no te agrada del todo las innovaciones, sino que te sentís más cómoda en el orden y la regularidad. Sin embargo Los números cuatro cultivan el cambio y anhelan aceptar lo nuevo mientras desechan lo viejo; aunque deben pasar por un proceso para lograrlo; nunca lo harán de forma abrupta. En lo laboral te gusta que te especifiquen trabajos que debes hacer y haces exactamente lo que se te encarga, siendo muy práctica, analítica, confiable y honesta. Muchas veces condesciende ante tu superior, tu conciencia y/o tu tradición. 
+                Cuando no se ha desarrollado la vibración del 4, encontramos falta de sentido práctico, desorganización, irresponsabilidad, falta de disciplina y dispersión, imprudencia y poco humor.
+                <br>
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita cultivar amplitud de criterio y el deshacerse de lo caduco, cultivar el cambio y aceptar lo nuevo mientras desecha lo viejo. 
+                Si vibra en negativo o en desequilibrio nos muestra rigidez extrema, autolimitaciones que no permiten la apertura a lo nuevo, al cambio y a la creatividad; la falta de expresividad, adicción al trabajo, falta de imaginación, comunicación y testarudez.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona controladora, que no le gusta lo inesperado porque lo desacomoda y hace que estalle en ira, eso repercute en su cuerpo. La estrechez mental hace que no acepte otros puntos de vista y se cierre en sí misma. También en su extremo y rigidez se puede llegar a estado de vulgaridad, odio, violencia, celos, envidia, inhumanidad, rechazo, destrucción, avaricia, crueldad.";
+                break;
 
-        case 33:
-            echo 'Según la vibración numérica 33, el deseo de tu alma es ser perfecta en tu expresión para servir a los demás, amando la belleza, la música, el arte y toda expresión que revele la profundidad del alma. Puesto que es un número maestro, mucho se espera de una portadora de este número, nos encontramos ante una maestra espiritual. Por lo general, alcanzar la vibración 33 implica mucho trabajo personal, ya que estaríamos en un campo de evolución consciente elevado; por lo que, en su mayoría, quienes poseen como resultado 33 se reduce a un 6 y se analiza esta vibración. El 33 es un número muy potente, pocas personas pueden vivir a la altura de dicho número. Obviamente, aquellos que no estén a la altura de dicho número deberán conformarse a vivir como un número 6. (33 = 3+3 = 6).
-            <br>
-            Como aspecto evolucionado del número 33:
-            <br>
-            El deseo de tu alma es el de vivir una vida de servicio sin esperar nada a cambio. Soles ser muy sensible ante el dolor de los demás y sufrir por sus miserias, vivís con un gran anhelo de ver concretado el bien universal. Esto es una experiencia de servicio a los demás que no debe ser confundida con la servidumbre ni la esclavitud por objetivos particulares ni ajenos. Estas almas están llamadas a convertirse en luz y guía de los demás por su mentalidad excepcionalmente inspirada, intuitiva y espiritual. Se destacan ampliamente porque sus aspiraciones trascienden los objetivos de los demás, ya que su meta primordial es ayudar y enseñar con su propio ejemplo, sus conocimientos y su asistencia.
-            <br>
-            El deseo de tu alma es el de cumplir tu misión de amor Universal, muy difícil de desarrollar, porque requiere del despojo material para poder vivir al nivel de esta energía. Para ello es necesario que conectes con tus talentos y tus dones. El deseo de tu alma es de ser amor perfecto, la Guía, una líder especial, que deberá servir como un “gran canal”, transmitiendo los conocimientos fundamentales y más elevados. Esto implica un trabajo constante sobre vos misma, ya que es la más alta vibración, de tolerancia, pureza, servicio, serenidad y amor, que para ser alcanzada necesita equilibrar aspectos afectivos que no le hagan caer en la indecisión, inestabilidad, los celos y la sobreprotección.
-            <br>
-            El deseo de tu alma es ser profundamente espiritual, mística y servicial, te impones a vos misma la obligación de ayudar a los demás, no sólo en sus problemas, sino que sobre todo en su desenvolvimiento y progreso espiritual. Tu paso por la vida deja una huella profunda y provechosa, ya que quienes se relacionan con vos salen enriquecidos. Tu influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerte, porque tenes el don de animar a las personas a perfeccionarse material y espiritualmente y tu luz ilumina la vida de todos.
-            <br>
-            Tu alma anhela el bienestar del mundo, por lo que es probable que utilices tus aptitudes intuitivas, financieras, creativas o de organización para hacer grandes cosas y compartir con los demás tu buena fortuna. Como alma tu luz es muy especial, que iluminará la vida de tus semejantes con tu ejemplo; y tus enseñanzas dejarán un recuerdo imborrable de su paso. Como deseo de tu alma existe la necesidad de despertar las consciencias de las masas, para permitirles escuchar su voz interior, acercarse al plan Divino y brindarles las herramientas para conectar con su sabiduría. Tu alma posee grandes deseos de proteger a los demás, sacrificando tus propios intereses.
-            <br>
-            Como aspecto no evolucionado del número 33, vibración 6:
-            <br>
-            Según la vibración numérica 6, el deseo de tu alma es desde la responsabilidad, armonía y bienestar. Estas almas desean responsabilidad, amor constante, tienen un gran deseo por el calor del hogar, por echar raíces y sentirse anclada en tierra. El deseo de tu alma es desde la responsabilidad en todos sus aspectos, sobre todo en lo afectivo, se comienza a vivir el intercambio entre el dar y el recibir, de manera sensible. El deseo del alma es consagrarse en amor y equilibrio armónico, representa la estrella de David, formada con dos triángulos, significando el equilibrio: “como es arriba es abajo”, generando la fusión entre las energías creativas y las receptoras.
-            <br> 
-            El deseo de tu alma es el de evolucionar en armonía, ofrecer amor de manera desinteresada, a apreciar la belleza y vivir en bienestar. El alma con el número 6 ansía amor, amigos y compañía. Se dedica a su familia hasta el punto de sobreprotegerlos por amor. Si bien el amor, la paz y la armonía son su meta, gusta de un debate con amigos, siempre que éstos no queden enojados. Es el deseo de tu alma servir a la comunidad, lo cual te brinda gran placer. Agradas a la mayoría por ser benévola y tolerante, aunque a veces podés ser obstinada o inquisitiva si alguien está en desacuerdo con vos.
-            <br>
-            El deseo del alma es de generar seguridad y protección al entorno, mediante la bondad, el amor y la ternura. Este dígito se relaciona con tu capacidad de amar, de asumir las responsabilidades sin sentirte agobiada. Define el modo de vivir, el interés hacia los otros, de manera sensible y receptiva. Debés tener en cuenta que es necesario cultivar firmeza para balancear tus emociones y tu juicio, siendo precavida contra la discusión, la testarudez o la intromisión respecto de los demás, lograr una actitud menos personal.
-            <br>
-            Cuando el número 6 vibra en positivo habla de una especie de padre/madre cósmica o guardiana; siendo buena consejera y amiga leal; es un refugio y un asilo para aquellos que necesitan consuelo o abrigo. Tu alma ama la holgura, el confort, la belleza, la música y la armonía, en manera artística, amable y comprensiva; aunque le gusta ser reconocida, no posee ambición de hacerse un gran nombre, tener fama o gloria; este es simplemente su propósito: ir en búsqueda de corregir y ajustar aquello que marcha mal en la vida de otros.
-            <br>
-            Si bien tu alma se inclina al convencionalismo, prima siempre la amplitud y tolerancia; es también buena jueza siempre y cuando tus emociones no estén demasiado involucradas en el asunto. Centrás tu vida en el hogar y tus seres amados. Tu alma en vibración del numero 6 ama trabajar con los demás, le gusta la alabanza, las gracias, pero rinde servicio con gusto. La belleza, la ternura, el intercambio estable, responsable y comprensivo, el sentido de protección y disponibilidad definen el significado del número 6.
-            <br>
-            Cuando no se ha desarrollado la vibración del 6, podemos ver que existe demasiada preocupación, gran carga de indecisión en tu vida, sobre todo ante los cambios personales y del entorno. En este caso se carece de una idea clara de hacia dónde dirigirse; tu alma siente que los diversos caminos que se le presentan no la conducen a ninguna parte, o la hacen feliz. La falta de orientación angustia, y la sensación de inacción te deja perpleja, sintiendo que no poseés la fuerza o determinación proveniente desde el fondo de tu Ser para encontrar el sendero que te conduzca hacia una vida plena. La carencia de esta vibración vuelve tu alma pasiva ante la vida y con una gran frustración por la inactividad o la desorientación.
-            <br>
-            En su aspecto negativo o en desequilibrio debe precaverse contra la discusión, la testarudez o la intromisión respecto de los demás. Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la ansiedad, la tiranía, celos, preocupación, fanfarronería, cinismo, intromisión, engaño, orgullo, engreimiento, esclavitud al trabajo (trabajar sin ganas), abatimiento.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por un mal manejo de sus energías, en vez de ser responsable de su vida recae sobre el victimismo y la lástima. Se torna resignada, apática, entregándose a lo que les toca vivir sin luchar en un estado de completa apatía, sin ningún tipo de entusiasmo, siendo indiferente hacia la vida. Su entorno se vuelve opresivo, al punto de querer escaparse de la vida; por lo que puede llevarte a caer en estados de angustia extrema y depresión. Al no ser responsable de tu vida, ni vibrar en armonía, te volvés una persona de poca vitalidad, abúlica e insensible; el amor no fluye naturalmente, los sentimientos dejan de movilizar tu corazón y todos los centros de energía se van bloqueando para finalmente, volverte un Ser triste y con actitud fatalista.
-             ';
-            break;
+            case 5:
+                echo 'Según la vibración numérica 5, tu deseo del alma es obtener libertad personal en todas las direcciones, tu alma está en búsqueda del cambio constante, la variedad y la apertura a nuevas oportunidades; un permanente volver a empezar. Tu alma quiere saber de la vida en todas sus fases. No te molestan ni las convenciones ni las ideas ajenas. Tu alma ama los placeres, viajes, deportes, artes, ciencia, música, idiomas. Al ser un alma en movimiento constante no le gusta esperar y quedarse; no podes someterte a la rutina o al detalle. Como alma inquieta amas la gente extraña, las caras, cosas y lugares nuevos; sos progresista intelectual, emotiva versátil y a menudo espiritual. Te adaptas a cualquier condición, país, o clase de gente, inyectas nueva vida a todo lo que tocas y seguís adelante sin detenerte con rapidez. Necesitas muchos y variados intereses; sobre todo luz de sol y multitudes. Tenés la cualidad de deshacerte fácilmente, no atarte a nada; tomando las responsabilidades o no tomarlas para nada; aunque se puede decir que a tu alma no le agrada del todo las responsabilidades.
+                <br>
+                Tu alma, con vibración del número 5, necesita cultivar la lealtad, paciencia y firmeza de propósito. Debes cultivar la concentración, y si ya poseen algún cierto grado de ella, mejorarla. Es deseo de tu alma el movimiento continuo, la búsqueda y la libertad. Representa la energía intensa y movediza. El número 5 nos enseña a evolucionar conectando el Cielo y la Tierra, a desarrollar las cualidades de adaptación, y la capacidad de libertad, movimiento y cambio. En el número 5 surge la noción de búsqueda intelectual, se revela ante las normas y comienza a diferenciarse en su modo de pensar y de vivir. Generalmente al ser una alma inquieta, también puede ser impulsiva y rápida en su actuar; esta alma ama la aventura y si es necesario caminar en la cuerda floja lo hará.
+                <br>
+                El deseo de esta alma es no desechar nada; aprovechar las oportunidades que se le presente. Es una alma sociable, por lo que sabe cómo avivar una fiesta y entretener a las personas con una interesante conversación.
+                Como alma en movimiento le gusta especular y aprovechar hasta el último centavo de su dinero en lo que se cree que es conveniente, por lo que podría ser una buena comerciante y vendedora; a esta alma le gusta también ser atleta, viajera, dirigir agencias de viaje o ser guía en una expedición alrededor del mundo; al poner mucha de sus energías en actividades sociales, puede ser organizadora de fiestas y encuentros. También al gustarle la aventura y las personas esta alma estaría muy gustosa de trabajar como psicóloga, investigadora, escritora, filósofa, detective.
+                <br>
+                Cuando el número 5 vibra en positivo habla de una persona que está en movimiento constante, en libre fluir, con libertad e independencia, apertura mental; en búsqueda del cambio y adaptación, de nuevas experiencias. La necesidad de independencia despierta el deseo imperioso de libertad personal, de encontrar la verdadera identidad y fuerza interior.
+                <br>
+                Cuando no se ha desarrollado la vibración del 5, ante la carencia de esta vibración podemos ver resistencia a los cambios, dificultades en la comunicación, severidad, rigidez, autolimitación. Este dígito nos habla de nuestra capacidad de vivir la libertad y adaptación a los cambios. Define el modo de relacionarnos con el cuerpo, la sexualidad y la energía masculina. Esta alma aprende promoviendo ideas por las que tiene insaciable curiosidad. Su progreso se debe al avance constante, con el valor de desechar lo viejo y el anhelo de aprender lo no intentado todavía.
+                <br>
+                En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de dispersión, inconstancia, derroche, falta de practicidad, rebeldía, irresponsabilidad, morosidad; muchas veces tiene caídas de imprudencia, irreflexión, descuido. También puede observarse sensacionalismo y mal gusto. Oscila entre la dependencia extrema y la independencia; intenta hacer demasiado. Muy indulgente con sí misma.
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la irreflexión, irresponsabilidad, libertinaje, perversión, malevolencia, vicios adictivos, precaverse de la tendencia al juego, a la bebida y las drogas. También de oportunismo, corrupción y ventajismo. Cuando vibra en negativo se puede ver un rechazo hacia las personas, esta alma puede volverse antisocial y hasta vibrar con un grado de intolerancia y sectarismo.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por los vicios y la dependencia, siendo irresponsable, inestable, indiferente ante los demás e incluso ante la vida. Terminan en una esclavitud del hábito del cuerpo; con gran pereza, sin gusto por el quehacer. Esta alma con una vibración destructiva resulta ser hipercrítica, nerviosa, cambiante, sin ética, con muchos miedos, con gran deshonestidad y libertinaje. 
+                ';
+                break;
+
+            case 6:
+                echo 'Según la vibración numérica 6, el deseo de tu alma es desde la responsabilidad, armonía y bienestar. Estas almas desean responsabilidad, amor constante, tienen un gran deseo por el calor del hogar, por echar raíces y sentirse anclada en tierra. El deseo de tu alma es desde la responsabilidad en todos sus aspectos, sobre todo en lo afectivo, se comienza a vivir el intercambio entre el dar y el recibir, de manera sensible. El deseo del alma es consagrarse en amor y equilibrio armónico, representa la estrella de David, formada con dos triángulos, significando el equilibrio: “como es arriba es abajo”, generando la fusión entre las energías creativas y las receptoras.
+                <br> 
+                El deseo de tu alma es el de evolucionar en armonía, ofrecer amor de manera desinteresada, a apreciar la belleza y vivir en bienestar. El alma con el número 6 ansía amor, amigos y compañía. Se dedica a su familia hasta el punto de sobreprotegerlos por amor. Si bien el amor, la paz y la armonía son su meta, gusta de un debate con amigos, siempre que éstos no queden enojados. Es el deseo de tu alma servir a la comunidad, lo cual te brinda gran placer. Agradas a la mayoría por ser benévola y tolerante, aunque a veces podés ser obstinada o inquisitiva si alguien está en desacuerdo con vos.
+                <br>
+                El deseo del alma es de generar seguridad y protección al entorno, mediante la bondad, el amor y la ternura. Este dígito se relaciona con tu capacidad de amar, de asumir las responsabilidades sin sentirte agobiada. Define el modo de vivir, el interés hacia los otros, de manera sensible y receptiva. Debés tener en cuenta que es necesario cultivar firmeza para balancear tus emociones y tu juicio, siendo precavida contra la discusión, la testarudez o la intromisión respecto de los demás, lograr una actitud menos personal.
+                <br>
+                Cuando el número 6 vibra en positivo habla de una especie de padre/madre cósmica o guardiana; siendo buena consejera y amiga leal; es un refugio y un asilo para aquellos que necesitan consuelo o abrigo. Tu alma ama la holgura, el confort, la belleza, la música y la armonía, en manera artística, amable y comprensiva; aunque le gusta ser reconocida, no posee ambición de hacerse un gran nombre, tener fama o gloria; este es simplemente su propósito: ir en búsqueda de corregir y ajustar aquello que marcha mal en la vida de otros.
+                <br>
+                Si bien tu alma se inclina al convencionalismo, prima siempre la amplitud y tolerancia; es también buena jueza siempre y cuando tus emociones no estén demasiado involucradas en el asunto. Centrás tu vida en el hogar y tus seres amados. Tu alma en vibración del numero 6 ama trabajar con los demás, le gusta la alabanza, las gracias, pero rinde servicio con gusto. La belleza, la ternura, el intercambio estable, responsable y comprensivo, el sentido de protección y disponibilidad definen el significado del número 6.
+                <br>
+                Cuando no se ha desarrollado la vibración del 6, podemos ver que existe demasiada preocupación, gran carga de indecisión en tu vida, sobre todo ante los cambios personales y del entorno. En este caso se carece de una idea clara de hacia dónde dirigirse; tu alma siente que los diversos caminos que se le presentan no la conducen a ninguna parte, o la hacen feliz. La falta de orientación angustia, y la sensación de inacción te deja perpleja, sintiendo que no poseés la fuerza o determinación proveniente desde el fondo de tu Ser para encontrar el sendero que te conduzca hacia una vida plena. La carencia de esta vibración vuelve tu alma pasiva ante la vida y con una gran frustración por la inactividad o la desorientación.
+                <br>
+                En su aspecto negativo o en desequilibrio debe precaverse contra la discusión, la testarudez o la intromisión respecto de los demás. Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la ansiedad, la tiranía, celos, preocupación, fanfarronería, cinismo, intromisión, engaño, orgullo, engreimiento, esclavitud al trabajo (trabajar sin ganas), abatimiento.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por un mal manejo de sus energías, en vez de ser responsable de su vida recae sobre el victimismo y la lástima. Se torna resignada, apática, entregándose a lo que les toca vivir sin luchar en un estado de completa apatía, sin ningún tipo de entusiasmo, siendo indiferente hacia la vida. Su entorno se vuelve opresivo, al punto de querer escaparse de la vida; por lo que puede llevarte a caer en estados de angustia extrema y depresión. Al no ser responsable de tu vida, ni vibrar en armonía, te volvés una persona de poca vitalidad, abúlica e insensible; el amor no fluye naturalmente, los sentimientos dejan de movilizar tu corazón y todos los centros de energía se van bloqueando para finalmente, volverte un Ser triste y con actitud fatalista.
+                ';
+                break;
             
-        case 44:
-            echo 'Según la vibración numérica 44, el deseo de tu alma es que todos participen de la prosperidad universal y que se convierta en realidad. Como alma lucharas por grandes avances, te harás cargo de grandes responsabilidades. Este número exige gran disciplina y perseverancia; posees de mucha lógica y sentido común para atender a todas las necesidades materiales del mundo, mediante técnicas productivas y eficaces. Puesto que es un número maestro, mucho se espera de una portadora de este número, nos encontramos ante la gran hacedora del mundo. El 44 un número muy potente, pocas personas pueden vivir a la altura de dicho número, por lo general son grandes líderes; obviamente, aquellos que no estén a la altura de dicho número deberán conformarse a vivir como un número 8.
-            <br>
-            Como aspecto evolucionado del número 44:
-            <br>
-            El deseo de tu alma es hacer para otros, venís a dar forma a las cosas, a conectar con la materialización y concreción; para poder, a través de tu inspiración, legar obras concretas en beneficio de toda la humanidad. Posees la facultad de elegir el mejor camino en una situación, tus metas son de amplio alcance, lo que sumado a tu fuerza te permite ocupar elevadas posiciones en el campo de la conducción. Sos una constante trabajadora del intelecto, ya que sos una creadora nata de obras originales, tu punto débil radica en todas las cuestiones sentimentales, debido a que esta vibración requiere asociaciones que lo entiendan profundamente.
-            <br>
-            Tu alma posee valor moral, aspiraciones elevadas y habilidades fuera de lo común, ya que pertenece a una Vibración Maestra, posees un toque mágico para ganar dinero, esto te convierte en constructora material y espiritual del mundo; como promotora de grandes imperios, usas tu fortuna, tu prestigio y autoridad en beneficio de tus semejantes. Es el símbolo del poder puesto al servicio del espíritu y la entrega a todos los seres humanos. Por lo general, alcanzar la vibración 44 implica mucho trabajo personal, si cedes a la codicia y la ambición o te dejas frenar por una excesiva cautela o temor, estarás actuando con la vibración de un número 8, sin el carisma ni las motivaciones del número Maestro.
-            <br>
-            Como alma genuina 44 sos consciente de que tenes una misión que cumplir, de manera que dedicas parte de tus ingresos y sobre todo de tus esfuerzos a trabajar para solucionar los problemas materiales de tu comunidad y estas a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados. Podes alcanzar éxitos sobresalientes en operaciones de gran envergadura o iniciativas de bienestar común, gracias a tu extraordinaria personalidad, carisma, como por tus ideas originales y brillantes. Utilizarás tus aptitudes intuitivas, financieras, creativas o de organización para hacer grandes cosas y compartirás con los demás tu buena fortuna. Como alma sos muy especiales, iluminarás la vida de tus semejantes con tu ejemplo y sus enseñanzas dejarán un recuerdo imborrable de su paso.
-            <br>
-            Como aspecto no evolucionado del número 44, vibración 8:
-            <br>
-            Según la vibración numérica 8, tu deseo del alma es lograr el equilibrio entre lo material y espiritual. El poder, energía y realización son deseos de tu alma. El número 8 nos habla de la organización, la perseverancia y el control de la energía para producir logros materiales y espirituales. Representa el poder de la realización, la abundancia en el mundo mental y espiritual representado en la curva superior, y la abundancia material, a la que hace referencia en su curva o base inferior. Es decir que el deseo de tu alma es trabajar sobre la abundancia en todo lo que ella respecta.
-            <br> 
-            El deseo de tu alma implica aprender a descubrir tus propias capacidades, aquellos talentos que sirven para transformar la Tierra. En el número 8 surge la capacidad de organización y el poder de realización a través de tus propias estrategias. La fuerza creadora tanto material como espiritual.
-            <br>
-            Según la vibración del número 8, ansías asuntos grandes y el poder de dominarlos, queriendo éxito en todas las cosas materiales. Estas a gusto con la organización, la construcción, las finanzas, las grandes operaciones del mundo financiero, te gusta manejar y dirigir, tenés habilidad para los grandes logros y acumulaciones. Sos generosa, amplia de mente, poderosa. La ambición, el poder psíquico y material, la audacia, el coraje y la capacidad de mando definen el alma que vibra con el número 8. Ya has desarrollado la toma de consciencia personal, ahora estas lista para transformar y desarrollar tus tesoros internos con el fin de construirte.
-            <br>
-            Se puede confiar en tu alma por el gran tinte de honestidad que trae. Tienen fuerza, entusiasmo, valentía, ecuanimidad y determinación. Les gusta luchar contra la oposición confiando en su propia victoria, pueden ser dominantes y exigentes, pero no se economizan ellos mismos o sea que ellos saben dar o rendir. Puede gustarles el dinero y el lucimiento, pero son la piedra angular de la comunidad. Tienen visión e imaginación para hacer que sus esfuerzos produzcan. Son eficaces, ejecutivos de excelente criterio; son un poder del bien.
-            <br>
-            Con tu alma con una vibración 8, te moviliza la capacidad de manejar tus talentos y tu poder. Referido a la capacidad de trabajo, de perseverancia y de la búsqueda del equilibrio material y espiritual. El modo de desenvolverte con capacidad organizativa, control, perseverancia y solidez.
-            <br>
-            Los números 8 necesitan cultivar la justicia y la tolerancia hacia los más débiles, menos eficientes. Debes aprender organización y cooperación. Cuando el número 8 vibra en positivo habla de una persona que disfruta de la abundancia y de la influencia, no abusa de las preocupaciones; agradece la abundancia y la sabiduría. Posee poder ejecutivo; suele ser exitosa y con capacidad resolutiva; con buen juicio, no estando aferrada a lo material.
-            <br>
-            Cuando hay una carencia de la vibración del 8, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra carencia de voluntad para seguir adelante, con temores referentes a temas de dinero, el poder, el control, y/o el reconocimiento; con un gran saboteo hacia la propia persona. También puede suceder que la persona se vuelva algo avara; haya abuso del poder y se vuelva excesivamente ambiciosa.
-            <br>
-            Ante el desequilibrio de estas energías podemos encontrar actitudes de extrema ambición personal, apego a lo material y una marcada resistencia a los cambios. Rigidez mental, desconfianza y una gran exigencia, dificultad para concretar metas, dificultad para alcanzar objetivos, para descubrir y poner en práctica talentos ante la ineficiencia, falta de ambición y la desorganización. También es se vuelve una persona tímida, desordenada y pasiva en exceso.
-            <br>
-            Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee intolerancia, impaciencia, tensión, intriga, torpeza, con gran temor sobre alguno de los aspectos (materiales y/o espirituales). Por lo que entra en un estado ambivalente que puede llevarla a estados de bipolaridad, confusión; y se puede tornar hacia el alcoholismo. Vive la vida de forma dramática.
-            <br>
-            Si vibra en negativo / destructivo, entonces nos encontramos con una persona que se aleja demasiado de su parte espiritual recayendo la balanza en un excesivo interés por lo material, lo que la hace ambiciosa, dura, inclemente, con una gran sed de poder. También gobiernan estados de opresión, venganza, injusticia, celos, envidia, avaricia, obstinación, autoritarismo.';
-            break;
+            case 7:
+                echo 'Según la vibración numérica 7, el deseo de tu alma es vivir desde la reflexión, el perfeccionismo y espiritualidad, busca conocimiento y sabiduría sobre todas las cosas. Deseando silencio y paz para vivir tu vida interior, desde el pensamiento profundo, la perfección que se busca alcanzar es desde lo intelectual y espiritual. Representa lo sagrado, enlazando lo Divino y lo humano, formado por el Tres (la divina Trinidad) y el Cuatro (los Elementos Terrestres). El número 7 nos enseña a descubrir nuestra unidad interior, encontrando el equilibrio espiritual y corporal. En él surge la búsqueda de toma de conciencia personal, mediante el estudio y la disciplina interior. El deseo de tu alma es lograr confiar en tu intuición y aprender a oír la voz de tu interior para conectar con la sabiduría que te habita. De esta manera podrás ampliar tu percepción, captando fácilmente un engaño, o reconocer a una persona superficial; del mismo modo, tener el poder de conectar con las almas que te ayudarán y guiarán en tu camino de crecimiento y evolución.
+                <br>
+                Tu alma, con vibración del número 7, necesita cultivar la comprensión, la compasión, evitar el temor y la tristeza profunda. Debe aprender a vivir sola pero no sentirse solitaria, disfrutando de los momentos de silencio; a vivir sola estando con los demás. Aunque hay un agrado por los momentos de soledad, suelen temerle a ésta, y la pobreza. 
+                Es deseo de tu alma es manejarse en el silencio y enriquecerse de él, esto le permite inundarse en su mundo interno y contactar con su sabiduría interior. Tu alma desea tiempo y quietud para meditar. Por esto tu alma se aleja de los ruidos, el bullicio, la confusión del mundo de los negocios. Algunas veces este gusto por el silencio suele generar en el entorno una falta de comprensión hacia tu persona, al ser muy retraída y solitaria. El deseo de tu alma es mantenerse en lo conocido, ya que no hay un sentimiento de comodidad en lo nuevo, lo repentino o efímero. Por lo que tu alma es atraída por los tesoros de antaño, los viejos jardines, las casas antiguas, los muebles y objetos que guardan el paso del tiempo. Aunque no hay un gran gusto por los trabajos manuales y minuciosos, puede encontrar en ellos el agrado de realizarlos por el hecho del silencio y la meditación.
+                <br>
+                El deseo de tu alma es el de desplegar su lado de pensadora profunda, absorbiendo conocimiento prácticamente de toda fuente. A estas almas les gusta analizar, disecar, examinar y considerar desde todos los ángulos; jamás aceptará alguna premisa sin haber agotado todas las probabilidades de error y obviamente sacará sus propias conclusiones. Van a la raíz de todas las cosas y preguntan la razón del por qué. Son buscadas por su sabiduría, pero no brillan en sociedad, suelen ser tímidas y retraídas. Son profundamente emotivas, pero les horroriza exponerse, la mirada del mundo externo las inhibe. Someten todo a un análisis mental agudo, quieren que los detalles estén perfectos antes de pasar al próximo. Son un pozo de secretos, espirituales, científicos, filosóficos o meta-filosóficos, para amarlas hay que conocerlas en profundidad.
+                <br>
+                Cuando el número 7 vibra en positivo habla de una persona que se basa en la reflexión filosófica, la introspección, la agudeza mental, la búsqueda de conocimientos y el perfeccionismo. Vibrando positivamente es un alma que a aprendido a convivir en armonía, amándose y dando amor, suele haber momentos en que se distancia de sus vínculos en la búsqueda interior, para ser protagonista de su vida. Este dígito al estar vibrando en positivo amplía la capacidad de conectarte con vos misma, de vivir la reflexión interior y la toma de conciencia personal, agudeza mental, perfeccionismo y exigencia.
+                <br>
+                Cuando no se ha desarrollado la vibración del 7, ante la carencia de esta vibración podemos ver de una persona con grandes dudas que bloquean su pensamiento; no hay un libre fluir y tiende a escaparse de la realidad. Esto puede llevar a la persona a estados de preocupación extrema, sentimiento de estar perdida, ideales equivocados y un cerramiento absoluto que la vuelve recluida, antisocial e intratable. Puede haber una gran interferencia en pensamientos que imposibilita que contacte con el presente, haciendo que no se “ancle a tierra”, que se evada y hasta que niegue su realidad.
+                <br> 
+                En su aspecto negativo o en desequilibrio nos encontramos frente a los aspectos de vivenciar una extrema reserva, falta de comunicación, rigor, emotividad reprimida, intolerancia y falta de practicidad, actitudes de superficialidad, falta de reflexión y análisis, dispersión y poca atención al detalle. Esto puede llevar a estados de ansiedad y abatimiento. Se vuelve por demás de aislado, muy exigente e inseguro. No acepta que lo contradigan, si lo hacen responde desde la arrogancia, ya que hay una incomprensión hacia el entorno.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por la infidelidad hacia ella misma y hacia los demás, a veces cayendo en estados de malicia, sarcasmo, frialdad, deshonestidad y orgullo. Se vuelve por demás de aislado, muy exigente y tirano. No acepta oposición a su ego y si se siente expuesto toma revancha sin misericordia; ya que hay una autoimagen muy alta. No escucha al entorno. Existe bajo una desconfianza total.
+                ';
+                break;
 
-}
+            case 8:
+                echo 'Según la vibración numérica 8, tu deseo del alma es lograr el equilibrio entre lo material y espiritual. El poder, energía y realización son deseos de tu alma. El número 8 nos habla de la organización, la perseverancia y el control de la energía para producir logros materiales y espirituales. Representa el poder de la realización, la abundancia en el mundo mental y espiritual representado en la curva superior, y la abundancia material, a la que hace referencia en su curva o base inferior. Es decir que el deseo de tu alma es trabajar sobre la abundancia en todo lo que ella respecta.
+                <br> 
+                El deseo de tu alma implica aprender a descubrir tus propias capacidades, aquellos talentos que sirven para transformar la Tierra. En el número 8 surge la capacidad de organización y el poder de realización a través de tus propias estrategias. La fuerza creadora tanto material como espiritual.
+                <br>
+                Según la vibración del número 8, ansías asuntos grandes y el poder de dominarlos, queriendo éxito en todas las cosas materiales. Estas a gusto con la organización, la construcción, las finanzas, las grandes operaciones del mundo financiero, te gusta manejar y dirigir, tenés habilidad para los grandes logros y acumulaciones. Sos generosa, amplia de mente, poderosa. La ambición, el poder psíquico y material, la audacia, el coraje y la capacidad de mando definen el alma que vibra con el número 8. Ya has desarrollado la toma de consciencia personal, ahora estas lista para transformar y desarrollar tus tesoros internos con el fin de construirte.
+                <br>
+                Se puede confiar en tu alma por el gran tinte de honestidad que trae. Tienen fuerza, entusiasmo, valentía, ecuanimidad y determinación. Les gusta luchar contra la oposición confiando en su propia victoria, pueden ser dominantes y exigentes, pero no se economizan ellos mismos o sea que ellos saben dar o rendir. Puede gustarles el dinero y el lucimiento, pero son la piedra angular de la comunidad. Tienen visión e imaginación para hacer que sus esfuerzos produzcan. Son eficaces, ejecutivos de excelente criterio; son un poder del bien.
+                <br>
+                Con tu alma con una vibración 8, te moviliza la capacidad de manejar tus talentos y tu poder. Referido a la capacidad de trabajo, de perseverancia y de la búsqueda del equilibrio material y espiritual. El modo de desenvolverte con capacidad organizativa, control, perseverancia y solidez.
+                <br>
+                Los números 8 necesitan cultivar la justicia y la tolerancia hacia los más débiles, menos eficientes. Debes aprender organización y cooperación. Cuando el número 8 vibra en positivo habla de una persona que disfruta de la abundancia y de la influencia, no abusa de las preocupaciones; agradece la abundancia y la sabiduría. Posee poder ejecutivo; suele ser exitosa y con capacidad resolutiva; con buen juicio, no estando aferrada a lo material.
+                <br>
+                Cuando hay una carencia de la vibración del 8, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra carencia de voluntad para seguir adelante, con temores referentes a temas de dinero, el poder, el control, y/o el reconocimiento; con un gran saboteo hacia la propia persona. También puede suceder que la persona se vuelva algo avara; haya abuso del poder y se vuelva excesivamente ambiciosa.
+                <br>
+                Ante el desequilibrio de estas energías podemos encontrar actitudes de extrema ambición personal, apego a lo material y una marcada resistencia a los cambios. Rigidez mental, desconfianza y una gran exigencia, dificultad para concretar metas, dificultad para alcanzar objetivos, para descubrir y poner en práctica talentos ante la ineficiencia, falta de ambición y la desorganización. También es se vuelve una persona tímida, desordenada y pasiva en exceso.
+                <br>
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee intolerancia, impaciencia, tensión, intriga, torpeza, con gran temor sobre alguno de los aspectos (materiales y/o espirituales). Por lo que entra en un estado ambivalente que puede llevarla a estados de bipolaridad, confusión; y se puede tornar hacia el alcoholismo. Vive la vida de forma dramática.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona que se aleja demasiado de su parte espiritual recayendo la balanza en un excesivo interés por lo material, lo que la hace ambiciosa, dura, inclemente, con una gran sed de poder. También gobiernan estados de opresión, venganza, injusticia, celos, envidia, avaricia, obstinación, autoritarismo.';
+                break;
 
-echo "<br>";
+            case 9:
+                echo 'Según la vibración numérica 9, el deseo de tu alma es el de servir al mundo entero, queriendo brindar a todos los beneficios de tus conocimientos y experiencias; posees un alma altruista y humanitaria. Das de vos misma sin pensar en tu propio empobrecimiento, sabes que siempre podés dar un poco más, porque tenés fe ilimitada en tu propia fuente de proveeduría. Los números 9 son los llamados hermanos universales: compasivos, comprensivos y servidores. Tenés sabiduría, intuición, amplitud de mente y de criterio, posees una gran nobleza en tu alma.
+                <br>
+                Como número 9 sos atractiva y amada por todos. Estás dispuesta a dar tu vida por la humanidad, en tu alma vibra el sentido de lealtad. Tus emociones no admiten una mentalidad cerrada o egoísta; muy por el contrario, tenés lugar para la imaginación y el gusto por la aventura, que te van a permitir revertir cada adversidad. Tu alma siente la necesidad de libertad, por ello te cuesta vincularte con personas o lugares por largos períodos de tiempo. Los 9 necesitan cultivar el balance, el control emocional y necesitan definirse. Los números nueve deben aprender a ser desinteresados y servidores para el bien de todos, pero de forma inteligente.
+                <br>
+                Cuando el número 9 vibra en positivo habla de una persona con dotes de compasión y tolerancia, estos te permiten comprender ideas y situaciones en menor tiempo, y de manera más eficaz que el resto de las personas. Tu alma es completamente libre, física y espiritualmente, esto te permite abrirte a otros mundos, tener un gran sentido de la amistad y amor sano. Tu alma posee gran capacidad de desplegar amor, de modo creativo, idealista, original y bondadoso. Este número en una vibración armoniosa y equilibrada te lleva a desarrollar aspectos de sensibilidad, emotividad, intuición, servicio humanitario como también a ampliar los límites en pos de ideales. El deseo de tu alma es mantener la vibración en la armonía del dar y recibir, esto la conecta con la alegría y el optimismo. Como este es el deseo de tu alma tendrás esta vibración pujante en vos, sin embargo, es importante que realices esto con sabiduría para evitar abusos desde el exterior. 
+                <br> 
+                Cuando hay una carencia de la vibración del 9, tu alma puede sentirse perdida, ya que no se está desplegando su potencial, lo que llevará a posibles bloqueos. A pesar de que la vibración del 9 en tu alma te vuelve una persona más bien callada, una carencia llevaría a una incapacidad de expresión; también nos habla de ingenuidad, superficialidad, incapacidad de comprender a los demás, sensación de haber perdido el rumbo. Muchas veces la carencia de esta vibración en movimiento y en conexión con tu alma provoca un desinterés por los demás, dificultando las relaciones duraderas, ya sea de amistad como amorosas. Probas miedo a ser rechazada, a equivocarte; esto sucede al no estar en contacto con tu intuición, habilidades y dones. Puede darse una pérdida de la alegría, ver la vida sin colores y caer en estados de pesimismo y negación.
+                <br> 
+                Si vibra en desequilibrio, en tu Ser puede generarse un gran monto de ansiedad, sobre todo por una búsqueda incesante de la perfección. No obstante la vibración 9 vuelva tu alma amorosa, en desequilibrio hay una necesidad extrema de ser valorada y querida, llevándote por consiguiente al apego, inseguridades y miedos.
+                <br> 
+                Este número mal aspectado y vibrando en negativo, nos muestra una alta impulsividad y emotividad, exceso de idealismo que lleva a la falta de concreción de metas, baja autoestima y celos. Muestra actitudes de indiferencia, falta de compromiso, intolerancia, desconfianza, ambición y egoísmo. En este aspecto tu alma queda encapsulada y limitada, centrándose en sí misma y cerrándose al mundo, con una mentalidad cerrada y egoísta, con metas relacionadas a la ambición materialista, la rivalidad y la enemistad; con deseos internos de que al otro le vaya mal por falta de fe en vos misma. En este caso debes aprender a canalizar y dirigir la energía, ya que al ser poco constante perdes fuerza y magnetismo.
+                <br>
+                Si vibra en negativo / destructivo, aquello de la energía negativa se potencia aquí al punto de ser destructiva tanto para vos misma como para el mundo; entonces nos encontramos con una persona fanática, egocéntrica, terca, brusca, tajante, indiscreta, insensible, escéptica, racistas, vanidosa, intolerante, con gran incapacidad para amar. Viviendo en estado de competencia con los demás, siendo ventajista e intentando dominar y manipular al entorno.';
+                break;
+
+            case 11:
+                echo 'Según la vibración numérica 11, el deseo de tu alma es revelar las bellezas que han visto y conocido. Puesto que es un número maestro, mucho se espera de un portador de este número, que es idealista e inspirador. Como deseo de tu alma hay un empuje constante de predicar el vivir fiel a los ideales, deseando que todos los Seres aprendan su propia idea de Dios.
+                <br> 
+                Como alma con vibración 11 tenes un gran deseo de abrir puertas y ayudar a los demás para mayores logros; proveyendo remedios universales, pero muchas veces no comprendes las necesidades humanas. Como alma 11 sos siempre universalista, no te preocupa el individuo: sos soñadora y visionaria, con la pasión por la salvación y elevación, amando tus ideales. Posees una gran fuerza interior y la devoción del mártir. Los 11 necesitan cultivar la comprensión humana, debes aprender a mezclarte con el público y brindar conocimientos a todos. El liderazgo es la expresión poderosa de un alma con vibración 11.
+                <br>
+                El deseo de tu alma es ser mensajera, predicando una forma de vivir conectada con la fuente Universal, con la sabiduría interior; por lo que la luz del fuego divino está en tus ojos y a través de tus exhortaciones inspiradas llevas a muchos a vivir la vida alegremente y en conexión con su Ser. Como alma con vibración 11 es importante que puedas confiar en tus corazonadas, ya que existe una gran apertura de la intuición, por lo que el deseo de tu alma será de ser inspiración de todos. El deseo de tu alma es encender la luz de tu propia visión e inspiración.
+                El deseo de tu alma es de elevar la consciencia de los demás, con tu presencia trasmutas lo negativo en positivo, sos un alma próspera y abundante. Por lo que muchas personas pueden tomarte como ejemplo de vida, esto hará que tengas el deseo de vivir humildemente siendo notable. Tu alma desea desarrollar talentos constantemente. Como alma en vibración 11, tenes la capacidad de conectar con los Maestros Ascendidos, siendo un canal Divino, tu alma desea que abras este campo intuitivo y lo despliegues.
+                <br>
+                Cuando el número 11 vibra en positivo estamos frente a una especie de apertura mental, un alma con grandes habilidades psíquicas, pudiendo ser vidente. Tu alma es religiosa y espiritual, sensible y emotiva. Te agrada la inventiva y el liderazgo. Debes aprender a mezclarte con el público y brindar conocimientos a todos. No ambicionas cumplidos, te gusta la compañía de tu entorno y posees un gran don para las uniones, sociedades y amistades. Sos un líder natural, tu intuición es fuerte, posees opiniones propias, definidas y, por lo general, sabias y acertadas; por lo que generas la confianza suficiente para ser un gran guía y maestra.
+                <br> 
+                Cuando no se ha desarrollado la vibración del 11, podemos hablar de una carencia vibracional, estas almas prefieren más seguir antes que dirigir, pueden ser manejables y a menudo sometidas; poseen una falta de confianza en su propio juicio, en sus propias intuiciones, lo que llevaría a que dependa de la mirada de su entorno para validarse. Esto lleva a estados de indecisión, recurriendo en forma permanente a otras personas en búsqueda de consejo, es común que esta situación los lleve a desviarse de su propio camino y sentirse bloqueada. Aunque su intuición es fuerte y su alma es sabia, su miedo a transgredir las normas o a errar es tan grande, que la oculta y niega. Esto lleva a que admire y escuche a la persona equivocada, siendo crédula e inocente. Estas almas empiezan caminos que nunca continúan, diversas carreras, cursos, etc.; no los finalizan porque no es capaz de capitalizar la información que recibe, sintiéndose así insatisfecha y frustrada. También se muda de vivienda, de residencia, de pareja. Cambia constantemente de idea, por lo que quienes lo rodea no confía en ella.
+                <br>
+                En su aspecto negativo o en desequilibrio es un alma sin propósitos, pasa de una cosa a otra, movilidad contante que la lleva a una vida sin sentido, falta de motivación y de comprensión; la falta de orientación angustia, y la sensación de inacción la deja perpleja, y seguramente desearía tener fuerzas que provenga desde el fondo de su Ser, que la ayude a encontrar el sendero que la lleve hacia una vida plena. Siente la frustración de la inactividad y de la desorientación, lo que lo hace inestable, frustrada y resignada frente a la vida. Sin metas y objetivos, va por la vida en un campo de dualidades que bloqueará su energía.
+                <br> 
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona con un ciego fanatismo, con aires de superioridad, imposición de la voluntad, idealismo personal. Siendo un alma miserable, avara, deshonesta, bandida. La tendencia a la acumulación y el materialismo la llevará a hacer asociaciones peligrosas, ser una gran mentirosa, manipuladora y despiadada con tal de llegar a su objetivo. Esta alma vibrando en destructivo será la maestra de las perdiciones, le venderá su alma al diablo si es necesario, con tal de tener fama, dinero y poder. También es posible que esta alma caiga en adicciones, trampas, estafas, robos, corrupción e inmoralidad.';
+                break;
+            
+            case 22:
+                echo 'Según la vibración numérica 22, el deseo de tu alma es ser perfecta constructora para el bien y la seguridad de todos. Tu alma desea construir caminos perfectos para que el mundo pueda andar sin dificultades. Para ello tu alma comprende la necesidad de ser práctica en un mundo práctico. Puesto que es un número maestro, mucho se espera de una portadora de este número, que es idealista e inspiradora. Tu alma está llamada a realizar grandes obras que sirvan a la humanidad, proyectos ambiciosos y de gran amplitud, tenes la posibilidad de trabajar a un nivel concreto, con estrategia y resistencia, para construir propósitos elevados.
+                <br>
+                El deseo de tu alma es de ser maestra mística, representa el ideal realizado. Como maestra enseñas el camino, pero también enseñas a construirlo. Tenes tus ojos colocados en las estrellas y tus pies sobre la tierra. Todos los números 22 necesitan cultivar la constante adhesión a sus ideales en medio de la materialidad, esto los convierte en los constructores materiales y espirituales del mundo.
+                <br>
+                Como alma con vibración 22 tenes un gran deseo de abrir puertas y ayudar a los demás para mayores logros; sos respetada, las personas confían en vos ya que nunca delatas una confidencia. Como alma con vibración 22 no solo tenes visiones, sino que también podes ver cosas en gran escala y llevar a cabo tus planes para concretar tu meta. El 22 es una maestra constructora, da al mundo orden y sistema, por lo que tu alma anhela lanzar proyectos en beneficio de toda la humanidad.
+                El deseo de tu alma es de abrirte como canal de construcción y sabiduría, teniendo en tu Ser el poder de sanación, en tus manos está la clave para lograr milagros. Como alma con vibración 22 posees capacidades extraordinarias y es el deseo de tu alma descubrirlas.
+                <br> 
+                El deseo de tu alma es el de enseñar a diseminar amor y luz por el mundo; impulsando a construir una estructura que contenga las verdades eternas. Un genuino 22 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y está a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados. Es por ello que el deseo de tu alma pasa más por lo colectivo que por lo individual, el anhelo de tu alma es dejar su huella en la humanidad. Para esta alma vibrando en 22 el mundo es su casa.
+                <br>
+                Cuando el número 22 vibra en positivo estamos frente a un alma llena de luz y amor, con la capacidad de iluminarse para iluminar a los demás, es un Ser honesto, creativo, libre, expresivo, innovador, práctico, firme, equilibrado y sólido. Con una gran pureza, armonía y paz. Estamos frente a una maestra mística, enseñará a transitar el camino de una manera próspera y a construir nuevos senderos para los demás. Mediante sus palabras abrirá corazones y lanzará a las almas al encuentro con su vibración amorosa. Cuando un 22 vibra en positivo logra encontrar su propósito aún estando en un entorno negativo y tóxico, puede aprender de las malas experiencias y salir fortalecida.
+                <br>
+                Esta alma ayuda a los demás a conectar con la alegría, con la acción, y con un jubiloso sentimiento de plenitud. Ayuda a encontrar y comprender que dentro de cada Ser existen muchas razones, a veces dormidas o tapadas, para participar en la propia existencia y facilitar así la evolución personal. Ayuda en la construcción de vida de otras personas, despertando interés por las cosas cotidianas que antes no veían, disfrutando de sus vínculos y de lo que pueden aprender.
+                <br>
+                Cuando no se ha desarrollado la vibración del 22, podemos hablar de una carencia vibracional, este doble dígito 2 necesita equilibrar sus aspectos emocionales, para evitar vivir conflictos psicológicos que puedan llevarlos a conflictos afectivos y vinculares. Hay también una gran necesidad de equilibrar su energía física (número 4) que debe ser bien utilizada. Este Número Maestro necesita canalizar sus potentes energías para no tensionarse o deprimirse, ya que su punto débil es lo emocional. Estas almas que no han desarrollado ni potenciado su vibración poseen un complejo de inferioridad, indiferencia hacia en entorno y la vida, reprobación contante, rusticidad, impracticidad, temeridad e incapacidad. Se vuelven ilusos, conflictivos e influenciables. Existe una rigidez consigo mismo y se priva de los placeres de la vida, por lo que se vuelve malhumorado y perfeccionista. Se propone objetivos tan altos, que requieren un permanente esfuerzo por cumplirlo, esto trae aparejado autosacrificios y privaciones muy severas, casos como estos serían los fanáticos extremistas, los defensores de algunas sectas religiosas, ciertas tendencias alimentarias estrictas, o defensores de una causa social, política o idealista. Estas almas pueden volverse orgullosas y se niegan a dar un paso atrás, tornándose entonces rígidos consigo mismo y con el mundo, pero también muy autocríticos.
+                <br>
+                En su aspecto negativo o en desequilibrio es un alma materialista, realizando trucos y engaños para enriquecerse rápidamente, utiliza la habladuría para enmarañar. Cumple con los demás solo por el reconocimiento y para cobrarse luego, no hace nada sin estar midiendo lo que puede obtener a futuro. Su deseo es ser tomada como ejemplo, se considera extremadamente perfecta, siendo orgullosa y rígida; puede llegar al fanatismo, desea convencer a los demás de sus ideas y odia ser vencida. Todas las acciones apuntan a perfeccionarse a sí misma, y los demás sólo cobran algo de importancia si son lo suficientemente inteligentes como para seguir su ejemplo; de lo contrario son descartadas de su vida. Esto la vuelve intolerante, antisocial y aislada.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con un alma oscura, una maestra de la oscuridad; con tendencias a la magia negra, el ocultismo, la política, economía, lugares para alcanzar poder, popularidad y opulencia. Es una constructora individualista y soberbia; solo le interesa su propia perseverancia y la alcanza a cualquier costa. Cuando vibra en destructivo la oscuridad la rodea; llena de problemas, sobre todo económicos y emocionales. Posee un gran deseo de poder y dominio sin piedad, manipula a su entorno desde la lástima o desde la violencia.';
+                break;
+
+            case 33:
+                echo 'Según la vibración numérica 33, el deseo de tu alma es ser perfecta en tu expresión para servir a los demás, amando la belleza, la música, el arte y toda expresión que revele la profundidad del alma. Puesto que es un número maestro, mucho se espera de una portadora de este número, nos encontramos ante una maestra espiritual. Por lo general, alcanzar la vibración 33 implica mucho trabajo personal, ya que estaríamos en un campo de evolución consciente elevado; por lo que, en su mayoría, quienes poseen como resultado 33 se reduce a un 6 y se analiza esta vibración. El 33 es un número muy potente, pocas personas pueden vivir a la altura de dicho número. Obviamente, aquellos que no estén a la altura de dicho número deberán conformarse a vivir como un número 6. (33 = 3+3 = 6).
+                <br>
+                Como aspecto evolucionado del número 33:
+                <br>
+                El deseo de tu alma es el de vivir una vida de servicio sin esperar nada a cambio. Soles ser muy sensible ante el dolor de los demás y sufrir por sus miserias, vivís con un gran anhelo de ver concretado el bien universal. Esto es una experiencia de servicio a los demás que no debe ser confundida con la servidumbre ni la esclavitud por objetivos particulares ni ajenos. Estas almas están llamadas a convertirse en luz y guía de los demás por su mentalidad excepcionalmente inspirada, intuitiva y espiritual. Se destacan ampliamente porque sus aspiraciones trascienden los objetivos de los demás, ya que su meta primordial es ayudar y enseñar con su propio ejemplo, sus conocimientos y su asistencia.
+                <br>
+                El deseo de tu alma es el de cumplir tu misión de amor Universal, muy difícil de desarrollar, porque requiere del despojo material para poder vivir al nivel de esta energía. Para ello es necesario que conectes con tus talentos y tus dones. El deseo de tu alma es de ser amor perfecto, la Guía, una líder especial, que deberá servir como un “gran canal”, transmitiendo los conocimientos fundamentales y más elevados. Esto implica un trabajo constante sobre vos misma, ya que es la más alta vibración, de tolerancia, pureza, servicio, serenidad y amor, que para ser alcanzada necesita equilibrar aspectos afectivos que no le hagan caer en la indecisión, inestabilidad, los celos y la sobreprotección.
+                <br>
+                El deseo de tu alma es ser profundamente espiritual, mística y servicial, te impones a vos misma la obligación de ayudar a los demás, no sólo en sus problemas, sino que sobre todo en su desenvolvimiento y progreso espiritual. Tu paso por la vida deja una huella profunda y provechosa, ya que quienes se relacionan con vos salen enriquecidos. Tu influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerte, porque tenes el don de animar a las personas a perfeccionarse material y espiritualmente y tu luz ilumina la vida de todos.
+                <br>
+                Tu alma anhela el bienestar del mundo, por lo que es probable que utilices tus aptitudes intuitivas, financieras, creativas o de organización para hacer grandes cosas y compartir con los demás tu buena fortuna. Como alma tu luz es muy especial, que iluminará la vida de tus semejantes con tu ejemplo; y tus enseñanzas dejarán un recuerdo imborrable de su paso. Como deseo de tu alma existe la necesidad de despertar las consciencias de las masas, para permitirles escuchar su voz interior, acercarse al plan Divino y brindarles las herramientas para conectar con su sabiduría. Tu alma posee grandes deseos de proteger a los demás, sacrificando tus propios intereses.
+                <br>
+                Como aspecto no evolucionado del número 33, vibración 6:
+                <br>
+                Según la vibración numérica 6, el deseo de tu alma es desde la responsabilidad, armonía y bienestar. Estas almas desean responsabilidad, amor constante, tienen un gran deseo por el calor del hogar, por echar raíces y sentirse anclada en tierra. El deseo de tu alma es desde la responsabilidad en todos sus aspectos, sobre todo en lo afectivo, se comienza a vivir el intercambio entre el dar y el recibir, de manera sensible. El deseo del alma es consagrarse en amor y equilibrio armónico, representa la estrella de David, formada con dos triángulos, significando el equilibrio: “como es arriba es abajo”, generando la fusión entre las energías creativas y las receptoras.
+                <br> 
+                El deseo de tu alma es el de evolucionar en armonía, ofrecer amor de manera desinteresada, a apreciar la belleza y vivir en bienestar. El alma con el número 6 ansía amor, amigos y compañía. Se dedica a su familia hasta el punto de sobreprotegerlos por amor. Si bien el amor, la paz y la armonía son su meta, gusta de un debate con amigos, siempre que éstos no queden enojados. Es el deseo de tu alma servir a la comunidad, lo cual te brinda gran placer. Agradas a la mayoría por ser benévola y tolerante, aunque a veces podés ser obstinada o inquisitiva si alguien está en desacuerdo con vos.
+                <br>
+                El deseo del alma es de generar seguridad y protección al entorno, mediante la bondad, el amor y la ternura. Este dígito se relaciona con tu capacidad de amar, de asumir las responsabilidades sin sentirte agobiada. Define el modo de vivir, el interés hacia los otros, de manera sensible y receptiva. Debés tener en cuenta que es necesario cultivar firmeza para balancear tus emociones y tu juicio, siendo precavida contra la discusión, la testarudez o la intromisión respecto de los demás, lograr una actitud menos personal.
+                <br>
+                Cuando el número 6 vibra en positivo habla de una especie de padre/madre cósmica o guardiana; siendo buena consejera y amiga leal; es un refugio y un asilo para aquellos que necesitan consuelo o abrigo. Tu alma ama la holgura, el confort, la belleza, la música y la armonía, en manera artística, amable y comprensiva; aunque le gusta ser reconocida, no posee ambición de hacerse un gran nombre, tener fama o gloria; este es simplemente su propósito: ir en búsqueda de corregir y ajustar aquello que marcha mal en la vida de otros.
+                <br>
+                Si bien tu alma se inclina al convencionalismo, prima siempre la amplitud y tolerancia; es también buena jueza siempre y cuando tus emociones no estén demasiado involucradas en el asunto. Centrás tu vida en el hogar y tus seres amados. Tu alma en vibración del numero 6 ama trabajar con los demás, le gusta la alabanza, las gracias, pero rinde servicio con gusto. La belleza, la ternura, el intercambio estable, responsable y comprensivo, el sentido de protección y disponibilidad definen el significado del número 6.
+                <br>
+                Cuando no se ha desarrollado la vibración del 6, podemos ver que existe demasiada preocupación, gran carga de indecisión en tu vida, sobre todo ante los cambios personales y del entorno. En este caso se carece de una idea clara de hacia dónde dirigirse; tu alma siente que los diversos caminos que se le presentan no la conducen a ninguna parte, o la hacen feliz. La falta de orientación angustia, y la sensación de inacción te deja perpleja, sintiendo que no poseés la fuerza o determinación proveniente desde el fondo de tu Ser para encontrar el sendero que te conduzca hacia una vida plena. La carencia de esta vibración vuelve tu alma pasiva ante la vida y con una gran frustración por la inactividad o la desorientación.
+                <br>
+                En su aspecto negativo o en desequilibrio debe precaverse contra la discusión, la testarudez o la intromisión respecto de los demás. Este número mal aspectado y vibrando en negativo, nos habla de una persona que necesita trabajar sobre la ansiedad, la tiranía, celos, preocupación, fanfarronería, cinismo, intromisión, engaño, orgullo, engreimiento, esclavitud al trabajo (trabajar sin ganas), abatimiento.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona atravesada por un mal manejo de sus energías, en vez de ser responsable de su vida recae sobre el victimismo y la lástima. Se torna resignada, apática, entregándose a lo que les toca vivir sin luchar en un estado de completa apatía, sin ningún tipo de entusiasmo, siendo indiferente hacia la vida. Su entorno se vuelve opresivo, al punto de querer escaparse de la vida; por lo que puede llevarte a caer en estados de angustia extrema y depresión. Al no ser responsable de tu vida, ni vibrar en armonía, te volvés una persona de poca vitalidad, abúlica e insensible; el amor no fluye naturalmente, los sentimientos dejan de movilizar tu corazón y todos los centros de energía se van bloqueando para finalmente, volverte un Ser triste y con actitud fatalista.
+                ';
+                break;
+                
+            case 44:
+                echo 'Según la vibración numérica 44, el deseo de tu alma es que todos participen de la prosperidad universal y que se convierta en realidad. Como alma lucharas por grandes avances, te harás cargo de grandes responsabilidades. Este número exige gran disciplina y perseverancia; posees de mucha lógica y sentido común para atender a todas las necesidades materiales del mundo, mediante técnicas productivas y eficaces. Puesto que es un número maestro, mucho se espera de una portadora de este número, nos encontramos ante la gran hacedora del mundo. El 44 un número muy potente, pocas personas pueden vivir a la altura de dicho número, por lo general son grandes líderes; obviamente, aquellos que no estén a la altura de dicho número deberán conformarse a vivir como un número 8.
+                <br>
+                Como aspecto evolucionado del número 44:
+                <br>
+                El deseo de tu alma es hacer para otros, venís a dar forma a las cosas, a conectar con la materialización y concreción; para poder, a través de tu inspiración, legar obras concretas en beneficio de toda la humanidad. Posees la facultad de elegir el mejor camino en una situación, tus metas son de amplio alcance, lo que sumado a tu fuerza te permite ocupar elevadas posiciones en el campo de la conducción. Sos una constante trabajadora del intelecto, ya que sos una creadora nata de obras originales, tu punto débil radica en todas las cuestiones sentimentales, debido a que esta vibración requiere asociaciones que lo entiendan profundamente.
+                <br>
+                Tu alma posee valor moral, aspiraciones elevadas y habilidades fuera de lo común, ya que pertenece a una Vibración Maestra, posees un toque mágico para ganar dinero, esto te convierte en constructora material y espiritual del mundo; como promotora de grandes imperios, usas tu fortuna, tu prestigio y autoridad en beneficio de tus semejantes. Es el símbolo del poder puesto al servicio del espíritu y la entrega a todos los seres humanos. Por lo general, alcanzar la vibración 44 implica mucho trabajo personal, si cedes a la codicia y la ambición o te dejas frenar por una excesiva cautela o temor, estarás actuando con la vibración de un número 8, sin el carisma ni las motivaciones del número Maestro.
+                <br>
+                Como alma genuina 44 sos consciente de que tenes una misión que cumplir, de manera que dedicas parte de tus ingresos y sobre todo de tus esfuerzos a trabajar para solucionar los problemas materiales de tu comunidad y estas a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados. Podes alcanzar éxitos sobresalientes en operaciones de gran envergadura o iniciativas de bienestar común, gracias a tu extraordinaria personalidad, carisma, como por tus ideas originales y brillantes. Utilizarás tus aptitudes intuitivas, financieras, creativas o de organización para hacer grandes cosas y compartirás con los demás tu buena fortuna. Como alma sos muy especiales, iluminarás la vida de tus semejantes con tu ejemplo y sus enseñanzas dejarán un recuerdo imborrable de su paso.
+                <br>
+                Como aspecto no evolucionado del número 44, vibración 8:
+                <br>
+                Según la vibración numérica 8, tu deseo del alma es lograr el equilibrio entre lo material y espiritual. El poder, energía y realización son deseos de tu alma. El número 8 nos habla de la organización, la perseverancia y el control de la energía para producir logros materiales y espirituales. Representa el poder de la realización, la abundancia en el mundo mental y espiritual representado en la curva superior, y la abundancia material, a la que hace referencia en su curva o base inferior. Es decir que el deseo de tu alma es trabajar sobre la abundancia en todo lo que ella respecta.
+                <br> 
+                El deseo de tu alma implica aprender a descubrir tus propias capacidades, aquellos talentos que sirven para transformar la Tierra. En el número 8 surge la capacidad de organización y el poder de realización a través de tus propias estrategias. La fuerza creadora tanto material como espiritual.
+                <br>
+                Según la vibración del número 8, ansías asuntos grandes y el poder de dominarlos, queriendo éxito en todas las cosas materiales. Estas a gusto con la organización, la construcción, las finanzas, las grandes operaciones del mundo financiero, te gusta manejar y dirigir, tenés habilidad para los grandes logros y acumulaciones. Sos generosa, amplia de mente, poderosa. La ambición, el poder psíquico y material, la audacia, el coraje y la capacidad de mando definen el alma que vibra con el número 8. Ya has desarrollado la toma de consciencia personal, ahora estas lista para transformar y desarrollar tus tesoros internos con el fin de construirte.
+                <br>
+                Se puede confiar en tu alma por el gran tinte de honestidad que trae. Tienen fuerza, entusiasmo, valentía, ecuanimidad y determinación. Les gusta luchar contra la oposición confiando en su propia victoria, pueden ser dominantes y exigentes, pero no se economizan ellos mismos o sea que ellos saben dar o rendir. Puede gustarles el dinero y el lucimiento, pero son la piedra angular de la comunidad. Tienen visión e imaginación para hacer que sus esfuerzos produzcan. Son eficaces, ejecutivos de excelente criterio; son un poder del bien.
+                <br>
+                Con tu alma con una vibración 8, te moviliza la capacidad de manejar tus talentos y tu poder. Referido a la capacidad de trabajo, de perseverancia y de la búsqueda del equilibrio material y espiritual. El modo de desenvolverte con capacidad organizativa, control, perseverancia y solidez.
+                <br>
+                Los números 8 necesitan cultivar la justicia y la tolerancia hacia los más débiles, menos eficientes. Debes aprender organización y cooperación. Cuando el número 8 vibra en positivo habla de una persona que disfruta de la abundancia y de la influencia, no abusa de las preocupaciones; agradece la abundancia y la sabiduría. Posee poder ejecutivo; suele ser exitosa y con capacidad resolutiva; con buen juicio, no estando aferrada a lo material.
+                <br>
+                Cuando hay una carencia de la vibración del 8, o no se ha desarrollado fructíferamente, es decir, cuando está bloqueado, nos muestra carencia de voluntad para seguir adelante, con temores referentes a temas de dinero, el poder, el control, y/o el reconocimiento; con un gran saboteo hacia la propia persona. También puede suceder que la persona se vuelva algo avara; haya abuso del poder y se vuelva excesivamente ambiciosa.
+                <br>
+                Ante el desequilibrio de estas energías podemos encontrar actitudes de extrema ambición personal, apego a lo material y una marcada resistencia a los cambios. Rigidez mental, desconfianza y una gran exigencia, dificultad para concretar metas, dificultad para alcanzar objetivos, para descubrir y poner en práctica talentos ante la ineficiencia, falta de ambición y la desorganización. También es se vuelve una persona tímida, desordenada y pasiva en exceso.
+                <br>
+                Este número mal aspectado y vibrando en negativo, nos habla de una persona que posee intolerancia, impaciencia, tensión, intriga, torpeza, con gran temor sobre alguno de los aspectos (materiales y/o espirituales). Por lo que entra en un estado ambivalente que puede llevarla a estados de bipolaridad, confusión; y se puede tornar hacia el alcoholismo. Vive la vida de forma dramática.
+                <br>
+                Si vibra en negativo / destructivo, entonces nos encontramos con una persona que se aleja demasiado de su parte espiritual recayendo la balanza en un excesivo interés por lo material, lo que la hace ambiciosa, dura, inclemente, con una gran sed de poder. También gobiernan estados de opresión, venganza, injusticia, celos, envidia, avaricia, obstinación, autoritarismo.';
+                break;
+
+    }
+
+    echo "<br>";
 
                                                         // PERSONALIDAD EXTERNA
                                                         // PERSONALIDAD EXTERNA
                                                         // PERSONALIDAD EXTERNA
 
     switch ($sinoPeex){
+        
         case 'si':
             echo "Personalidad Externa";
             echo "<br>";
             echo 'Hablamos aquí de tu imagen, es como te ven los demás, representa esa “vestimenta” que te pones para salir a la calle. El hecho de que esto se presente ante los ojos de los demás no necesariamente debe ajustarse a la realidad. La personalidad no somos nosotros, sino más bien nuestro "yo externo". Es una gran ventaja ser conscientes de aquella parte externa con la que no estamos de acuerdo, para poder cambiarla, es una parte modificable si somos flexibles y creativas para ello. ';
             echo '<br>';
-        break;
+            break;
+
+        case 'no':
+            echo '';
+            break;
     
     }
     
     switch ($peex){
+        
         case 1:
             
             echo "Se podría decir que, la primera impresión que das ante los ojos de quien te observa, es la de una persona que se muestra independiente, dinámica, activa, individualista, original, inventiva, talentosa; aunque también dominante, vanidosa, engreída, egoísta, autoritaria, mandona, ejecutiva, con dones de mando.";
@@ -460,24 +459,28 @@ echo "<br>";
     
         }
 
-
     echo "<br>";
 
+                                                        // MISION DESTINO
+                                                        // MISION DESTINO
+                                                        // MISION DESTINO
 
-                                                            // MISION DESTINO
-                                                            // MISION DESTINO
-                                                            // MISION DESTINO
-    
     switch ($sinoMide){
+        
         case 'si':
             echo "¿Cuál Es Tu Misión/Destino?";
             echo '<br>';
             echo 'El destino es la razón de nuestra existencia física en el plano material. Este número indica cómo sería conveniente moverte y de qué manera accionar procurando el logro de tus objetivos. Está estrechamente relacionado con el número del alma, ya que el destino lo creamos para nuestra experiencia. Además, en éste análisis se describe tu carácter y temperamento, representa tu actitud ante las distintas situaciones.
             <br>';
-        break;
+            break;
+
+        case 'no':
+            echo '';
+            break;
 
     }        
     switch ($mide){
+        
         case 1:    
             echo 'Se puede observar que ante tu misión, tu consigna es “inicios".Tu destino está relacionado con ser una persona    individualista, independiente y decidida. Por ser creadora, sos primera en toda acción, pues sos líder y hacedora. Sos aquella que siempre tiene una nueva idea.
             <br>
@@ -487,7 +490,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
     
         case 2:
             echo 'Se puede observar que ante tu misión tu consigna es “unión”. Tenes que aprender a sumergirte en el mundo, en el contacto con los demás; ser la pacificadora, diplomática, y mediadora. Es parte de tu misión trabajar cuidadosa y pacientemente en los mínimos detalles, dominada por la idea del servicio y la cooperación. Tenes que valorar el poder del silencio, aprendiendo a escuchar y a absorber. 
@@ -499,7 +502,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
 
         case 3:
             echo 'Se puede observar que ante tu misión tu consigna es “expresión”.  Tu destino está relacionada con la búsqueda de talento para expresarte cuando hablas, escribís o actúas. Tu misión tiene que ver también con la creatividad, ya que estás dotada de creación, pero no te soles destacar como práctica. Soñás grandes aventuras, ya que pensás en gran escala. Por tener una mente rápida y aguda, aprendes con facilidad; podes hacer casi todo de lo que te propones realizar. Estas dotada de súper-imaginación, lo que te hace apta para el espectáculo. Esto puede conducir a muchas oportunidades y buen éxito financiero.
@@ -515,7 +518,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
             
         case 4:
             echo 'Se puede observar que, ante tu misión, tu consigna es “los pies en la tierra.”  Tu destino está relacionado con ser una persona segura, practica y confiable. Caminando sin tropiezos, viviendo en la tierra y no en las nubes. Por lo que tu misión tiene que ver con la estabilidad, debiendo aprender a poner la atención estricta en el deber, en servir y producir.
@@ -529,7 +532,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
                 
         case 5:
             echo 'Se puede observar que, ante tu misión, tu consigna es “transformar”. Representa la Búsqueda, el movimiento y la libertad. El número 5 nos habla de liberación y expansión en todos sus aspectos, este es el lema de este número. Es el número de la experiencia, aprendes promoviendo ideas por las que tenés insaciable curiosidad. Tu progreso se debe al avance constante, con el valor de desechar lo viejo y el anhelo de aprender lo nuevo, incluso lo que no te has animado nunca a intentar.
@@ -543,7 +546,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+         break;
     
         case 6:
             echo 'Se puede observar que, ante tu misión, tu consigna es “primero la familia” Tu destino está relacionado con el amor, los amigos y la compañía. Manejando tu casa con suavidad y orden, haciendo de ella un ambiente bello. La misión de un número seis es servir en el hogar y en la comunidad, ya que el seis es una vibración amatoria centrada en la familia.
@@ -557,7 +560,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
 
         case 7:
             echo 'Se puede observar que, ante tu misión, tu consigna es “conocimiento”. Tu destino está relacionado con ser una pensadora profunda, absorber conocimiento prácticamente de toda fuente. Por ser intelectual, científica y estudiosa, jamás aceptarás alguna premisa sin haber agotado todas las probabilidades de error y obviamente sacarás tus propias conclusiones. Te disgustan las sugerencias ajenas porque te autopercibís como autoridad en cualquier tema, te afecta la injusticia, pero jamás deberás hacer arreglos de cuentas por mano propia ya que ésta se te volverá como un bumerang, hiriéndote más a vos misma que a la persona a la cual tratas dañar. Te inclinas hacia lo espiritual y filosófico; si bien podés ser religiosa, frecuentemente te inclinas hacia la metafísica o cualquier otra materia similar que conlleve investigación científica y no dogmática. Anhelas quietud para meditar y vivir tu vida interior. Un número siete debe aprender a vivir solo estando acompañado consigo mismo. Por lo común evitarás las multitudes ya que sentís que te entorpece el ruido; y así impedís confusiones mentales.
@@ -569,7 +572,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
             
         case 8:
             echo 'Se puede observar que ante tu misión tu consigna es “justicia”. Si crees en la suerte, jamás deberás confiar en ella al 100%, pues el Karma del número 8 pide esfuerzo y trabajo sin alejarse de la justicia Cósmica. Aunque también podemos decir que la vida de un número 8 está destinada a los grandes negocios y finanzas, poseyendo una vibración comercial, con lo que podes ganar mucho dinero, pero lo que se te advierte como número de destino es que ésta no deberá ser tu aspiración, sino que deberás focalizar en trabajar por la satisfacción y realización personal. Debes aprender a reconocer el equilibrio entre las fuerzas materiales y espirituales. Es decir que, lo que no sería bueno para vos es desperdiciar tiempo luchando por la fortuna, no siendo cautelosa y no cultivando la disciplina que te permita conservar el material que tenés, confiando en tu propio juicio.
@@ -579,7 +582,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
 
         case 9:
             echo'Se puede observar que, ante tu misión, tu consigna es “trascender.” Representa la realización interior. Tu destino está relacionado con ser una persona con idealismo y sabiduría al servicio de la Humanidad. El número 9 nos habla de los ideales, el interés Universal y el espíritu de combate con fines humanitarios. Simboliza la Luz interior, priorizando ideales y sueños, vivenciados mediante las emociones y la intuición. El símbolo del amor es el gráfico del nueve, amor universal y amor al prójimo movilizan tu alma y es parte de tu misión. El amor personal no debe ser la aspiración de un número nueve ya que éste tipo de amor egoísta le es contraproducente.
@@ -595,7 +598,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
                 
         case 11:
             echo 'Se puede observar que, ante tu misión, tu consigna es “soñar y crecer”. Tu destino está relacionado con el idealismo, podes abrir puertas y ayudar a los demás para mayores logros. Como el número once es un número maestro, realmente se espera mucho más de su portadora. Será parte de tu misión desplegar la energía del 11 en tu Ser, de manera contraria caerás en la dualidad de la energía del número 2.
@@ -609,7 +612,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""<br><br>';
-        break;
+            break;
     
         case 22:
             echo 'El 22 es un número maestro, involucra un gran potencial de superación espiritual y evolutiva que corresponde a aspectos de aprendizaje, es un número transpersonal; solo se puede vivir a este número de un modo consciente, comprendiendo el verdadero sentido y la auténtica dimensión espiritual que posee. Por lo tanto, la presencia de este número Maestro te dará la oportunidad de ser consciente sobre cómo sería conveniente moverte y cómo accionar, tu misión. Este número debe manejarse con cuidado, para no caer en la trampa de la “súper autoestima”. Encontrar un número Maestro nos informa que hay un potencial elevado a ser desarrollado.
@@ -625,7 +628,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
                 
         case 33:
             echo 'Se puede observar que, ante tu misión, tu consigna es “guiar”. Tu destino está relacionado con practicar la maestría personal para luego expandirla al mundo. Cuando se halla un treinta y tres como total de la suma de los nombres y apellidos, nos encontramos ante una maestra espiritual o de alguien que está en los inicios de dicha maestría. Revela una misión aceptada que debe ser llevada a cabo con honradez, disciplina y humanismo. Por lo general el número 33 es un espíritu milenario y en muchas ocasiones maestro de maestros. 
@@ -640,7 +643,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
             
         case 44:
             echo 'Se puede observar que, ante tu misión, tu consigna es “hacer”. Tu destino está relacionado con ser práctica e idealista; poseyendo el impulso en la búsqueda de aplicar el ingenio y el sentido común para ocuparte de los problemas relacionados al presente y que prevean un futuro de bienestar.
@@ -652,7 +655,7 @@ echo "<br>";
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
             """""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""';
-        break;
+            break;
     }
 
     echo "<br>";
@@ -664,67 +667,73 @@ echo "<br>";
 
 
     switch($sinoArque){
+        
         case 'si':
-        echo "Arquetipo Numerológico";
-        echo "<br>";
-        echo 'Los Arquetipos revelan la manifestación del “Yo Soy”, cuando somos conscientes de nuestros Arquetipos personales, realizamos un proceso de individuación que requiere esfuerzo, estar presentes, ser responsables y activar nuestros recursos y habilidades; en éste proceso descubrimos la conexión con nuestra alma, el sentido de nuestra vida, las motivaciones profundas, aprendemos a vivir nuestra propia vida y a disfrutarla. Es decir que conocer el arquetipo numerológico será una gran guía para nuestro conocimiento interior y del camino que transitamos; ser consciente nos permite que este camino sea más iluminado y con mayor sentido; nos permite crecer en conexión con quién soy en realidad.
-        <br>';
-        break;
+            echo "Arquetipo Numerológico";
+            echo "<br>";
+            echo 'Los Arquetipos revelan la manifestación del “Yo Soy”, cuando somos conscientes de nuestros Arquetipos personales, realizamos un proceso de individuación que requiere esfuerzo, estar presentes, ser responsables y activar nuestros recursos y habilidades; en éste proceso descubrimos la conexión con nuestra alma, el sentido de nuestra vida, las motivaciones profundas, aprendemos a vivir nuestra propia vida y a disfrutarla. Es decir que conocer el arquetipo numerológico será una gran guía para nuestro conocimiento interior y del camino que transitamos; ser consciente nos permite que este camino sea más iluminado y con mayor sentido; nos permite crecer en conexión con quién soy en realidad.
+            <br>';
+            break;
+
+        case 'no':
+            echo '';
+            break;
     }
     
     switch ($arque){
+       
         case 1:
             echo 'Tu arquetipo numerológico es La Pionera, hablamos de quien necesita ser intelectual y mentalmente independiente, segura de sí misma y de su valor. Liberal y libre de prejuicios, respeta el derecho de los demás a vivir su propia vida sin interferencias. A estas personas les encantan los desafíos y generalmente tienen éxito donde otros han fracasado porque su mente genera ideas nuevas, creativas, audaces y extraordinariamente originales constantemente. La pionera inspira, alienta y motiva a la acción con la fuerza y el optimismo que fluye de su interior; y puede conservar el dominio de sí misma y actuar lúcida y fríamente en circunstancias adversas. La pionera posee un interior muy positivo; su motivación secreta es llegar a ser importante y poderosa por sus propios medios, porque no acepta la dependencia ni el dominio de nadie.';
-        break;
+            break;
 
         case 2:
             echo 'Tu arquetipo numerológico es La Diplomática, Representa el Arquetipo de la Madre. Busca el equilibrio y comparte su vida a través de vínculos amorosos y auténticos, con gentileza y cooperación; cuenta con sensibilidad, intuición, deseos de compartir, de dar y recibir.';
-        break;
+            break;
 
         case 3:
             echo 'Tu arquetipo numerológico es La Artista, la comunicadora, mediante la palabra buscas resaltar las cualidades de los demás, mejorando sus vidas, a través de la franqueza y el optimismo. Tiene resonancia con la expresión, creatividad y amistad; el número 3 representa la Trinidad, la unión de lo masculino, lo femenino y la comunicación que se establece entre ambos. Este número también representa Nuestra niña interior. Este dígito muestra el poder creativo, el modo de valorar nuestra propia imagen y la expresión de nosotras mismas. Define la “imagen personal” y de qué manera me relaciono con mi entorno social cercano.';
-        break;
+            break;
         
         case 4:
             echo 'Tu arquetipo numerológico es La Idealista Práctica, cuyo corazón la impulsa a dar forma a todos sus sueños para que otros vivan mejor, con esfuerzo y responsabilidad.';
-        break;
+            break;
             
         case 5:
             echo 'Tu arquetipo numerológico es La viajera, cuyo corazón la impulsa a ser curiosa, estar en movimiento y tener una gran apertura mental, al ser un espíritu inquieto buscará las diversas verdades que la rodea y se enriquecerá en los distintos caminos que transite.';
-        break;
+            break;
 
         case 6:
             echo 'Tu arquetipo numerológico es La Equilibrista, quien busca y mantiene el equilibrio, viviendo el intercambio entre el dar y el recibir, de manera sensible, armoniosa y pacífica. Desea belleza y compañía para todos los seres sin perder su balance, posee gran habilidad para evolucionar.';
-        break;
+            break;
 
         case 7:
             echo 'Tu arquetipo numerológico es La Filósofa, también conocido como “la soñadora realista”, posee el derecho a soñar y a expresar sus intuiciones. La alimentan el crecimiento espiritual e intelectual, sin apegarse al mundo. Su inquietud y curiosidad la llevan a aprender y expresar el poder de descubrir la unidad interior, encontrando el equilibrio espiritual y corporal. En ella surge la búsqueda de toma de conciencia personal, mediante el estudio y la disciplina interior.';
-        break;
+            break;
         
         case 8:
             echo 'Tu arquetipo numerológico es La Maestra Mística, quien desea construir y enseñar a diseminar amor y luz por el mundo. Impulsa a construir una estructura que contenga las verdades eternas.';
-        break;
+            break;
 
         case 9:
             echo 'Tu arquetipo numerológico es La Comunicadora, mediante la palabra buscas resaltar las cualidades de los demás, mejorando la vida de los otros, a través de la franqueza y el optimismo.';
-        break;
+            break;
 
         case 11:
             echo 'Tu arquetipo numerológico es La Mensajera Divina, es quien ilumina el camino de los demás buscando relaciones que hagan florecer lo más elevado de las personas, a través de sus grandes dones psíquicos. Su misión es la de transmitir la riqueza interior y la apertura espiritual. Profundamente espirituales, místicos y clarividentes se imponen a sí mismos la obligación de ayudar a sus semejantes no sólo en sus problemas, sino tambien en su desarrollo y progreso espiritual. Su paso por la vida deja una huella profunda y provechosa ya que quienes se relacionan con ellos salen enriquecidos con su contacto. Su influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerlos, porque tienen el don de animar a las personas a perfeccionarse material y espiritualmente. Su luz ilumina la vida de todos.
             ';
-        break;
+            break;
 
         case 22:
             echo 'Tu arquetipo numerológico es La Maestra Mística, también se comprende como el arquetipo de la Maestra Constructora. Desea construir y enseñar a diseminar amor y luz por el mundo. Impulsa a construir una estructura que contenga las verdades eternas. El veintidós es un maestro constructor, da al mundo orden y sistema; sus proyectos están relacionados al beneficio de la humanidad. Dos veces 11, este número maestro, tienen una amplia capacidad intuitiva y trabaja arduamente para cumplir sus sueños. Un genuino 22 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y están a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados.';
-        break;
+            break;
         
         case 33:
             echo 'Tu arquetipo numerológico es La Guía, deseás despertar las consciencias de las masas, para permitirles escuchar su voz interior y sabiduría. Tenés grandes deseos de proteger a los demás, sacrificando tus propios intereses. Profundamente espirituales, místicos y clarividentes se imponen a sí mismos la obligación de ayudar a sus semejantes no sólo en sus problemas, sino que sobre todo en su desarrollo y progreso espiritual. Su paso por la vida deja una huella profunda y provechosa ya que quienes se relacionan con ellos salen enriquecidos con su contacto. Su influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerlos, porque tienen el don de animar a las personas a perfeccionarse material y espiritualmente y .Su luz ilumina la vida de todos.';
-        break;
+            break;
 
         case 44:
             echo 'Tu arquetipo numerológico es La Gran Hacedora del Mundo, deseas que todos participen de la prosperidad universal y que se convierta en realidad. Está en tu Ser el crear grandes obras originales que inspirarán a quienes lleguen a tu vida. Es el símbolo del poder puesto al servicio del espíritu y la entrega a todos los seres humanos. Un genuino 44 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y están a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados.';
-        break;
+            break;
             
     }
 
@@ -747,46 +756,50 @@ echo "<br>";
             echo '////////////ACA VA UN CUADRO CON EL NOMBRE!!!///////////';
             echo '<br>';
             break;
+
+        case 'no':
+            echo '';
+            break;
     }
                                             
     switch ($evn1){
             
         case 1:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 1, lo que significa que te mostrás independiente en lo que respecta a tus creencias. La libertad e independencia de pensamiento constituyen el objetivo y anhelo más interno. No permitas que ese fuerte impulso obstaculice la persecución de las metas prácticas correspondientes a tu vida presente. Permaneces en todo momento consciente de tu fuerza interior y te resulta difícil aceptar una posición secundaria entre tus semejantes. Si pensás en la construcción de un vínculo amoroso (convivencia, matrimonio, etc.) o en una asociación cualquiera, procurá averiguar los anhelos internos de tu futuro compañero, a fin de salvaguardar el éxito de la relación. Si posees una individualidad demasiado fuerte, tal vez se exprese en una actitud de mando, a costa de tu felicidad personal. Tan firme es la intensidad de tu foco de atracción y tan fuerte la memoria de tu gloria pasada que serás capaz de mantenerte firme en tus convicciones, incluso pensando que obstaculizan importantes relaciones. Tu fuerza interior te proporciona confianza cuando el camino se vuelve difícil y podés presentarte como una fortaleza de inspiración para los demás en épocas de inseguridad.';
-        break;
+            break;
 
             
         case 2:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 2, relacionada con la cooperación, el afecto y el balance. Tenés un claro sentido de los límites externos y personales; ayudas de igual medida tanto a vos misma como a los demás. Cooperativa; receptiva; diplomática; considerada. También puede que haya momentos que, en estado negativo, te sientas abrumada; resistente y reactiva; demasiado compasiva con vos misma; agresiva; introvertida; chismosa. Por lo que será importante que ayudes a mantener tu vibración positiva.';
-        break;
+            break;
 
         case 3:
             echo 'Tu nombre ' . $pimerNombreEnv . ' tiene una vibración 3, por lo que nos dice que sos muy concienzuda en lo que respecta a tus obligaciones. Sabes que la inspiración y la imaginación producen los mejores resultados cuando los utilizas para ayudar a otros, lo que puede fácilmente convertirse en tu filosofía de la vida. Obedeces a tus impulsos de crear y desarrollar las actividades que te interesan. Buscas la felicidad y la encontrás procurando la felicidad de los demás. Si una persona se siente deprimida, le bastará consultarte para recobrar de esperanza y su resolución, ya que hay mucho optimismo que sale de vos. Trabajas para convertir tus sueños en realidad, pero no hasta el extremo de perder de vista el aspecto práctico de las cosas. El amor reviste una gran importancia para vos tanto al darlo como al recibirlo. Te sentirás feliz y bien adaptada procurando la felicidad de otras personas.';
-        break;
+         break;
 
         case 4:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 4, este número expresa que sabes organizarte bien, un rasgo que puede aportarte éxito material. Tu sentido práctico impregna todo tu Ser. Tu lealtad, equilibrio y la confianza que inspira significan mucho para tu entorno. Quienes te rodean te perciben como una persona estable en todos los aspectos y sienten que, al entablar una relación con vos, serán tratados equitativamente. Dado que tomas las cuestiones en serio, tanto en los negocios como en el amor, conseguís convertir tus sueños en realidad de manera planeada y práctica.';
-        break;
+            break;
 
         case 5:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 5, este número, reclama el derecho a la libertad y no tolerará limitación alguna a sus ideales o a su modo de pensar. Por lo que la variedad en la autoexpresión te resultará absolutamente esencial, te sentirías aburrida e indiferente sin el estímulo de los cambios y de numerosos puntos de vista. Esta vibración nos cuenta que los viajes se incluyen entre los deseos de tu alma, puesto que los consideras educativos y enriquecedores. No toleras la estrechez. Si advertís que caes en la rutina, una excursión, un traje nuevo o unas vacaciones mejorarán tus vibraciones y te abrirán nuevos caminos para continuar tu desarrollo interior.';
-        break;
+            break;
 
         case 6:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 6, este número expresa que reaccionas a la belleza, la armonía y la paz. Te agrada la comodidad y por ella preferís caer en la rutina antes que someterte al cambio. Te mostrás afectuosa, atenta y leal con quienes amas. Te esforzás por conservar la armonía doméstica y tu ideal de vida. La vibración de este número se relaciona con una forma de amar con tintes conflictivos, más que nada por sobreprotección; aunque también, podrías volcarte hacia el desapego familiar, insensibilidad, falta de tacto, cooperación y compasión. Ansias amor, amigos/as y compañía.  Es importante que aprendas a permitir que los miembros de tu familia expresen sus propios deseos en la vida y sus propias ideas, aunque no estés conforme con su elección.<br>';
-        break;
+            break;
 
         case 7:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna que nos habla de una persona silenciosa y reservada, gran pensadora, analítica y mediadora. Tu nombre nos dice de vos que necesitas paz a tu alrededor y podes llegar a irritarte en ambientes ruidosos, que podes vivir sola y permanecer soltera alcanzando el más alto orden místico de la humanidad. También que sos una persona refinada, sensible y con grandes cualidades en poderes psíquicos. Tu verdadera naturaleza consiste en mantener la calma, intensificar la profundidad de tu carácter y beneficiar a la humanidad mediante tus palabras y filosofía.';
-        break;
+            break;
 
         case 8:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 8, tu palabra clave es ambición. Crees en el valor de la realización y no permitís que ningún obstáculo se interponga en tu camino hacia la meta. Tu número no resulta fácil de manejar, pero los premios que obtenés compensan el esfuerzo. Te enfrentarás a una gran tarea que te permitirá sobresalir de entre las multitudes y llegar a la cima. Poseés la capacidad de organizar con éxito grandes grupos y empresas. La psicología te ayudará a comprender a las masas con las que trabajes. La gente espera más de vos que del común de las personas, de manera que tendrás que confiar en vos misma para guiarte y permanecer en la cima. El 8 es también el número de las grandes figuras deportivas.';
-        break;
+            break;
 
         case 9:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 9, ello indica que la intuición participa de manera muy activa en tu vida. Sensitiva e imaginativa, podés pensar en términos abstractos, aunque a veces demostras cierto desgano, sos extremadamente impresionable, compasiva y generosa. Necesitas recibir y dar amor. Bondadosa y clemente, con una conciencia expansiva, te dedicas a mejorar la humanidad. El 9 puede corresponder a alguien que fue un maestro o un iniciado en una vida previa.';
-        break;
+            break;
     }
 
     echo '<br>';
@@ -795,40 +808,40 @@ echo "<br>";
             
         case 1:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 1, lo que significa que te mostrás independiente en lo que respecta a tus creencias. La libertad e independencia de pensamiento constituyen el objetivo y anhelo más interno. No permitas que ese fuerte impulso obstaculice la persecución de las metas prácticas correspondientes a tu vida presente. Permaneces en todo momento consciente de tu fuerza interior y te resulta difícil aceptar una posición secundaria entre tus semejantes. Si pensás en la construcción de un vínculo amoroso (convivencia, matrimonio, etc.) o en una asociación cualquiera, procurá averiguar los anhelos internos de tu futuro compañero, a fin de salvaguardar el éxito de la relación. Si posees una individualidad demasiado fuerte, tal vez se exprese en una actitud de mando, a costa de tu felicidad personal. Tan firme es la intensidad de tu foco de atracción y tan fuerte la memoria de tu gloria pasada que serás capaz de mantenerte firme en tus convicciones, incluso pensando que obstaculizan importantes relaciones. Tu fuerza interior te proporciona confianza cuando el camino se vuelve difícil y podés presentarte como una fortaleza de inspiración para los demás en épocas de inseguridad.';
-        break;
+            break;
 
             
         case 2:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 2, relacionada con la cooperación, el afecto y el balance. Tenés un claro sentido de los límites externos y personales; ayudas de igual medida tanto a vos misma como a los demás. Cooperativa; receptiva; diplomática; considerada. También puede que haya momentos que, en estado negativo, te sientas abrumada; resistente y reactiva; demasiado compasiva con vos misma; agresiva; introvertida; chismosa. Por lo que será importante que ayudes a mantener tu vibración positiva.';
-        break;
+            break;
 
         case 3:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' tiene una vibración 3, por lo que nos dice que sos muy concienzuda en lo que respecta a tus obligaciones. Sabes que la inspiración y la imaginación producen los mejores resultados cuando los utilizas para ayudar a otros, lo que puede fácilmente convertirse en tu filosofía de la vida. Obedeces a tus impulsos de crear y desarrollar las actividades que te interesan. Buscas la felicidad y la encontrás procurando la felicidad de los demás. Si una persona se siente deprimida, le bastará consultarte para recobrar de esperanza y su resolución, ya que hay mucho optimismo que sale de vos. Trabajas para convertir tus sueños en realidad, pero no hasta el extremo de perder de vista el aspecto práctico de las cosas. El amor reviste una gran importancia para vos tanto al darlo como al recibirlo. Te sentirás feliz y bien adaptada procurando la felicidad de otras personas.';
-        break;
+            break;
 
         case 4:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 4, este número expresa que sabes organizarte bien, un rasgo que puede aportarte éxito material. Tu sentido práctico impregna todo tu Ser. Tu lealtad, equilibrio y la confianza que inspira significan mucho para tu entorno. Quienes te rodean te perciben como una persona estable en todos los aspectos y sienten que, al entablar una relación con vos, serán tratados equitativamente. Dado que tomas las cuestiones en serio, tanto en los negocios como en el amor, conseguís convertir tus sueños en realidad de manera planeada y práctica.';
-        break;
+            break;
 
         case 5:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 5, este número, reclama el derecho a la libertad y no tolerará limitación alguna a sus ideales o a su modo de pensar. Por lo que la variedad en la autoexpresión te resultará absolutamente esencial, te sentirías aburrida e indiferente sin el estímulo de los cambios y de numerosos puntos de vista. Esta vibración nos cuenta que los viajes se incluyen entre los deseos de tu alma, puesto que los consideras educativos y enriquecedores. No toleras la estrechez. Si advertís que caes en la rutina, una excursión, un traje nuevo o unas vacaciones mejorarán tus vibraciones y te abrirán nuevos caminos para continuar tu desarrollo interior.';
-        break;
+            break;
 
         case 6:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 6, este número expresa que reaccionas a la belleza, la armonía y la paz. Te agrada la comodidad y por ella preferís caer en la rutina antes que someterte al cambio. Te mostrás afectuosa, atenta y leal con quienes amas. Te esforzás por conservar la armonía doméstica y tu ideal de vida. La vibración de este número se relaciona con una forma de amar con tintes conflictivos, más que nada por sobreprotección; aunque también, podrías volcarte hacia el desapego familiar, insensibilidad, falta de tacto, cooperación y compasión. Ansias amor, amigos/as y compañía.  Es importante que aprendas a permitir que los miembros de tu familia expresen sus propios deseos en la vida y sus propias ideas, aunque no estés conforme con su elección.<br>';
-        break;
+            break;
 
         case 7:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna que nos habla de una persona silenciosa y reservada, gran pensadora, analítica y mediadora. Tu nombre nos dice de vos que necesitas paz a tu alrededor y podes llegar a irritarte en ambientes ruidosos, que podes vivir sola y permanecer soltera alcanzando el más alto orden místico de la humanidad. También que sos una persona refinada, sensible y con grandes cualidades en poderes psíquicos. Tu verdadera naturaleza consiste en mantener la calma, intensificar la profundidad de tu carácter y beneficiar a la humanidad mediante tus palabras y filosofía.';
-        break;
+            break;
 
         case 8:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 8, tu palabra clave es ambición. Crees en el valor de la realización y no permitís que ningún obstáculo se interponga en tu camino hacia la meta. Tu número no resulta fácil de manejar, pero los premios que obtenés compensan el esfuerzo. Te enfrentarás a una gran tarea que te permitirá sobresalir de entre las multitudes y llegar a la cima. Poseés la capacidad de organizar con éxito grandes grupos y empresas. La psicología te ayudará a comprender a las masas con las que trabajes. La gente espera más de vos que del común de las personas, de manera que tendrás que confiar en vos misma para guiarte y permanecer en la cima. El 8 es también el número de las grandes figuras deportivas.';
-        break;
+            break;
 
         case 9:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 9, ello indica que la intuición participa de manera muy activa en tu vida. Sensitiva e imaginativa, podés pensar en términos abstractos, aunque a veces demostras cierto desgano, sos extremadamente impresionable, compasiva y generosa. Necesitas recibir y dar amor. Bondadosa y clemente, con una conciencia expansiva, te dedicas a mejorar la humanidad. El 9 puede corresponder a alguien que fue un maestro o un iniciado en una vida previa.';
-        break;
+            break;
     }
     
                                                         // VOCAL DEL NOMBRE
@@ -846,7 +859,7 @@ echo "<br>";
             De poseer dos letras “A” en tu nombre completo, se puede decir que posees una mente muy despejada 
             <br>
             Al tener más de 3, puede haber inclinaciones hacia el egoísmo, el cinismo y una crítica demasiado acerba. ';
-        break;
+            break;
 
         case 'e':
             echo 'Tu primer nombre posee la vocal “E” como primera letra, y al ser ésta una letra física indica actividad y movilidad, confiere la capacidad de relacionarse y comunicarse con absoluta libertad. Pasional, impulsiva, posees la capacidad de escuchar y escucharte a vos misma. Como primera vocal del primer nombre, se puede decir que llevas una vida excitante, plena de acontecimientos. Sos muy versátil, posees la capacidad de aprender fácilmente, aunque a veces te mostrás nerviosa y temperamental.
@@ -854,7 +867,7 @@ echo "<br>";
             //////////////////CONTROLAR//////////////////
             <br>
             Si la E es la primera vocal de tu nombre y posees más de 3 en el nombre completo, tal vez tengas una naturaleza inconstante.';
-        break;
+            break;
 
         case 'i':
             echo 'Tu nombre posee la vocal “I” como primer vocal, es una letra emotiva, creadora. Relacionado con inteligencia, confiere la capacidad de crear de manera innovadora, con capacidad de proyección infinita. Este palito con base puede provocar altibajos emocionales y dificultar la relación con los otros. 
@@ -862,7 +875,7 @@ echo "<br>";
             //////////////////CONTROLAR//////////////////
             <br>
             Como la primera vocal del primer nombre, sos intuitiva y te interesas por las artes, el teatro y/o la ciencia.';
-        break;
+            break;
 
         case 'o':
             echo 'Tu nombre al poseer el primer vocal O, y ser ésta una letra emotiva, nos habla de que posees un gran sentido de responsabilidad, observación y otorgas conocimiento instintivo del derecho y el deber. Al tener una capacidad de orden y determinación, posees una habilidad para escoger lo que corresponde aprender en esta vida.
@@ -870,7 +883,7 @@ echo "<br>";
             //////////////////CONTROLAR//////////////////
             <br>
             Si la O es la primera vocal y hay más de 3 en el nombre completo, puede mostrarse terco, lento y apagado.';
-        break;
+            break;
 
         case 'u':
             echo 'Tu nombre posee la vocal “U”, la cual es una letra intuitiva y vacilante. Simbólicamente, la “u” como una copa sin base, simboliza la contención, sobre todo de talento y encanto, corre el riesgo de vacilación, ambivalencia e indecisión. Como contenedora, también puede tender a la acumulación. Confiere inspiración e ideas para su aprendizaje, y la capacidad de expandir esa energía hacia el Universo. Como primera vocal del primer nombre, tenés una mente universal, capaz de grandes ideas y de un punto de vista muy amplio. Te gusta acomodar las cosas materiales.  
@@ -878,11 +891,11 @@ echo "<br>";
             //////////////////CONTROLAR//////////////////
             <br>
             Si la U es la primera vocal y hay más de 3 en el nombre completo, tal vez experimente un sentimiento de pérdida y de egoísmo, ya que la copa rebosa y se derrama su contenido.';
-        break;
+            break;
 
     }
 
-echo "<br>";   
+    echo "<br>";   
     
                                                     // CONSONANTE DEL NOMBRE
                                                     // CONSONANTE DEL NOMBRE
@@ -894,95 +907,95 @@ echo "<br>";
             
         case 'b':
             echo 'Al poseer la consonante “B” en tu nombre, nos habla de una persona emotiva y vacilante. La bondad, el sentimentalismo y el amor maternal. Simboliza el amor a la naturaleza y el carácter hogareño, la maternidad. Esta letra confiere sabiduría, y la capacidad de conectarse con el pensamiento más profundo.';
-        break;
+            break;
 
         case 'c':
             echo 'Al poseer la consonante “C” en tu nombre, nos habla de una persona intuitiva, dispersa, impaciente e impulsividad. Esta letra te confiere conocimiento y la capacidad de captar las vibraciones -buenas y malas- de las personas y objetos; es emotiva y auto-expresiva. Tiene acceso a lo oculto.';
-        break;
+            break;
 
         case 'd':
             echo 'Al poseer la consonante “D” en tu nombre, nos habla de una persona física, creadora y determinada; a veces obstinada. Esta letra te confiere la capacidad de realizarte materialmente, de afianzarte, de gran voluntad de pensamiento. Esta letra concuerda con 4 aspectos: afirmación, negación, discusión y solución.';
-        break;
+            break;
 
         case 'f':
             echo 'Al poseer la consonante “F” en tu nombre, nos habla de una persona intuitiva y vacilante. Te caracteriza la fortaleza, sabes aceptar sin dificultades cualquier responsabilidad. Esta letra confiere optimismo, caridad, ingenio y todo lo que fortalezca el ánimo; organización en el campo social y hogareño.';
-        break;
+            break;
 
         case 'g':
             echo 'Al poseer la consonante “G” en tu nombre, nos habla de una persona práctica y cerebral. Esta letra es el símbolo de la germinación. Esta letra te confiere una profunda comprensión del mundo espiritual te lleva a ser productiva, no te agradan las críticas; llevas la imaginación a la práctica. Te dota de introversión, pensamientos y actos profundos.';
-        break;
+            break;
 
         case 'h':
             echo 'Al poseer la consonante “H” en tu nombre, nos habla de una persona cerebral y vacilante. Te caracteriza la humanidad, atraes éxito y dinero, pero esta letra puede darlo o tomarlo todo. Busca equilibrio, dirección y control. Esta letra confiere el dominio de las pasiones y el control de los impulsos. Autosuficiente, no necesitas de nadie.';
-        break;
+            break;
         
         case 'j':
             echo 'Al poseer la consonante “J” en tu nombre, nos habla de una letra cerebral, vacilante. Implica juicio, inteligencia y creatividad, constituye una vibración muy intensa. Confiere gran inventiva, material y espiritual, aplicando lo moral a lo material. Posición de mando en grandes empresas o poderes de Estado. ';
-        break;
+            break;
 
         case 'k':
             echo 'Al poseer la consonante “K” en tu nombre, nos habla de una persona intuitiva y creadora. Karma. Esta letra te confiere gran inspiración creativa y altos ideales, pero también nerviosismo. Extremos, viajes y cambios. Te dota de gran poder de persuasión, fuerza espiritual y capacidad intelectual. Poderosa y magnética.';
-        break;
+            break;
 
         case 'l':
             echo 'Al poseer la consonante “L” en tu nombre, nos habla de una persona cerebral y práctica. Te atribuye el don de la palabra escrito u oral. Esta letra te confiere acción y capacidades ejecutivas. Exigís auto-sacrificio, pero das a cambio excelentes recompensas en las relaciones humanas. Reflexionas y analizas lentamente.';
-        break;
+            break;
 
         case 'm':
             echo 'La letra “M” es una letra física y práctica implica trabajo, renovación y regeneración. Confiere la capacidad de transformar. Sos medida, metódica y amas por sobre todas las cosas el hogar, la familia y la seguridad. Transmutas y renovás la vida. ';
-        break;
+            break;
 
         case 'n':
             echo 'Tu primer nombre pose la consonante “N”, nos habla entonces de una letra cerebral y vacilante. Vincula la vida interna con la externa. Confiere variedad, cambio, energía y movimiento. Símbolo del antiguo escriba, puede aportar al mundo mensajes inspirados. Construye y trabaja en el plano cerebral templando las emociones. ';
-        break;
+            break;
 
         case 'ñ':
             echo 'Al poseer la consonante “Ñ” en tu nombre, nos habla de una persona Cerebral y vacilante. Te permite vincular la vida interna con la externa. Esta letra te confiere variedad, cambio, energía y movimiento. Símbolo del antiguo escriba, aportás al mundo mensajes inspirados. Construís y trabajás en el plano cerebral templando las emociones.';
-        break;
+            break;
         
         case 'p':
             echo 'Al poseer la consonante “P” en tu nombre, nos habla de una persona cerebral y vacilante. Es percepción, reflexión e introspección. Esta letra te confiere amor al detalle, análisis profundo, perspicacia e intelectualidad. Otorga talentos creativos y dones de mando. Te atribuye deseos de dominar e imponer ideas a los demás.';
-        break;
+            break;
 
         case 'q':
             echo 'Al poseer la consonante “Q” en tu nombre, nos habla de una persona intuitiva y vacilante. Te caracterizan las cualidades de liderazgo e intensidad en los sentimientos. Infundís una secreta fortaleza y aires de misterio. Tu voluntad da forma y manifiesta los conocimientos. Por otro lado, trae consigo inestabilidad en las relaciones afectivas.';
-        break;
+            break;
 
         case 'r':
             echo 'Tu nombre al poseer la consonante R como primera letra, y al ser ésta una letra emotiva y creadora, nos dice que dominas la reflexión. Existe una gran necesidad de buscar nuevas ocupaciones y caminos en general.';
-        break;
+            break;
 
         case 's':
             echo 'Al poseer la consonante “S” en tu nombre, nos habla de una persona emotiva y vacilante. Es la letra de la entrega. Puede aparejar trastornos emocionales o impulsos descontrolados.Esta letra te confiere fuerza de deseo, voluntad individual para indagar y descubrir. Sumamente sensitiva y fluida.';
-        break;
+            break;
 
         case 't':
             echo 'Al poseer la consonante “T” en tu nombre, nos habla de una persona emotiva y vacilante. Firmeza, decisión y perseverancia, a veces con tendencia a dominar. Esta letra te confiere la capacidad para realizar transformaciones internas, muy espiritual y elevada, generalmente otorga videncia.';
-        break;
+            break;
         
         case 'v':
             echo 'Al poseer la consonante “V” en tu nombre, nos habla de una persona intuitiva y práctica. Te caracteriza la voluntad, conocimiento espiritual y control de lo material. Esta letra te confiere actitudes trabajadoras y constructivas, pero a veces puede provocar comportamientos imprevisibles en esa apertura a dos direcciones.';
-        break;
+            break;
 
         case 'w':
             echo 'Al poseer la consonante “W” en tu nombre, nos habla de una persona física y vacilante. Te cararcteriza el encanto, magnetismo y gran intuición. También la posibilidad de desequilibrios fuertes por una tendencia a reaccionar explosivamente. Esta letra te confiere altibajos, inconstancias, subidas y caídas inesperadas.';
-        break;
+            break;
 
         case 'x':
             echo 'Al poseer la consonante “X” en tu nombre, nos habla de una persona emotiva y vacilante. Te confiere uerza sexual, dominio de las pasiones, contrariedades. Es productora de desequilibrios emocionales y afectivos; necesitas trabajar tu parte superior (mente y espíritu) para evolucionar y mejorar.';
-        break;
+            break;
                 
         case 'y':
             echo 'Al poseer la consonante “Y” en tu nombre, nos habla de una persona intuitiva y vacilante. Dualidad para lograr la unidad, dos caminos que exigen determinación. Te confiere Acción y reacción, inducción y deducción, la alternativa entre la sucesión de lo espiritual y lo material. Debes trabajar la ley de compensación.';
-        break;
+            break;
             
         case 'z':
             echo 'Al poseer la consonante “Z” en tu nombre, nos habla de una persona emotiva y creadora. Esta última letra del alfabeto, confiere grandes deseos de superación, posee la certeza del saber y del obrar, además de un gran magnetismo mental. Indica dudas y materialismo. Intuición y esperanzas.';
-        break;
+            break;
 
     }
 
-echo '<br>';
+    echo '<br>';
 
                                                 // VOCAL DEL SEGUNDO NOMBRE
                                                 // VOCAL DEL SEGUNDO NOMBRE
@@ -1007,7 +1020,7 @@ echo '<br>';
             //////////////////CONTROLAR//////////////////
             <br>
             Si la E es la primera vocal de tu nombre y posees más de 3 en el nombre completo, tal vez tengas una naturaleza inconstante.';
-        break;
+            break;
 
         case 'i':
             echo 'Tu segundo nombre al poseer la letra "I" como vocal nos habla de una letra emotiva y creadora. Relacionada con la inteligencia, confiere la facultad de crear de manera innovadora, con capacidad de proyección infinita. Este palito con base puede provocar altibajos emocionales y dificulta la relación con los otros.';
@@ -1017,7 +1030,7 @@ echo '<br>';
             //////////////////CONTROLAR//////////////////
             <br>
             Como la primera vocal del primer nombre, sos intuitiva y te interesas por las artes, el teatro y/o la ciencia.';
-        break;
+            break;
 
         case 'o':
             echo 'Tu segundo nombre al poseer la letra "O" como vocal, y ser ésta una letra emotiva, nos habla de que posees un gran sentido de responsabilidad, observación y otorgas conocimiento instintivo del derecho y el deber. Al tener una capacidad de orden y determinación, posees una habilidad para escoger lo que corresponde aprender en esta vida.
@@ -1025,7 +1038,7 @@ echo '<br>';
             //////////////////CONTROLAR//////////////////
             <br>
             Si la O es la primera vocal y hay más de 3 en el nombre completo, puede mostrarse terco, lento y apagado.';
-        break;
+            break;
 
         case 'u':
             echo 'Tu segundo nombre posee la vocal “U”, la cual es una letra intuitiva y vacilante. Simbólicamente, la “u” como una copa sin base, simboliza la contención, sobre todo de talento y encanto, corre el riesgo de vacilación, ambivalencia e indecisión. Como contenedora, también puede tender a la acumulación. Confiere inspiración e ideas para su aprendizaje, y la capacidad de expandir esa energía hacia el Universo. Como primera vocal del primer nombre, tenés una mente universal, capaz de grandes ideas y de un punto de vista muy amplio. Te gusta acomodar las cosas materiales.  
@@ -1033,7 +1046,7 @@ echo '<br>';
             //////////////////CONTROLAR//////////////////
             <br>
             Si la U es la primera vocal y hay más de 3 en el nombre completo, tal vez experimente un sentimiento de pérdida y de egoísmo, ya que la copa rebosa y se derrama su contenido.';
-        break;
+            break;
 
     }
 
@@ -1047,95 +1060,95 @@ echo '<br>';
 
         case 'b':
             echo 'Al poseer la consonante “B” en tu segundo nombre, nos habla de una persona emotiva y vacilante. La bondad, el sentimentalismo y el amor maternal. Simboliza el amor a la naturaleza y el carácter hogareño, la maternidad. Esta letra confiere sabiduría, y la capacidad de conectarse con el pensamiento más profundo.';
-        break;
+            break;
 
         case 'c':
             echo 'Al poseer la consonante “C” en tu segundo nombre, nos habla de una persona intuitiva, dispersa, impaciente e impulsividad. Esta letra te confiere conocimiento y la capacidad de captar las vibraciones -buenas y malas- de las personas y objetos; es emotiva y auto-expresiva. Tiene acceso a lo oculto.';
-        break;
+            break;
 
         case 'd':
             echo 'Al poseer la consonante “D” en tu segundo nombre, nos habla de una persona física, creadora y determinada; a veces obstinada. Esta letra te confiere la capacidad de realizarte materialmente, de afianzarte, de gran voluntad de pensamiento. Esta letra concuerda con 4 aspectos: afirmación, negación, discusión y solución.';
-        break;
+            break;
 
         case 'f':
             echo 'Al poseer la consonante “F” en tu segundo nombre, nos habla de una persona intuitiva y vacilante. Te caracteriza la fortaleza, sabes aceptar sin dificultades cualquier responsabilidad. Esta letra confiere optimismo, caridad, ingenio y todo lo que fortalezca el ánimo; organización en el campo social y hogareño.';
-        break;
+            break;
 
         case 'g':
             echo 'Al poseer la consonante “G” en tu segundo nombre, nos habla de una persona práctica y cerebral. Esta letra es el símbolo de la germinación. Esta letra te confiere una profunda comprensión del mundo espiritual te lleva a ser productiva, no te agradan las críticas; llevas la imaginación a la práctica. Te dota de introversión, pensamientos y actos profundos.';
-        break;
+            break;
 
         case 'h':
             echo 'Al poseer la consonante “H” en tu segundo nombre, nos habla de una persona cerebral y vacilante. Te caracteriza la humanidad, atraes éxito y dinero, pero esta letra puede darlo o tomarlo todo. Busca equilibrio, dirección y control. Esta letra confiere el dominio de las pasiones y el control de los impulsos. Autosuficiente, no necesitas de nadie.';
-        break;
+            break;
         
         case 'j':
             echo 'Al poseer la consonante “J” en tu segundo nombre, nos habla de una letra cerebral, vacilante. Implica juicio, inteligencia y creatividad, constituye una vibración muy intensa. Confiere gran inventiva, material y espiritual, aplicando lo moral a lo material. Posición de mando en grandes empresas o poderes de Estado. ';
-        break;
+            break;
 
         case 'k':
             echo 'Al poseer la consonante “K” en tu segundo nombre, nos habla de una persona intuitiva y creadora. Karma. Esta letra te confiere gran inspiración creativa y altos ideales, pero también nerviosismo. Extremos, viajes y cambios. Te dota de gran poder de persuasión, fuerza espiritual y capacidad intelectual. Poderosa y magnética.';
-        break;
+            break;
 
         case 'l':
             echo 'Al poseer la consonante “L” en tu segundo nombre, nos habla de una persona cerebral y práctica. Te atribuye el don de la palabra escrito u oral. Esta letra te confiere acción y capacidades ejecutivas. Exigís auto-sacrificio, pero das a cambio excelentes recompensas en las relaciones humanas. Reflexionas y analizas lentamente.';
-        break;
+            break;
 
         case 'm':
             echo 'Al poseer la consonante “M” en tu segundo nombre, nos habla de una letra física y práctica que implica trabajo, renovación y regeneración. Confiere la capacidad de transformar. Sos medida, metódica y amas por sobre todas las cosas el hogar, la familia y la seguridad. Transmutas y renovás la vida. ';
-        break;
+            break;
 
         case 'n':
             echo 'Al poseer la consonante “N” en tu segundo nombre, nos habla de una persona Cerebral y vacilante. Te permite vincular la vida interna con la externa. Esta letra te confiere variedad, cambio, energía y movimiento. Símbolo del antiguo escriba, aportás al mundo mensajes inspirados. Construís y trabajás en el plano cerebral templando las emociones.';
-        break;
+            break;
 
         case 'ñ':
             echo 'Al poseer la consonante “Ñ” en tu segundo nombre, nos habla de una persona Cerebral y vacilante. Te permite vincular la vida interna con la externa. Esta letra te confiere variedad, cambio, energía y movimiento. Símbolo del antiguo escriba, aportás al mundo mensajes inspirados. Construís y trabajás en el plano cerebral templando las emociones.';
-        break;
+            break;
         
         case 'p':
             echo 'Al poseer la consonante “P” en tu segundo nombre, nos habla de una persona cerebral y vacilante. Es percepción, reflexión e introspección. Esta letra te confiere amor al detalle, análisis profundo, perspicacia e intelectualidad. Otorga talentos creativos y dones de mando. Te atribuye deseos de dominar e imponer ideas a los demás.';
-        break;
+            break;
 
         case 'q':
             echo 'Al poseer la consonante “Q” en tu segundo nombre, nos habla de una persona intuitiva y vacilante. Te caracterizan las cualidades de liderazgo e intensidad en los sentimientos. Infundís una secreta fortaleza y aires de misterio. Tu voluntad da forma y manifiesta los conocimientos. Por otro lado, trae consigo inestabilidad en las relaciones afectivas.';
-        break;
+            break;
 
         case 'r':
             echo 'Al poseer la consonante "R" en tu segundo nombre, nos habla de una letra emotiva y creadora, nos dice que dominas la reflexión. Existe una gran necesidad de buscar nuevas ocupaciones y caminos en general.';
-        break;
+            break;
 
         case 's':
             echo 'Al poseer la consonante “S” en tu segundo nombre, nos habla de una persona emotiva y vacilante. Es la letra de la entrega. Puede aparejar trastornos emocionales o impulsos descontrolados.Esta letra te confiere fuerza de deseo, voluntad individual para indagar y descubrir. Sumamente sensitiva y fluida.';
-        break;
+            break;
 
         case 't':
             echo 'Al poseer la consonante “T” en tu segundo nombre, nos habla de una persona emotiva y vacilante. Firmeza, decisión y perseverancia, a veces con tendencia a dominar. Esta letra te confiere la capacidad para realizar transformaciones internas, muy espiritual y elevada, generalmente otorga videncia.';
-        break;
+            break;
         
         case 'v':
             echo 'Al poseer la consonante “V” en tu segundo nombre, nos habla de una persona intuitiva y práctica. Te caracteriza la voluntad, conocimiento espiritual y control de lo material. Esta letra te confiere actitudes trabajadoras y constructivas, pero a veces puede provocar comportamientos imprevisibles en esa apertura a dos direcciones.';
-        break;
+            break;
 
         case 'w':
             echo 'Al poseer la consonante “W” en tu segundo nombre, nos habla de una persona física y vacilante. Te cararcteriza el encanto, magnetismo y gran intuición. También la posibilidad de desequilibrios fuertes por una tendencia a reaccionar explosivamente. Esta letra te confiere altibajos, inconstancias, subidas y caídas inesperadas.';
-        break;
+            break;
 
         case 'x':
             echo 'Al poseer la consonante “X” en tu segundo nombre, nos habla de una persona emotiva y vacilante. Te confiere uerza sexual, dominio de las pasiones, contrariedades. Es productora de desequilibrios emocionales y afectivos; necesitas trabajar tu parte superior (mente y espíritu) para evolucionar y mejorar.';
-        break;
+            break;
                 
         case 'y':
             echo 'Al poseer la consonante “Y” en tu segundo nombre, nos habla de una persona intuitiva y vacilante. Dualidad para lograr la unidad, dos caminos que exigen determinación. Te confiere Acción y reacción, inducción y deducción, la alternativa entre la sucesión de lo espiritual y lo material. Debes trabajar la ley de compensación.';
-        break;
+            break;
             
         case 'z':
             echo 'Al poseer la consonante “Z” en tu segundo nombre, nos habla de una persona emotiva y creadora. Esta última letra del alfabeto, confiere grandes deseos de superación, posee la certeza del saber y del obrar, además de un gran magnetismo mental. Indica dudas y materialismo. Intuición y esperanzas.';
-        break;
+            break;
 
     }
 
-echo '<br>';
+    echo '<br>';
 
                                                         // LECCIONES KÁRMICAS
                                                         // LECCIONES KÁRMICAS
@@ -1155,10 +1168,11 @@ echo '<br>';
             echo '<br>';
             echo 'La gran lección que viniste a aprender, tu sendero natal, camino de vida, vibración Kármica; distintos nombres para significar lo mismo. Si te enfocas en transitarlo en positivo te va a permitir ampliar tus aptitudes y talentos para avanzar cada vez más hacia tu gran aprendizaje. Y si lo transitas en aspectos negativos te mostrará los puntos sobre los cuales debés trabajar para progresar. Se lo considera uno de los números más importantes. Hay que aclarar que no es lo que soy, es lo que vengo a recorrer, lo que vengo a aprender, a desarrollar, a trabajar, a afianzar y así poder lograr la realización como ser humano y sentir plenitud.';
             echo '<br>';
-        break;
+            break;
 
         case 'no':
             echo '';
+            break;
                                     
         }
 
@@ -1174,7 +1188,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 2:
             echo 'Tu camino posee la vibración del número 2, con ello podemos decir que viniste a esta vida a aprender el ser receptiva, sensible, emotiva, cooperadora.
@@ -1185,7 +1199,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 3:
             echo 'Tu número de vida es 3, al estar regida bajo la vibración de este número podemos decir que estas llamada a aprender a comunicarte, expresarte, ser sociable y optimista.
@@ -1199,7 +1213,7 @@ echo '<br>';
             Para hacer elecciones que te hagan crecer tené en cuenta tu esencia (los deseos de tu alma). El deseo de tu alma es el de ser libre, estando en movimiento frecuentes cultivando horizontes amplios y rehusar toda limitación, adaptándote a los cambios, siendo versátil y flexible; tu destino es el de ser justa y equilibrada entre el mundo material y espiritual; comprender esto te facilitará conseguir la gran lección que tu alma vino a aprender; es decir, su karma. En este sentido, desarrollar tus talentos creativos, y tu capacidad de expresividad, la fecundidad y evolucionar en el optimismo.
             <br>
             Lograr el deseo de tu alma y tu destino te permitirá ampliar tus aptitudes y talentos, ser libre, justa y equilibrada en tu vida y en la vida de los demás, desprendiéndote de las ambiciones, los apegos negativos, las relaciones tóxicas que no te permiten crecer; y poder realizar una sabia selección de aquello que te permitirá avanzar en aprendizaje y evolución.';
-        break;
+            break;
 
         case 4:
             echo 'En cuanto al camino de vida el número en cuetión es el 4, es decir que hay también una gran necesidad de aprender en esta vida, a ser práctica, objetiva, responsable y disciplinada. Tu Sendero Natal coincide con tu número de identidad, por lo que no es solo aquello que venís a aprender en esta vida, sino que además es aquello que los demás pueden ver en vos a simple vista, es decir que es posible que las personas lleguen a mostrarte en lo que debes evolucionar.
@@ -1214,7 +1228,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+         break;
 
         case 5:
             echo 'Tu número de vida es 5, al estar regida bajo la vibración de este número podemos decir que estás llamada a aprender a adaptarte a los cambios, ser liberal y versátil.
@@ -1227,7 +1241,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 6:
             echo 'Tu número de vida se reduce a 6, al estar regida bajo la vibración de este número podemos decir que estás llamada a aprender a ser familiarmente responsable, amorosa y comprensiva.
@@ -1242,7 +1256,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 7:
             echo 'Tu camino de vida se ve marcado por el número 7, es decir que viniste a esta vida a aprender a ser concentrada, analítica y reflexiva.
@@ -1253,7 +1267,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 8:
             echo 'Tu camino de vida se ve marcado por el número 8, es decir que viniste a esta vida a aprender a ser productiva, perseverante y organizada.
@@ -1264,7 +1278,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 9:
             echo 'Tu camino se ve marcado por el número 9, es decir que viniste a esta vida a aprender a ser humanitaria, tolerante y compasiva.
@@ -1277,7 +1291,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
     
         case 11:
             echo 'Tu camino de vida es 11, este es un número Maestro, involucra un gran potencial de superación espiritual y evolutiva que corresponde a aspectos de aprendizaje, es un número transpersonal; éste nos obliga a vivirlo y desarrollarlo conscientemente, comprendiendo el verdadero sentido y la auténtica dimensión espiritual que posee. Por lo tanto, la presencia de este número Maestro te dará la oportunidad de ser consciente sobre aquello que has venido a trabajar, la gran lección que viniste a aprender. Debe manejarse con cuidado, para no caer en la trampa de “súper autoestima”. Encontrar un número Maestro nos informa que hay un potencial elevado a ser desarrollado.
@@ -1296,7 +1310,7 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
     
         case 22:
             echo 'Tu número de vida es un número Maestro 22: La constructora del futuro. Maestra material.
@@ -1319,15 +1333,15 @@ echo '<br>';
             <br>
             //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
             <br>';
-        break;
+            break;
 
         case 33:
             echo 'sin contenido///////////////////////////////';
-        break;
+            break;
 
         case 44:
             echo 'sin contenido///////////////////////////////';
-        break;
+            break;
 
     }
     echo '<br>';
@@ -1335,13 +1349,13 @@ echo '<br>';
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
-     switch ($siNoNuka){
+    switch ($siNoNuka){
 
-         case 'si':
-             echo 'Numero Kármico';
-             echo '<br>';
-             echo 'Tener un número Kármico en tu informe implica que, si no tomas consciencia sobre ello para corregir y aprender, la vida se encargará de poner una y otra vez en tu camino esto para que logres la total apertura. Entonces ¿Por qué no comenzamos a trabajar sobre ello ahora mismo? Muchas veces aquí se encuentran las respuestas a aquello que no le encontramos sentido en nuestra vida; de esta forma se torna muy difícil definir el rumbo a seguir.
-             <br>            
+        case 'si':
+            echo 'Numero Kármico';
+            echo '<br>';
+            echo 'Tener un número Kármico en tu informe implica que, si no tomas consciencia sobre ello para corregir y aprender, la vida se encargará de poner una y otra vez en tu camino esto para que logres la total apertura. Entonces ¿Por qué no comenzamos a trabajar sobre ello ahora mismo? Muchas veces aquí se encuentran las respuestas a aquello que no le encontramos sentido en nuestra vida; de esta forma se torna muy difícil definir el rumbo a seguir.
+            <br>            
             Implica la necesidad de manejar y equilibrar estas energías, tal vez, con un poco más de trabajo. Los números Kármicos se refieren al mal uso o abuso de las leyes naturales en vidas anteriores, lo cual está delineando una reconstrucción que deberás realizar. Si aceptas las premisas de este karma, estarás ante un nuevo punto de partida para iniciar un nuevo ciclo ascendente, de lo contrario, volverás a repetir el aprendizaje con mayor dificultad. El karma está vinculado a la ley de causa y efecto, esto quiere decir que todo efecto tuvo una causa anterior que lo originó. Toda persona puede terminar con su karma negativo aquí y ahora y comenzar a generar Dharma, es decir, que comprender este significado, es tener en tus manos las herramientas necesarias para la toma de consciencia y de accionar para cambiarlo o trabajarlo, al punto de conseguir Dharma, el aprendizaje.<br>';
             break;
 
@@ -1352,17 +1366,17 @@ echo '<br>';
 
      echo '<br>';
      
-     switch ($noNuka){
+    switch ($noNuka){
         
         case 'no':
             echo 'Se puede observar que en tu mapa numerológico no existen números Kármicos.';
-        echo '<br>';
+            echo '<br>';
             break;
         
         case 'vacio2':
             echo '';
             break;
-     }
+    }
 
     if(isset($_POST["calcular"])){
 
@@ -1408,7 +1422,7 @@ echo '<br>';
 
     echo '<br>';
      
-     switch ($noProblem){
+    switch ($noProblem){
         
         case 'no':
             echo'NO POSEES NÚMEROS PROBLEMÁTICOS';
@@ -1417,10 +1431,10 @@ echo '<br>';
         case 'vacio4':
             echo '';
             break;
-     }
+    }
 
     if(isset($_POST["calcular"]))
-    {
+    { 
         if(isset($_POST["12Problematico"]))
         echo 'Pude encontrar el número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
         <br>
@@ -1437,6 +1451,7 @@ echo '<br>';
         El número 15, llamado el número de las ataduras, se lo relaciona al gran sentido de la responsabilidad y compromiso con la familia, afectos, amigos y la comunidad en general. Son absolutamente interesados por ayudar y contener a los demás, tiene ese compromiso de jamás abandonar a nadie. Su lado negativo radica en que, como considera a sus afectos y familia en primer lugar puede dejar de lado sus proyectos personales, entonces no piensa en su propio futuro y al estar tan abocados en otros presenta dificultades para concentrarse en sus propias cuestiones, y ahí es donde necesita de otros para que lo ayuden a concluir sus metas
         <br>
         Tené en cuenta este número problemático para tu crecimiento personal, sobre todo en relación a tu ((( ATENCION EDITAR!!, aquello de lo que debes aprender, es decir, a ser familiarmente responsable, amorosa y comprensiva ATENCION EDITAR!!))); esto sin olvidarte de vos misma y de tus proyectos personales (como considera el número problemático 15). También no olvides de tu misión del alma/destino, relacionado con ser una persona individualista, independiente y decidida; creadora, siendo líder y hacedora; por lo que será necesario que contemples este número problemático para lograrlo.<br>';
+    
     }
 
 
@@ -1453,6 +1468,11 @@ echo '<br>';
             echo '<br>';
             echo '/////////////LUGAR PARA EL CUADRO/////////////';
             echo '<br>';
+            break;
+
+        case 'no':
+            echo '';
+            break;
     }
 
     switch ($planoMental){
@@ -1461,61 +1481,61 @@ echo '<br>';
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una persona con una gran tendencia a la intromisión, a ser muy cerrada. No sale de su estructura. Incapacidad para desarrollar su creatividad. Se desespera ante los cambios porque no tiene la capacidad de adaptarse rápidamente a lo que le indican las circunstancias. Se muestran cerrada y recia, esto no es más que una defensa elaborada a partir de sus propias carencias.';
-        break;
+            break;
     
         case '1':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una persona estructurada. Todo en tu mente está acomodado, limpio y organizado. Si bien esto es importante, habría que evitar que llegues a ser demasiado ortodoxa e insoportablemente terca.';
-        break;
+            break;
 
         case '2':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una tendencia a la dualidad; y desde la dualidad, te conectas con la ambigüedad. En este sentido podrías caer en rodeos como "quiero - no quiero”; “voy - no voy”; “me gusta - no me gusta”, etc.';
-        break;
+            break;
 
         case '3':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos en este plano que necesitas abrirte a la comunicación, relacionarte con los demás, desarrollar la creatividad. Tenés la capacidad de auto motivación, todo te gusta, querés estar en todo, todo te interesa. Debes cuidarte de fantasear con enormes proyectos puesto que te verás imposibilitada de concretar pequeños objetivos. Esto ocurre porque tu excesivo interés te lleva a dispersar toda la energía, por lo tanto tus anhelos suelen desvanecerse en el camino.';
-        break;
+            break;
 
         case '4':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y/o con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una persona estructurada. Todo en tu mente está acomodado, limpio y organizado. Si bien esto es importante, habría que evitar que llegues a ser demasiado ortodoxa e insoportablemente terca.';
-        break;
+            break;
 
         case '5':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos del plano mental alto, siendo este el que guarda el mayor equilibrio y la posibilidad de conexión entre los planos bajos y los planos superiores. Tenés capacidad intuitiva y un gran desarrollo psíquico, lo que te permite comunicarte con las ideas generatrices, organizarlas y concretarlas. Este plano superior conlleva a una gran dificultad para comunicarte con personas que vibran en planos mentales más bajos; sin embargo, podés lograrlo a través de esa capacidad intuitiva; la cual te brinda la facultad de adaptarte rápidamente a los demás y al cambio. Logras entonces comprender creativamente y hacerte comprender, relacionarte, comunicarte de forma favorable y nutritiva.';
-        break;
+            break;
 
         case '6':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una persona con una gran tendencia a somatizar o caer en estados de hipocondría. Con una tendencia a enfermarse. Muchas veces estas personas no saben manejar sus energías, con lo que puede haber mala canalización de su caudal y pérdida de vitalidad, que llevaría a estados de angustia que se volcaría en lo físico. Estos bloqueos no le permiten conectar con estados de equilibrio y plenitud.';
-        break;
+            break;
 
         case '7':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y/o con qué facilidad podes centrarte en el aquí y ahora.
             <br>
             Lo que este plano nos muestra es que existe una importante tendencia a la depresión, las personas con esta vibración hay que obligarlas a entrar en la vida, puesto que el número 7 prefiere ponerse en el lugar del que no vive, pero observa la vida de otro a través de los ojos de una cerradura. Canaliza a través del estudio y la investigación, la tendencia la marcan las matemáticas, la física, la filosofía, los estudios místicos.';
-        break;
+            break;
 
         case '8':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y/o con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una enorme capacidad de energía mental. En este plano abundan los grandes videntes y perceptivos en una vibración positiva y en equilibrio, así como también seres perversos y altamente agresivos en una vibración negativa y destructiva.';
-        break;
+            break;
 
         case '9':
             echo 'Plano Mental - El Yo y lo oculto: ¿Cómo es tu capacidad de apertura frente a la vida y a las circunstancias?, ¿Qué patrones de pensamiento te caracterizan? Está relacionado a cómo es tu adaptación en el mundo y en la realidad que te toca transitar, con qué rapidez contás para resolver situaciones problemáticas, qué capacidad tenés de ver las situaciones en su totalidad y/o con qué facilidad podés centrarte en el aquí y ahora.
             <br>
             A partir de este número hablaremos de una persona en un proceso de apertura; si llega a comprender en qué lugar de la evolución está situada y acepta con agrado esta circunstancia puede mostrar al mundo toda su genialidad.';
-        break;
+            break;
     }
 
     echo '<br>';
@@ -1526,61 +1546,61 @@ echo '<br>';
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, que en cierta medida existe una tendencia a la autodestrucción. Indica que se requiere prestar mucha atención a la parte inmunológica.';
-        break;
+            break;
     
         case '1':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, que en cierta medida todo lo que va ocurriendo a tu alrededor repercute en tu físico, tanto lo bueno como lo malo. Somatiza constantemente.';
-        break;
+            break;
 
         case '2':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, la mayoría de las veces, con una tendencia a la infidelidad (tanto a una misma como a otros; no precisamente se relaciona con la pareja en sí, sino con las vinculaciones). Disgusto permanente con su propia estructura corporal. Ambivalencia que lleva a estados mentales de confusión, desórdenes (alimenticios, físicos, emocionales, mentales). Hipocondría.';
-        break;
+            break;
 
         case '3':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, se involucran por lo tanto los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, la mayoría de las veces, con tendencia a dispersar gran cantidad de energía. Te sentís permanentemente cansada a raíz de este desgaste excesivo, lo cual puede repercutir seriamente en tu salud.';
-        break;
+            break;
 
         case '4':
             echo 'Plano Físico- Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, por lo general, desde un plano fuerte y sano. Sería conveniente que pudieras mostrar más tu cuerpo, puesto que la tendencia es la de taparlo, ocultarlo.';
-        break;
+            break;
 
         case '5':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, que en cierta medida te gusta mostrarte y exhibirte. Cometes ciertos excesos, en todos los aspectos (comida, bebida, sexo, ira, etc.) Es conveniente aclarar que cuando se habla de excesos, nos referimos tanto a "comer absolutamente nada" o “comer absolutamente todo y en cantidad”, los dos extremos son perjudiciales.';
-        break;
+            break;
 
         case '6':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es de gran impacto, con tendencia a enfermarte, existiendo cierto vuelco hacia la angustia que impacta en lo físico. ';
-        break;
+            break;
 
         case '7':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, acá se involucran los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es de gran impacto, ya que los malos manejos de la energía refuerzan los estados de angustia hasta llegar a una depresión y enfermar el cuerpo, encontramos en ésta vibración un alto grado de enfermos cardíacos.';
-        break;
+            break;
 
         case '8':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, se involucran por lo tanto los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es, por lo general, la de volcar la agresión en este. Existe una gran tendencia a los golpes, caídas, lastimaduras, cortes y operaciones, tanto de cirugía menor, como de cirugía mayor.';
-        break;
+            break;
 
         case '9':
             echo 'Plano Físico - Lo concreto y los cambios: ¿Cómo se vinculan tus conductas con tu cuerpo físico? Hace referencia a cómo se vinculan e impactan tus acciones en tu cuerpo, se involucran por lo tanto los comportamientos, las somatizaciones, relaciones corporales, etc.
             <br>
             La manera en que se vinculan tus acciones con tu cuerpo es desde el desequilibrio, necesita nivelarse desde lo racional; de lo contrario puede caer en excesos (siendo extremista, por ejemplo comer en demasía o no comer nada; amar compulsivamente u odiar destructivamente), esta tendencia a los excesos es potente y devastadora, al punto de no tener control sobre ello. Deberá buscar canalizar esa fuerza a través de los estudios y del crecimiento interno; también será necesario que pueda pedir ayuda para lograr el justo y sano equilibrio en su vida.';
-        break;
+            break;
 
     }
 
@@ -1592,62 +1612,62 @@ echo '<br>';
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar una grave imposibilidad de relacionarse afectivamente. Disfunciones emocionales que llevan a problemáticas psíquicas.';
-        break;
+            break;
     
         case '1':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que venís a aprender todo, a desarrollar como discípulo tu espiritualidad.';
-        break;
+            break;
 
         case '2':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que te cuesta tomar decisiones, cuando las tomás, dudás de haber hecho lo correcto. Te cuesta el intercambio emocional desde la entrega, puesto que siempre te abruma la duda.';
-        break;
+            break;
 
         case '3':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que no lográs vivir dentro de un equilibrio emocional. Te cuesta ser fiel, puesto que la motivación se basa en el descubrimiento y la conquista.';
-        break;
+            break;
 
         case '4':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar una tendencia a seguir la tradición religiosa familiar. Existiendo temores ante todo conocimiento que amenace con romper tu ordenada estructura.';
-        break;
+            break;
 
         case '5':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que te moviliza el riesgo, la aventura, el peligro, los excesos. Te encandilan el talento, la creatividad y lo nuevo. Vivís tus emociones con absoluta intensidad.';
-        break;
+            break;
 
         case '6':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Podemos observar que pones tu emoción al servicio del otro. Por lo general, estos planos siguen en la necesidad de un hogar cálido, bello y armonioso; por lo que se torna una necesidad la familia y los afectos de la misma, cuando esto no se logra, hay una tendencia al desequilibrio y aparecen conductas destructivas.';
-        break;
+            break;
 
         case '7':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿de qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que te cuesta tomar decisiones en función de tus estados de malestar o angustias. Sería conveniente que en este plano comprendieras la importancia de una buena introspección, lo que te permitiría salir a la vida de forma renovada, en lugar de caer en agujeros negros que en nada suman.';
-        break;
+            break;
 
         case '8':
             echo '
             Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿de qué forma y cómo las expresas?
             <br>
             Aquí se puede observar una tendencia a la destrucción, a veces dirigida sobre el entorno, siendo muy difícil manejar sus mecanismos agresivos. Otras veces recayendo sobre si mismo cuando no puede canalizar debidamente esa agresión. Es importante que su energía pueda ser bien canalizada, teniendo una expresión creativa y nutricia.';
-        break;
+            break;
 
         case '9':
             echo 'Plano Emocional - La pareja, los hijos y el hogar: ¿Cómo se canalizan tus emociones?, ¿De qué forma y cómo las expresas?
             <br>
             Aquí se puede observar que sos consciente del potencial que posees, tu corazón estará abierto al mundo. Si estás mal aspectada, te verás constantemente envuelta en relaciones de pareja tortuosas, conflictos, situaciones negativas e incluso de peligro.';
-        break;
+            break;
 
     }
 
@@ -1659,62 +1679,62 @@ echo '<br>';
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí, en su faz positiva, un gran renovador; en su faz negativa un negado total.';
-        break;
+            break;
     
         case '1':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de que has venido a aprender todo, a desarrollarte como discípula en tu espiritualidad.';
-        break;
+            break;
 
         case '2':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que tenés conocimientos esotéricos, te cuesta definirte para seguir un camino espiritual, pero te nivelás y te potenciás cuando conseguís ponerte al lado de un maestro de camino y/o un guía espiritual.';
-        break;
+            break;
 
         case '3':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí, existe una necesidad de investigar dentro de la mayor cantidad posible de tendencias espirituales o religiosas. Sos un alma en búsqueda de conocimiento, inquieta, en una exploración incesante. Si te lo propones, podes llegar a un conocimiento superior.';
-        break;
+            break;
 
         case '4':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de una tendencia a seguir la tradición religiosa familiar. Temor ante todo conocimiento que amenace con romper tu ordenada estructura. También hay una tendencia a la lógica y la razón por sobre la religión. Puede volcarse más al mundo material que al espiritual.';
-        break;
+            break;
 
         case '5':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de una tendencia a generar cambios revolucionarios dentro del pensamiento espiritual, investigando, descubriendo y aportando en forma creativa conocimientos.';
-        break;
+            break;
 
         case '6':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí, servir al otro se potencia y puede llegar a convertirse en un objeto trascendente de la vida.';
-        break;
+            break;
 
         case '7':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de aquella persona que ya trae, a través de experiencias en vidas pasadas, una importante evolución dentro del conocimiento místico, el cual deberás reforzar para poder ponerlo en práctica.';
-        break;
+            break;
 
         case '8':
             echo 'Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de una memoria de otras vidas, es decir de aquella persona que ya trae, a través de experiencias en vidas pasadas, una importante evolución dentro del conocimiento místico, el cual deberá reforzar para poder ponerlo en práctica.';
-        break;
+            break;
 
         case '9':
             echo '
             Plano Espiritual - Lo místico y la alta espiritualidad: ¿Cómo se manifiesta el estado evolutivo de tu vida espiritual? Hace referencia a las creencias, no solo religiosas, sino de otras terapias espirituales.
             <br>
             Lo que se puede observar es que aquí se habla de una necesidad de conexión con "lo superior". Habla de haber alcanzado en otras vidas la comprensión y la aplicación de la "alta espiritualidad ". Existiendo así una tendencia a recordarlo y ponerlo en práctica en el aquí y ahora.';
-        break;
+            break;
     }
 
     echo '<br>';
@@ -1920,63 +1940,66 @@ echo '<br>';
                                                 // NUMERO DE MADUREZ
                                                 // NUMERO DE MADUREZ
     switch ($sinoMadu) {
+        
         case 'si':
             echo 'Número de madurez';
             echo '<br>';
             echo 'Este, es otro talento o inclinación que vas a adquirir, es un número que se activa a partir de los 45/50 años. Ejerce su influencia a lo largo de toda tu vida, pero su fuerza alcanza su plenitud en la última etapa de la misma.';
             echo '<br>';
-        break;
+            break;
 
         case 'no':
             echo '';
+            break;
         
         
     }
 
     switch ($madu) {
+        
         case '1':
             echo 'El número de madurez nos muestra que en este periodo tu vida, debés actuar de manera independiente, desplegando gran actividad, creatividad, sagacidad y ambición (no desmedida), evitando ser obstinado y dominante';
-        break;
+            break;
         
         case '2':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, es probable que pueda presentarse la oportunidad de participar en alguna rama artística, en temas o tareas religiosas y espirituales.';
-        break;
+            break;
     
         case '3':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, podrías optar por trabajar en metas bien definidas, focalizándote en una sola dirección. Posees creatividad y buena imaginación, no las disperses.';
-        break;
+            break;
 
         case '4':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, podrías optar por concretar tus metas si ponés en funcionamiento tus ideas, con mucho esfuerzo, concentración y tenacidad.';
-        break;
+            break;
 
         case '5':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, es importante que centralices tus objetivos en un logro importante; filtres bien tus intereses, ya que pasarás por continuos cambios y nuevas perspectivas.';
-        break;
+         break;
 
         case '6':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, es importante que asumas la responsabilidad hacia la familia y el servicio comunitario. Así recibirás apoyo y obtendrás recompensas materiales y espirituales.';
-        break;
+            break;
 
         case '7':
             echo 'El número de madurez nos muestra que, en este período de tu vida, podrías optar por perfeccionarte o comenzar algo diferente a lo ya realizado (estudios de biología, metafísica, religión, investigación científica etc.)';
-        break;
+            break;
 
         case '8':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, deberás desarrollar tu capacidad ejecutiva en el área donde la vida te coloque, para obtener expansión, reconocimiento y buen nivel económico.';
-        break;
+            break;
 
         case '9':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, es importante que optés por dejar de lado tus intereses personales y te dediques a ayudar a los más necesitados.';
-        break;
+            break;
 
         case '11':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, es importante que contemples la posibilidad de cierta inspiración que destaque tu espiritualidad. Debés prepararte y tomar conciencia de la tarea futura, ya que la recompensa puede ser fama y distinción, por el servicio hacia los demás.';
-        break;
+            break;
 
         case '22':
             echo 'El número de madurez nos muestra que, en este periodo de tu vida, si actuás de manera práctica e idealista y sobre bases sólidas, podés lograr reconocimiento, nacional e internacional.';
-        break;
+            break;
         
     }
 
@@ -1992,17 +2015,18 @@ echo '<br>';
             echo '<br>';
             echo 'El número de la Clave personal o de carácter es muy importante ya que indica de qué manera nos manejamos ante las adversidades o cómo desarrollamos nuestra capacidad de decisión ante conflictos de distinta índole, además, determina el comportamiento de tu persona y también algunas situaciones que regirán tu vida. Se mostrará aquello que debés potenciar y aquello que tendrías que trabajar.';
             echo '<br>';
-        break;
+            break;
 
         case 'no':
             echo '';
+            break;
     }
 
     switch ($clavePer) {
         
         case '1':
             echo '//////////////SIN CONTENIDO//////////////';
-        break;
+            break;
 
         case '2':
             echo 'Tu clave personal: 2
@@ -2010,11 +2034,11 @@ echo '<br>';
             Tu clave personal 2 pide que potencies lo positivo, esto sería ser pacificadora, diplomática, armoniosa; que conectes aún más con tu sensibilidad, intuición y vulnerabilidad. Será importante que también puedas potenciar tu afectividad, los sentimientos profundos, la colaboración, la recepción y el modo de vincularte emocionalmente.
             <br>
             A su vez, tu clave personal pone frente a vos aquello que tendrías que trabajar, lo negativo, es decir el sometimiento a ultranza, la dualidad, y la mirada sobre vos misma. Será importante que puedas contemplar aquella necesidad que inunda muchas veces sobre la duda hacia vos misma, el peso de mirada de aprobación del otro; por lo que será importante la construcción de tu identidad.';
-        break;
+            break;
 
         case '3':
             echo '//////////////SIN CONTENIDO//////////////';
-        break;
+            break;
 
         case '4':
             echo 'Tu clave personal: 4
@@ -2022,7 +2046,7 @@ echo '<br>';
             Tu clave personal 4 pide que potencies lo positivo, esto sería tu parte constructiva, productiva, positiva, práctica, constante y organizada. Ante decisiones o situaciones conflictivas estos aspectos potenciados permitirán que evoluciones en un gran crecimiento y un gusto por la vida.
             <br>
             A su vez, tu clave personal pone frente a vos los aspectos negativos sobre los cuales deberías trabajar, es decir, la insatisfacción, el disgusto, el fastidio, los prejuicios y el juzgamiento. Darle lugar a estas emociones y actitudes puede llevar a que sientas un gran vacío interno. Otra cuestión a trabajar es la sexualidad cerrada; es importante que le des lugar al goce, el merecimiento y la sensualidad, para evitar bloqueos, enfermedades en los órganos sexuales como así también bloqueos emocionales que puedan impactar en tu autoestima.';
-        break;
+            break;
 
         case '5':
             echo 'Tu clave personal: 5
@@ -2030,7 +2054,7 @@ echo '<br>';
             Tu clave personal 5 pide que potencies tus aspectos positivos; esto sería tu parte curiosa, inquieta, dinámica, tu capacidad de libertad, movimiento y cambio.
             <br>
             A su vez, tu clave personal pone frente a vos aquello negativo que deberías trabajar, es decir lo estática e inmóvil, lo que te paraliza y no te permite avanzar. También el estancamiento de tu lívido sexual y tu permiso para el goce y disfrute. También la dispersión, inconstancia, derroche, falta de practicidad, rebeldía, libertinaje y excesos.';
-        break;
+            break;
 
         case '6':
             echo 'Tu clave personal: 6
@@ -2040,11 +2064,11 @@ echo '<br>';
             El comportamiento de tu persona, de apreciar la belleza y vivir en bienestar, debe ir de la mano de la responsabilidad afectiva; de esta manera se comienza a vivir el intercambio entre el dar y el recibir, de manera sensible y beneficiosa para tu crecimiento.
             <br>
             A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir la manera de resolver los conflictos de una forma infantil que te lleva a batallar con los demás y/o con vos misma. Esta forma de resolver conflictuada, desde la discusión, de forma porfiada y ofuscada, lleva a que no logres una buena comunicación. También contemplar el apego negativo a tu hogar natal. Será necesario que evoluciones en armonía, con energías creativas y receptoras para lidiar con las situaciones que te sacan de eje. Si tu forma de situarte ante una situación de crisis te lleva a un exceso de preocupación, intolerancia, orgullo, desapego familiar y a encerrarte en vos misma, será necesario que conectes otra vez con el amor.';
-        break;
+            break;
 
         case '7':
             echo '//////////////SIN CONTENIDO//////////////';
-        break;
+            break;
 
         case '8':
             echo 'Tu clave personal: 8
@@ -2052,7 +2076,7 @@ echo '<br>';
             Tu clave personal 8 pide que potencies lo positivo, esto sería el equilibrio emocional, la perseverancia y el control de la energía para producir logros materiales y espirituales. Tu número de Clave personal nos muestra que ante situaciones problemáticas será mejor potenciar tu poder de la realización a través de tus propias estrategias, la abundancia en el mundo mental y espiritual; y tus capacidades, aquellos talentos que sirven para transformar y desarrollar tus tesoros internos con el fin de construirte. Será necesario que aprendas a manejar tus talentos y tu poder.
             <br>
             A su vez, tu clave personal pone frente a vos aquello que tendrías que trabajar, lo negativo, es decir la inestabilidad emocional, los logros escasos y la limitación material. Ante situaciones conflictivas será mejor que tomes en cuenta ciertas actitudes de extrema ambición personal, lo que puede llevarte a sentir bloqueos por el nivel de auto exigencia que portarías hacia tu persona; inseguridad, desconfianza, desorganización y rigidez mental, todo esto acarrearía una dificultad para concretar metas y alcanzar objetivos. Serían también puntos importantes a trabajar tanto el apego a lo material como la marcada resistencia a los cambios.';
-        break;
+            break;
 
         case '9':
             echo 'Tu clave personal: 9
@@ -2060,7 +2084,7 @@ echo '<br>';
             Tu clave personal 9 pide que potencies lo positivo, esto se refiere a tu parte de servicio a la humanidad, abriéndote a una dedicación amorosa y brindándote desinteresadamente al otro, tanto como a vos misma. Ampliando tu Ser espontánea, generosa, bondadosa y artísticamente. Ante situaciones conflictivas ponés la necesidad del otro por sobre la tuya y hay una valoración exagerada sobre la mirada de los demás; será importante que puedas equilibrar esto, para que no haya una tendencia desmedida donde primen los demás por sobre vos misma.
             <br>
             A su vez, tu clave personal pone frente a vos aquello que deberías trabajar, lo negativo, es decir tus elecciones ante personas que puedan ayudarte en tu crecimiento y evolución personal, sobre todo en cuestiones amorosas desafortunadas; será importante tener un compañero o una compañera de camino que te ayude a potenciar tus habilidades, cualidades y dones; no busques quien te opaque, sino quien realce tu brillo y tu luz.';
-        break;
+            break;
 
         case '10':
             echo 'Tu clave personal: 10
@@ -2068,7 +2092,7 @@ echo '<br>';
             Tu clave personal 10 pide que potencies lo positivo, esto sería tu espíritu precursor, capacidad de dominio, de liderazgo y tu iniciativa constante. Esta capacidad resolutiva te llevará a grandes triunfos; y sobre todo a resolver las situaciones problemáticas de una manera favorable.
             <br>
             A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir la manera de resolver los conflictos de una forma aislada, sin la capacidad de comunicarte o expresarte; ya que esto puede llevarte al sentimiento de profunda soledad, sensación de vacío y de falta de contención.';
-        break;
+            break;
 
         case '11':
             echo 'Tu clave personal: 11
@@ -2076,15 +2100,15 @@ echo '<br>';
             Tu clave personal 11 pide que potencies lo positivo, esto sería tu parte de altruismo, de notoriedad, confiar en tus intuiciones y tener fe en una guía superior. También potenciar el trabajo de desapego de tu historia, logrando desde el perdón y la liberación tu propio crecimiento y elevación.
             <br>
             A su vez, tu clave personal pone frente a vos aquello que tendrías que trabajar, lo negativo, es decir la vacilación extrema y constante. Expresa el vivir de un modo equilibrado y consciente, de lo contrario, puede llevar a la vulnerabilidad emocional, excesos de impaciencia y complejos de superioridad, que te conducen al aislamiento y soledad. Este número Maestro manifiesta que debés realizar un gran trabajo sobre tu ego.';
-        break;
+            break;
 
         case '12':
             echo '//////////////SIN CONTENIDO//////////////';
-        break;
+            break;
 
         case '13':
             echo '//////////////SIN CONTENIDO//////////////';
-        break;
+            break;
 
     }
 
@@ -2100,55 +2124,55 @@ echo '<br>';
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es 1, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser muy original y creativo, aceptar esta característica de tu personalidad será un gran beneficio en tu vida para potenciarlo aún más. También se te destaca una gran ambición y fortaleza, esto será productivo si lo mantenés en armonía con tu Ser. Tu poder personal lo conseguirás trabajando y desarrollando estas características.';
-        break;
+            break;
 
         case '2':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es el 2, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser muy original y creativo, otro de los aspectos que más te destaca es tu gran ambición y fortaleza. Vas a adquirir este poder personal trabajando y desarrollando dichas características.';
-        break;
+            break;
 
         case '3':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es el 3, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser muy creativo y con una gran facilidad de expresión. Tu fuente de poder es tu capacidad de entretener y divertir a los demás';
-        break;
+            break;
 
         case '4':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es el 4, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser que se encuentra en la eterna búsqueda de estabilidad en la vida. Nos habla de una persona con gran vitalidad, capacidad, paciencia y disciplina para lograr sus objetivos transmitiendo a su vez confianza en los demás.';
-        break;
+            break;
 
         case '5':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es el 5, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser con gran necesidad de comunicarse con los demás y demostrar lo que siente, tenés mucha facilidad para ser popular.';
-        break;
+            break;
 
         case '6':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es 6, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser muy espiritual, que posee la capacidad para enseñar y brindar ayuda a los demás. También sos alguien muy responsable y es allí donde se encuentra tu fuerte para triunfar en la vida.';
-        break;
+            break;
 
         case '7':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es 7, este indica otra característica oculta de tu persona que podrás conocer como parte de tu rasgo de personalidad. En este caso, la característica de tu número oculto nos cuenta que estamos frente a un Ser solitario, no soportas sentirte dependiente de alguien, sos muy inteligente, aunque necesitas estar sola para desenvolverte mejor en la vida.';
-        break;
+            break;
 
         case '8':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es 8, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser con una gran practicidad para todo lo que sea administración y organización. Sos amante del orden y estás muy dotada para todo lo que sea dirección de nuevos proyectos y emprendimientos.';
-        break;
+            break;
 
         case '9':
             echo 'Número oculto';
             echo '<br>';
             echo 'Tu número oculto es 9, este indica otra característica oculta de tu persona que podrás conocer como otro rasgo de tu personalidad. En este caso la característica de tu número oculto nos cuenta que estamos frente a un Ser con gran capacidad para convencer a los demás, esto te hace ser admirada. Sos una persona muy sensible y comprensiva. Tu punto fuerte está en el saber escuchar.';
-        break;
+            break;
     
     }
 
@@ -2318,38 +2342,41 @@ echo '<br>';
                         // INFORME PREDICTIVO // INFORME PREDICTIVO // INFORME PREDICTIVO
                         // INFORME PREDICTIVO // INFORME PREDICTIVO // INFORME PREDICTIVO
 
-switch ($siNoInfoPre)
-    {
+    switch ($siNoInfoPre){
+            
         case 'siInfoPre':
-            echo 'INFORME PREDICTIVO
-            <br>
-            Este informe de predicciones del 2022, nos facilita el acceso al reconocimiento de los hechos y circunstancias que estás viviendo y las tendencias vibracionales, facilitará la activación de tus herramientas y potencialidades para manejar y equilibrar las energías que correspondan en cada etapa. El pináculo (etapas y desafíos) te evidencia aquellas pruebas que debes sortear, las oportunidades y obstáculos que enfrentas, sus predicciones son precisas ya sea que estés preparada o no para ello; podrás conocer en qué etapas de tu vida estarás bajo determinadas influencias. También conocer las fuerzas complementarias que se utilizan para tomar decisiones. Cada año posee su propia vibración, podrás conocer qué tipo de acontecimientos o actividades podés esperar en el año que se avecina. Advertir qué tipo de trabajo podés realizar en ese año para desarrollarte, crecer y concretar tus experiencias de manera productiva y eficaz. Ciclo anual personal y año dividido por cuatrimestres.
-            <br>
-            ////////////////////ACÁ VAN LOS 3 CUADROS////////////////////
-            <br>';
+                echo 'INFORME PREDICTIVO
+                <br>
+                Este informe de predicciones del 2022, nos facilita el acceso al reconocimiento de los hechos y circunstancias que estás viviendo y las tendencias vibracionales, facilitará la activación de tus herramientas y potencialidades para manejar y equilibrar las energías que correspondan en cada etapa. El pináculo (etapas y desafíos) te evidencia aquellas pruebas que debes sortear, las oportunidades y obstáculos que enfrentas, sus predicciones son precisas ya sea que estés preparada o no para ello; podrás conocer en qué etapas de tu vida estarás bajo determinadas influencias. También conocer las fuerzas complementarias que se utilizan para tomar decisiones. Cada año posee su propia vibración, podrás conocer qué tipo de acontecimientos o actividades podés esperar en el año que se avecina. Advertir qué tipo de trabajo podés realizar en ese año para desarrollarte, crecer y concretar tus experiencias de manera productiva y eficaz. Ciclo anual personal y año dividido por cuatrimestres.
+                <br>
+                ////////////////////ACÁ VAN LOS 3 CUADROS////////////////////
+                <br>';
+                break;
 
         case 'noInfoPre':
-            echo '';
+                echo '';
+                break;
     }
 
                         //PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS
                         //PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS
                         //PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS//PINÁCULOS
 
-switch ($sinoPina) {
-    case 'si':
-        echo 'Pináculos
-            <br>
-            Etapas y desafíos de la Vida
-            <br>
-            Los pináculos/etapas están divididos por tareas y desafíos. Nuestra vida se divide en 4 pináculos, cada uno de ellos ejerce  su influencia en nuestra vida, al conocerlos, conseguiremos prepararnos y sacar el mayor provecho de ese período para nuestro crecimiento. La influencia de esa etapa debe ser tenida en cuenta para comprender nuestro comportamiento, qué debemos hacer, cómo manejarlo, cómo acompañar; es decir, que estos 4 pináculos se tratan de tareas, realizaciones, pruebas, obstáculos, logros y ayudas que recibirás en las distintas etapas de tu vida en cuanto a tu trabajo, relaciones y el logro de tus objetivos.
-            <br>';
-    break;
+    switch ($sinoPina) {
+        
+        case 'si':
+            echo 'Pináculos
+                <br>
+                Etapas y desafíos de la Vida
+                <br>
+                Los pináculos/etapas están divididos por tareas y desafíos. Nuestra vida se divide en 4 pináculos, cada uno de ellos ejerce  su influencia en nuestra vida, al conocerlos, conseguiremos prepararnos y sacar el mayor provecho de ese período para nuestro crecimiento. La influencia de esa etapa debe ser tenida en cuenta para comprender nuestro comportamiento, qué debemos hacer, cómo manejarlo, cómo acompañar; es decir, que estos 4 pináculos se tratan de tareas, realizaciones, pruebas, obstáculos, logros y ayudas que recibirás en las distintas etapas de tu vida en cuanto a tu trabajo, relaciones y el logro de tus objetivos.
+                <br>';
+            break;
 
-    case 'no':
-        echo '';
-    break;
-}
+        case 'no':
+            echo '';
+            break;
+    }
 
 
                                                 //DIA//DIA//DIA//DIA
@@ -2649,17 +2676,6 @@ switch ($sinoPina) {
     //             break;
     //         }
     // }
-
-
-
-
-
-
-
-
-
-
-
        
       if ($tercera == 11 || $tercera == 22) {
         //echo "Tercera etapa es igual a " .  $tercera;
@@ -2823,12 +2839,12 @@ switch ($sinoPina) {
     
         //echo "Primer desafío es igual a " .  $primerDesa;
         
-        switch ($primerDesa) {
+    switch ($primerDesa) {
 
         case '0':
             echo 'El desafío que se te expone manifiesta que es tiempo de trabajar sobre tus potencialidades, llegando a un estado de plenitud y completud. Sería un nivel vibratorio elevadísimo que está a la espera del despertar, es el mayor potencial de riqueza de los planos espirituales supenores que aspira a expresarse en el plano terrestre. Es tiempo de acercarte a esta energía con prudencia y respeto, sabiendo que pueden darse las dos posibilidades: en positivo, sin dificultades; o en negativo con serias pruebas que exigen equilibrio, centrarte en vos misma y un accionar equilibrado y medido. El plano más vulnerable en este aprendizaje son los afectos y el gran trabajo es armonizar tus emociones saliendo de los estados de confusión mental al que te lleva la irritación y la ansiedad. Las pruebas emocionales que se viven constituyen una forma de no aceptación, una forma de resistencia a lo que se vive,por lo que será necesario que trabajes sobre tu persona, tu aceptación geuina y amorosa y el merecimiento. Será imposrtante observar la emoción que generalmente se expresa en el cuerpo físico y hacerla consciente, sin juzgar, este es el camino para salir del sufrimiento y comenzar a vivir con alegría, facilidad y liviandad.';
             break;
-       
+        
         case '1':
             echo 'El desafío que se te presenta implica una gran dificultad para pararte sobre tus pies y expresarte desde ese lugar. Existe alguna figura de autoridad en el entorno que inhibe y limita, (generalmente una figura de poder, masculina, que puede traducirse por el padre; aunque también puede ser alguien que vibre con este rol). No hay expresión espontánea de los propios deseos y seguramente, acumulación de lo no expresado, lo que lleva a explosiones desmedidas o encierros rabiosos que generan muchas veces, malos entendidos y separaciones que se podrían aliviar con la conciencia de lo que pasa y encontrando el tiempo y el espacio para poder decir lo que se siente y piensa.';
             break;
@@ -2870,8 +2886,8 @@ switch ($sinoPina) {
     
         //echo "Segundo desafío es igual a " .  $segundoDesa;
         
-        switch ($segundoDesa) {
-       
+    switch ($segundoDesa) {
+    
         case '0':
             echo 'El desafío que se te expone manifiesta que es tiempo de trabajar sobre tus potencialidades, llegando a un estado de plenitud y completud. Sería un nivel vibratorio elevadísimo que está a la espera del despertar, es el mayor potencial de riqueza de los planos espirituales supenores que aspira a expresarse en el plano terrestre. Es tiempo de acercarte a esta energía con prudencia y respeto, sabiendo que pueden darse las dos posibilidades: en positivo, sin dificultades; o en negativo con serias pruebas que exigen equilibrio, centrarte en vos misma y un accionar equilibrado y medido. El plano más vulnerable en este aprendizaje son los afectos y el gran trabajo es armonizar tus emociones saliendo de los estados de confusión mental al que te lleva la irritación y la ansiedad. Las pruebas emocionales que se viven constituyen una forma de no aceptación, una forma de resistencia a lo que se vive,por lo que será necesario que trabajes sobre tu persona, tu aceptación geuina y amorosa y el merecimiento. Será imposrtante observar la emoción que generalmente se expresa en el cuerpo físico y hacerla consciente, sin juzgar, este es el camino para salir del sufrimiento y comenzar a vivir con alegría, facilidad y liviandad.';
             break;
@@ -2917,7 +2933,7 @@ switch ($sinoPina) {
    
         //echo "Tercer desafío es igual a " .  $tercerDesa;
         
-        switch ($tercerDesa) {
+    switch ($tercerDesa) {
 
         case '0':
             echo 'El desafío que se te expone manifiesta que es tiempo de trabajar sobre tus potencialidades, llegando a un estado de plenitud y completud. Sería un nivel vibratorio elevadísimo que está a la espera del despertar, es el mayor potencial de riqueza de los planos espirituales supenores que aspira a expresarse en el plano terrestre. Es tiempo de acercarte a esta energía con prudencia y respeto, sabiendo que pueden darse las dos posibilidades: en positivo, sin dificultades; o en negativo con serias pruebas que exigen equilibrio, centrarte en vos misma y un accionar equilibrado y medido. El plano más vulnerable en este aprendizaje son los afectos y el gran trabajo es armonizar tus emociones saliendo de los estados de confusión mental al que te lleva la irritación y la ansiedad. Las pruebas emocionales que se viven constituyen una forma de no aceptación, una forma de resistencia a lo que se vive,por lo que será necesario que trabajes sobre tu persona, tu aceptación geuina y amorosa y el merecimiento. Será imposrtante observar la emoción que generalmente se expresa en el cuerpo físico y hacerla consciente, sin juzgar, este es el camino para salir del sufrimiento y comenzar a vivir con alegría, facilidad y liviandad.';
@@ -2963,7 +2979,7 @@ switch ($sinoPina) {
 
         //echo "Cuarto desafío es igual a " .  $cuartoDesa;
         
-        switch ($cuartoDesa) {
+    switch ($cuartoDesa) {
 
         case '0':
             echo 'El desafío que se te expone manifiesta que es tiempo de trabajar sobre tus potencialidades, llegando a un estado de plenitud y completud. Sería un nivel vibratorio elevadísimo que está a la espera del despertar, es el mayor potencial de riqueza de los planos espirituales supenores que aspira a expresarse en el plano terrestre. Es tiempo de acercarte a esta energía con prudencia y respeto, sabiendo que pueden darse las dos posibilidades: en positivo, sin dificultades; o en negativo con serias pruebas que exigen equilibrio, centrarte en vos misma y un accionar equilibrado y medido. El plano más vulnerable en este aprendizaje son los afectos y el gran trabajo es armonizar tus emociones saliendo de los estados de confusión mental al que te lleva la irritación y la ansiedad. Las pruebas emocionales que se viven constituyen una forma de no aceptación, una forma de resistencia a lo que se vive,por lo que será necesario que trabajes sobre tu persona, tu aceptación geuina y amorosa y el merecimiento. Será imposrtante observar la emoción que generalmente se expresa en el cuerpo físico y hacerla consciente, sin juzgar, este es el camino para salir del sufrimiento y comenzar a vivir con alegría, facilidad y liviandad.';
@@ -3008,6 +3024,7 @@ switch ($sinoPina) {
 
 
     switch ($sinoTletras) {
+        
         case 'si':
             echo 'Entendido como un horóscopo, es un número temporal, en donde, según tu nombre y edad, podremos ver aquellos acontecimientos y situaciones de la vida; pueden ser en el lapso de un año, de 2 años, de 3 años, etc. También nos habla de las tendencias, cómo estará auspiciado tu año, qué puede suceder, bajo qué energías va a vibrar, etc. Lo que facilitará el tomar consciencia y lograr activar las herramientas y potencialidades necesarias para equilibrar y manejar las energías que correspondan. Te voy a contar que, desde tu edad actual hasta los ' . $hastaAño1 . ' años, aquellas situaciones y acontecimientos de tu vida, las tendencias, lo que deberás prestar atención y cómo estará auspiciado tu año.';
             break;
@@ -3021,6 +3038,7 @@ switch ($sinoPina) {
 
 
     switch ($transitoLetras1) {
+        
         case '1':
             echo 'Desde tus ' . $desdeAño1 . ' a ' . $hastaAño1 . ' años, al estar transitando por la vibración 1, será un año en lo que es probable que te encuentres inquieta y con deseos de independizarte, rebelándote ante toda forma de opresión. Mostrarás actitudes más audaces, y probablemente vivas con los nervios a flor de piel. No importa que en tu Numeróscopo haya características de paciencia, porque durante este tránsito te costará ponerla en práctica. Seguramente durante lo que se extiende este tránsito, te muestres un poco egoísta.
             <br>
@@ -3097,6 +3115,7 @@ switch ($sinoPina) {
 
 
     switch ($transitoLetras2) {
+        
         case '1':
             echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, al estar transitando por la vibración 1, será un año en lo que es probable que te encuentres inquieta y con deseos de independizarte, rebelándote ante toda forma de opresión. Mostrarás actitudes más audaces, y probablemente vivas con los nervios a flor de piel. No importa que en tu Numeróscopo haya características de paciencia, porque durante este tránsito te costará ponerla en práctica. Seguramente durante lo que se extiende este tránsito, te muestres un poco egoísta.
             <br>
@@ -3171,6 +3190,7 @@ switch ($sinoPina) {
     echo '<br>';
 
     switch ($sinoNumPre) {
+        
         case 'si':
             echo 'El postulado numerológico expresa que la vida transcurre en sucesivos períodos o ciclos de 9 años, los ciclos anuales comienzan a activarse a partir del nacimiento de una persona y va progresando escalonadamente, a través de sus etapas hasta completar el ciclo de 9. Cada año posee una vibración especial, se puede determinar así, qué tipo de actividad, acontecimiento o situaciones pueden esperarse que sucedan cíclicamente. Por lo tanto, los ciclos anuales son procesos escalonados que indican el progreso personal a través de la vida.';
             break;
@@ -3257,6 +3277,7 @@ switch ($sinoPina) {
     echo '<br>';
 
     switch ($sinoCiclo) {
+    
         case 'si':
             echo 'Ciclo Anual Personal
             <br>
@@ -3771,12 +3792,5 @@ switch ($sinoPina) {
             break;
          
     }
-
-
-
-    
-
-   
-
 
 ?>
