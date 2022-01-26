@@ -3192,7 +3192,11 @@ $interAnual = $_POST['interAnual'];
     switch ($sinoNumPre) {
         
         case 'si':
-            echo 'El postulado numerológico expresa que la vida transcurre en sucesivos períodos o ciclos de 9 años, los ciclos anuales comienzan a activarse a partir del nacimiento de una persona y va progresando escalonadamente, a través de sus etapas hasta completar el ciclo de 9. Cada año posee una vibración especial, se puede determinar así, qué tipo de actividad, acontecimiento o situaciones pueden esperarse que sucedan cíclicamente. Por lo tanto, los ciclos anuales son procesos escalonados que indican el progreso personal a través de la vida.';
+            echo 'Numerología Predictiva
+            <br>
+            Año Personal
+            <br>
+            El postulado numerológico expresa que la vida transcurre en sucesivos períodos o ciclos de 9 años, los ciclos anuales comienzan a activarse a partir del nacimiento de una persona y va progresando escalonadamente, a través de sus etapas hasta completar el ciclo de 9. Cada año posee una vibración especial, se puede determinar así, qué tipo de actividad, acontecimiento o situaciones pueden esperarse que sucedan cíclicamente. Por lo tanto, los ciclos anuales son procesos escalonados que indican el progreso personal a través de la vida.';
             break;
         
         case 'no':
@@ -3288,6 +3292,8 @@ $interAnual = $_POST['interAnual'];
             echo '';
             break;
     }
+
+    echo '<br>';
 
     switch ($cuatri1) {
         
