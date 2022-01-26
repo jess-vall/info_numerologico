@@ -68,7 +68,6 @@ $aire = $_POST['aire'];
 
 $sinoNumPre = $_POST['sinoNumPre'];
 $numPredi1 = $_POST['numPredi1'];
-$numPredi2 = $_POST['numPredi2'];
 
 $sinoCiclo = $_POST['sinoCiclo'];
 $cuatri1 = $_POST['cuatri1'];
@@ -629,7 +628,14 @@ echo "<br>";
         break;
                 
         case 33:
-            echo 'SIN CONTENIDO';
+            echo 'Se puede observar que, ante tu misión, tu consigna es “guiar”. Tu destino está relacionado con practicar la maestría personal para luego expandirla al mundo. Cuando se halla un treinta y tres como total de la suma de los nombres y apellidos, nos encontramos ante una maestra espiritual o de alguien que está en los inicios de dicha maestría. Revela una misión aceptada que debe ser llevada a cabo con honradez, disciplina y humanismo. Por lo general el número 33 es un espíritu milenario y en muchas ocasiones maestro de maestros. 
+            Será tu destino aprender de amor, entrega, de grandes sacrificios y compasión para tus semejantes. Aprender a desapegarte de todo lo material por amor a tus semejantes y de dar todo sin esperar nada a cambio.
+            <br>
+            Será tu misión conectar con tus dones y cualidades, con tu sabiduría interior, con el sacrificio y la compasión; para lograr visualizar su verdadera misión de amor Universal, para ello deberás realizar un trabajo previo, que requiere del despojo material para poder vivir al nivel de esta energía, que pide una vida de servicio sin esperar nada a cambio.
+            <br>
+            Como misión deberás aprender a dar y recibir, abrirte al amor incondicional y saber escuchar a las personas que has venido a ayudar en su transformación. Tu sendero es de Guía, una líder especial, que deberá servir como un gran canal Divino, transmitiendo los conocimientos fundamentales y más elevados.
+            <br>
+            Será tu destino elevarte a la más alta vibración, de tolerancia, pureza, servicio, serenidad y amor, que para ser alcanzada necesita equilibrar aspectos afectivos que no te hagan caer en la vibración de un 6, mediante indecisión, inestabilidad, celos y la sobreprotección. La responsabilidad afectiva a un nivel superior es tu gran trabajo a realizar.';
             echo '<br>';
             echo '"""""""""""""""""""""LUGAR PARA EL ANALISIS"""""""""""""""""""""""""
             <br><br>
@@ -3252,7 +3258,9 @@ switch ($sinoPina) {
 
     switch ($sinoCiclo) {
         case 'si':
-            echo 'Hablemos en primer lugar de tu Ciclo Anual Personal, el cual se caracteriza por ciertas situaciones en las que existen vibraciones según cada período, que, si se tienen en cuenta su influencia, pueden ser interesantes oportunidades de desarrollo y evolución.';
+            echo 'Ciclo Anual Personal
+            <br>
+            Hablemos en primer lugar de tu Ciclo Anual Personal, el cual se caracteriza por ciertas situaciones en las que existen vibraciones según cada período, que, si se tienen en cuenta su influencia, pueden ser interesantes oportunidades de desarrollo y evolución.';
             break;
         
         case 'no':
@@ -3377,7 +3385,7 @@ switch ($sinoPina) {
     switch ($cuatri2) {
         
         case 1:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 1, relacionado a nuevos comienzos decisiones, independencia. En el período en el que entras ahora estás destinada a comenzar de nuevo, a tomar de nuevo un punto de partida. Posees la facultad de apartarte de tu medio ambiente y elegir el camino que se desea tomar, se te exigirá quedarte sola, pensar por vos misma y aprender a mostrarte independiente. Las vibraciones del 1 revelan los poderes interiores. A partir de ahora, tendrás que tomar las riendas y determinar tu camino futuro; si dejas en manos de otros te darás cuenta de que ya no podés seguir haciéndolo por un malestar e incomodidad que te absorberá.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 1, relacionado a nuevos comienzos decisiones, independencia. En el período en el que entras ahora estás destinada a comenzar de nuevo, a tomar de nuevo un punto de partida. Posees la facultad de apartarte de tu medio ambiente y elegir el camino que se desea tomar, se te exigirá quedarte sola, pensar por vos misma y aprender a mostrarte independiente. Las vibraciones del 1 revelan los poderes interiores. A partir de ahora, tendrás que tomar las riendas y determinar tu camino futuro; si dejas en manos de otros te darás cuenta de que ya no podés seguir haciéndolo por un malestar e incomodidad que te absorberá.
             <br>
             Debes fijarte objetivos a largo plazo y empezar a dar otros pasos necesarios para alcanzarlos. Más tarde cuando mires hacia atrás advertirás que los acontecimientos de este periodo te sirvieron como piedras angulares para construir una nueva vida. Empezas a desarrollar tus talentos y tus dones. Promove tus ideas, tene confianza en vos misma y no aceptes un NO como respuesta. Tus experiencias más importantes serán ahora las que vos misma inicias, por lo tanto debe mostrarte decidida y firme. Se te exigirá una gran fortaleza y autocontrol. Si fijas tu atención en una meta, la alcanzarás, ya que tenes conciencia, te has convertido en un canal de comunicación abierta entre tu subconsciencia y tu supra conciencia.
             <br>
@@ -3391,7 +3399,7 @@ switch ($sinoPina) {
             break;
 
         case 3:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración 3, es decir de desarrollo, viajes, diversión y autoexpresión. Se trata en general de un periodo feliz, durante el cual se superaran y se resolverán las dificultades anteriores. Rebosas de alegría de vivir y tu optimista perspectiva te induce a querer expresarte socialmente y a sentirte indulgente con tus propios deseos. La mayoría de los acontecimientos que se produzcan ahora incrementaran aún más tu entusiasmo. Sin la menor duda conseguirás dinero durante este periodo. Ascenderás en su trabajo, recibirás la herencia de un pariente casi olvidado o ganaras en cualquier juego. La suerte parece estar de tu lado, pero recorda que esa suerte se reduce a la manifestación externa de tu actitud positiva actual; que forjas tu propia suerte.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración 3, es decir de desarrollo, viajes, diversión y autoexpresión. Se trata en general de un periodo feliz, durante el cual se superaran y se resolverán las dificultades anteriores. Rebosas de alegría de vivir y tu optimista perspectiva te induce a querer expresarte socialmente y a sentirte indulgente con tus propios deseos. La mayoría de los acontecimientos que se produzcan ahora incrementaran aún más tu entusiasmo. Sin la menor duda conseguirás dinero durante este periodo. Ascenderás en su trabajo, recibirás la herencia de un pariente casi olvidado o ganaras en cualquier juego. La suerte parece estar de tu lado, pero recorda que esa suerte se reduce a la manifestación externa de tu actitud positiva actual; que forjas tu propia suerte.
             <br>
             En esta época, habrá crecimiento y expansión en todas las áreas de tu vida. Para algunos esto querrá decir el matrimonio o gestación o el nacimiento de un hijo. Para otros, la gestación y el nacimiento tendrán lugar en las artes creativas o la expansión de la mente. Quizás se una reconexión de tus talentos como escritora, pintora, escultora o actriz, por lo cual ha llegado el momento de escribir el artículo, pintar el cuadro o presentar el proyecto en el que llevas pensando tanto tiempo. La publicación y la admisión por parte de las autoridades en la maestría se presentan con el 3. Buen momento para estudiar un idioma extranjero, asistí a clases de elocución o recurrí a cualquier otro medio valedero para desarrollar tus cualidades expresivas.
             <br>
@@ -3407,7 +3415,7 @@ switch ($sinoPina) {
             break;
 
         case 4:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 4, es decir que está en movimiento la energía del trabajo, las finanzas, la construcción y la practicidad. El 4 aporta la necesidad de definir y ordenar las cosas, por lo que será una etapa de reordenamiento. Durante este período debes calcular, clasificar, archivar, regular y combinar, tanto en lo que respecta a tu propia persona como en lo que se refiere a tus asuntos y a tu medio ambiente.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 4, es decir que está en movimiento la energía del trabajo, las finanzas, la construcción y la practicidad. El 4 aporta la necesidad de definir y ordenar las cosas, por lo que será una etapa de reordenamiento. Durante este período debes calcular, clasificar, archivar, regular y combinar, tanto en lo que respecta a tu propia persona como en lo que se refiere a tus asuntos y a tu medio ambiente.
             <br>
             Vas a prestar atención a lo cotidiano, a las cuestiones terrenales y las dirigirás gracias a tus esfuerzos y actuación. El control de tu actividad diaria te permitirá cosechar recompensas materiales, ya que se trata de una época productiva, en la que controlarás y encaminaras tu impulso creativo. Ejercitá y cuidá tu cuerpo, tu hogar físico. Cuando el 4 se centra en el plano material, sus energías se manifiestan mediante la capacidad creativa. Si esas energías se centran en el aspecto espiritual, se entra en contacto con nuevos reinos psíquicos y espirituales. Dado que el 4 rige los aspectos físicos de la existencia, te serán ahora accesibles los placeres sensuales y una relación física gratificante con tu vínculo sexual.
             <br>
@@ -3418,7 +3426,7 @@ switch ($sinoPina) {
             break;
 
         case 5:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración numerológica 5. La energía del número 5 hará que te sientas inquieta y excitada. Será una etapa donde te sentirás atraída por el cambio, la aventura y el sueño de nuevas perspectivas. Los viajes ocupan una gran parte de este ciclo y, aunque no viajes físicamente, lo harás con toda seguridad mentalmente. El periodo está destinado a romper las condiciones de estancamiento y a investigar nuevas oportunidades. Te sentirás atraída por los cursos sobre cuestiones del hogar, por la enseñanza de adultos, por nuevos entretenimientos e intereses mentales de todo tipo, puesto que se trata de un tiempo de expansión y desarrollo mental.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración numerológica 5. La energía del número 5 hará que te sientas inquieta y excitada. Será una etapa donde te sentirás atraída por el cambio, la aventura y el sueño de nuevas perspectivas. Los viajes ocupan una gran parte de este ciclo y, aunque no viajes físicamente, lo harás con toda seguridad mentalmente. El periodo está destinado a romper las condiciones de estancamiento y a investigar nuevas oportunidades. Te sentirás atraída por los cursos sobre cuestiones del hogar, por la enseñanza de adultos, por nuevos entretenimientos e intereses mentales de todo tipo, puesto que se trata de un tiempo de expansión y desarrollo mental.
             <br>
             Tal vez, en esta etapa, te encuentres frente a situaciones que exijan el tomar decisiones, ya que el 5 señala dos caminos; esto puede significar que, en oportunidades, atravieses verdaderas encrucijadas. Al tratarse de una época de cambio continuo, debes mostrarte flexible y aprender a adaptarte en lugar de trazar planes rígidos. Esta etapa tiene un paso rápido, se podrán presentan acontecimientos inesperados con esta vibración, por lo que será necesario que te mantengas libre de salir al encuentro de la experiencia con flexibilidad, de lo contrario, te invadirá una energía inquieta y nerviosa. Será productivo canalizar tus energías en una acción constructiva, recurriendo a tu aplicación mental.
             <br>
@@ -3429,7 +3437,7 @@ switch ($sinoPina) {
             break;
 
         case 6:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración 6, es decir que será un año relacionado al hogar, la familia y los eventos domésticos. Mudanzas, nacimientos, uniones o separaciones afectivas.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración 6, es decir que será un año relacionado al hogar, la familia y los eventos domésticos. Mudanzas, nacimientos, uniones o separaciones afectivas.
             <br>
             En relación a este cuatrimestre se relaciona a la consolidación de la pareja, matrimonio y cambios de hogar, nueva decoración y reformas; responsabilidades domésticas y comunitaria. Las energías de este período giran en torno al hogar y a la comunidad. Fija primero tu atención en el hogar, donde se están produciendo cambios. Tal vez entren a formar parte de él o lo abandone alguna persona, por matrimonio, nacimiento, muerte, divorcio u otras circunstancias. También cabe un traslado de residencia.
             <br>
@@ -3441,7 +3449,7 @@ switch ($sinoPina) {
             break;
 
         case 7:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 7, es decir que será un tiempo de reflexión, descanso, salud, vacaciones. Permanecer inactiva, aunque receptiva; realizar un análisis de tus objetivos, tus proyectos y relaciones. Sera una etapa para dedicarte tiempo a vos misma y escuchar la inspiración que procede de tu interior.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 7, es decir que será un tiempo de reflexión, descanso, salud, vacaciones. Permanecer inactiva, aunque receptiva; realizar un análisis de tus objetivos, tus proyectos y relaciones. Sera una etapa para dedicarte tiempo a vos misma y escuchar la inspiración que procede de tu interior.
             <br>
             Será una buena tarea poner por escrito tus pensamientos. La inspiración puede venir también de los sueños, las visiones y las intuiciones. Por consiguiente, podes ser canal intuitivo; será importante que puedas abrirte a estas experiencias energéticas y espirituales. Será un momento de apertura del plano terrenal y del plano espiritual. Aprovechá las energías de este periodo para ejercitarte mentalmente y para disciplinarte. Será momento de aprender las habilidades técnicas que te ayudarán en tu profesión; también puede ser un despertar espiritual, en el cual te beneficiarás de las disciplinas filosóficas y metafísicas, incluyendo la religión, el yoga, la meditación y cualquier disciplina holística.
             <br>
@@ -3453,7 +3461,7 @@ switch ($sinoPina) {
             break;
 
         case 8:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 8, es decir que estamos en un periodo relacionado con el dicho «Cada uno recoge lo que siembra.» Esta verdad se hace más evidente bajo el 8. Durante este periodo Kármico, recibirás exactamente lo que mereces, puesto que se trata de un tiempo destinado a cobrar y pagar deudas. Dado que en el 8 rige el plano material, si has sembrado de manera acertada, podés esperar prestigio y recompensa. Conseguirás el avance o la promoción que esperabas, claro está, de mayor responsabilidad y tensión.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 8, es decir que estamos en un periodo relacionado con el dicho «Cada uno recoge lo que siembra.» Esta verdad se hace más evidente bajo el 8. Durante este periodo Kármico, recibirás exactamente lo que mereces, puesto que se trata de un tiempo destinado a cobrar y pagar deudas. Dado que en el 8 rige el plano material, si has sembrado de manera acertada, podés esperar prestigio y recompensa. Conseguirás el avance o la promoción que esperabas, claro está, de mayor responsabilidad y tensión.
             <br>
             Si planeas aventuras de negocios, ha llegado el momento de asentar bases firmes para tus empresas comerciales. Mira de frente la realidad práctica y mantené tus cuentas al corriente. Te aguarda éxito en el plano material. Por lo tanto, hace proyectos desde el punto de vista de las finanzas.
             <br>
@@ -3465,7 +3473,7 @@ switch ($sinoPina) {
             break;
 
         case 9:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 9, es decir que puede haber cambios, consumación, caridad, inspiración. Los acontecimientos se suceden con rapidez en esta temporada, con muchas detenciones y nuevos arranques, puesto que estarías pasando por un periodo de cambio y transición. Hay que hacer una buena selección entre aquello que te sirve y suma para tu crecimiento y saber desechar y soltar aquello que no; tener el valor y sabiduría de eliminar lo que no vale y apartarse de los errores pasados, puede que esto te provoque una experiencia emocional, ya que cuesta trabajo superar los obstáculos que se nos ponen en la vida. Si no alcanzas a librarte de asociaciones y situaciones que ya no resultan apropiadas para tu desarrollo, deja actuar al ciclo, que lo hará por vos, ya que es un ciclo de cambios inminentes. Unas vacaciones o un viaje supondrían una buena terapia en esta época, ya que te concederían tiempo para pensar y apartarte de los problemas emocionales con que tal vez te enfrentes durante esta vibración.
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 9, es decir que puede haber cambios, consumación, caridad, inspiración. Los acontecimientos se suceden con rapidez en esta temporada, con muchas detenciones y nuevos arranques, puesto que estarías pasando por un periodo de cambio y transición. Hay que hacer una buena selección entre aquello que te sirve y suma para tu crecimiento y saber desechar y soltar aquello que no; tener el valor y sabiduría de eliminar lo que no vale y apartarse de los errores pasados, puede que esto te provoque una experiencia emocional, ya que cuesta trabajo superar los obstáculos que se nos ponen en la vida. Si no alcanzas a librarte de asociaciones y situaciones que ya no resultan apropiadas para tu desarrollo, deja actuar al ciclo, que lo hará por vos, ya que es un ciclo de cambios inminentes. Unas vacaciones o un viaje supondrían una buena terapia en esta época, ya que te concederían tiempo para pensar y apartarte de los problemas emocionales con que tal vez te enfrentes durante esta vibración.
             <br>
             Alcanzaras en este periodo muchos de sus objetivos y veras el cumplimiento de todos los proyectos que estaban llegando a su término. Puesto que se halla en un ciclo final, no te embarques en nuevos compromisos. Los proyectos iniciados bajo el 9 carecen de porvenir.
             <br>
@@ -3477,7 +3485,7 @@ switch ($sinoPina) {
             break;
 
         case 11:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 11, es decir un cuatrimestre con idealismo, inspiración y liderazgo, con gran iluminación psíquica que deben vivirse según estas vibraciones para no quedar relegado a un ciclo 2 (de dualidades). Tu intuición no va a faltar ni fallar, es el momento de agigantar tu fe porque el periodo de prueba será breve. Es posible que tengas que tomar decisiones rápidas sobretodo en cuestiones legales, todo aquello que tiene que ver con documentos o papeles. También ahora son posibles arreglos financieros o soluciones con algún tipo de asociación o en cuestiones de orden educativo. Cualquier trámite puede resultar apresurado. Es un buen periodo para desarrollar tus facultades psíquicas o intuitivas. Si canalizas bien tus fuertes energías en la búsqueda de algo, lo conseguirás. Te consejo ser paciente, tolerante ante las experiencias que vivas y tu trato con los demás, es un buen momento para seguir algún curso o perfeccionar alguna de sus capacidades. Es importante purificar la expresión de la energía del 2, la sensibilidad, confianza, deseos y los impulsos demasiados egocéntricos, porque la lección de este 11 es básicamente la humildad para alcanzar el éxito. El reto consiste en afrontar esta área con honestidad y sin reservas para efectuar una evolución de tu conciencia. Esta vibración fluctúa entre lo interno y lo externo. Lo ideal es que manejes tu parte emocional y los poderes creativos que están latentes en vos de manera serena y equilibrada. Todo lo que ocurra durante este periodo te dejara una sabiduría con la que podrás captar tu verdadero yo soy.';
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 11, es decir un cuatrimestre con idealismo, inspiración y liderazgo, con gran iluminación psíquica que deben vivirse según estas vibraciones para no quedar relegado a un ciclo 2 (de dualidades). Tu intuición no va a faltar ni fallar, es el momento de agigantar tu fe porque el periodo de prueba será breve. Es posible que tengas que tomar decisiones rápidas sobretodo en cuestiones legales, todo aquello que tiene que ver con documentos o papeles. También ahora son posibles arreglos financieros o soluciones con algún tipo de asociación o en cuestiones de orden educativo. Cualquier trámite puede resultar apresurado. Es un buen periodo para desarrollar tus facultades psíquicas o intuitivas. Si canalizas bien tus fuertes energías en la búsqueda de algo, lo conseguirás. Te consejo ser paciente, tolerante ante las experiencias que vivas y tu trato con los demás, es un buen momento para seguir algún curso o perfeccionar alguna de sus capacidades. Es importante purificar la expresión de la energía del 2, la sensibilidad, confianza, deseos y los impulsos demasiados egocéntricos, porque la lección de este 11 es básicamente la humildad para alcanzar el éxito. El reto consiste en afrontar esta área con honestidad y sin reservas para efectuar una evolución de tu conciencia. Esta vibración fluctúa entre lo interno y lo externo. Lo ideal es que manejes tu parte emocional y los poderes creativos que están latentes en vos de manera serena y equilibrada. Todo lo que ocurra durante este periodo te dejara una sabiduría con la que podrás captar tu verdadero yo soy.';
             break;
         
         case 22:
@@ -3491,7 +3499,7 @@ switch ($sinoPina) {
     switch ($cuatri3) {
         
         case 1:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 1, relacionado a nuevos comienzos decisiones, independencia. En el período en el que entras ahora estás destinada a comenzar de nuevo, a tomar de nuevo un punto de partida. Posees la facultad de apartarte de tu medio ambiente y elegir el camino que se desea tomar, se te exigirá quedarte sola, pensar por vos misma y aprender a mostrarte independiente. Las vibraciones del 1 revelan los poderes interiores. A partir de ahora, tendrás que tomar las riendas y determinar tu camino futuro; si dejas en manos de otros te darás cuenta de que ya no podés seguir haciéndolo por un malestar e incomodidad que te absorberá.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 1, relacionado a nuevos comienzos decisiones, independencia. En el período en el que entras ahora estás destinada a comenzar de nuevo, a tomar de nuevo un punto de partida. Posees la facultad de apartarte de tu medio ambiente y elegir el camino que se desea tomar, se te exigirá quedarte sola, pensar por vos misma y aprender a mostrarte independiente. Las vibraciones del 1 revelan los poderes interiores. A partir de ahora, tendrás que tomar las riendas y determinar tu camino futuro; si dejas en manos de otros te darás cuenta de que ya no podés seguir haciéndolo por un malestar e incomodidad que te absorberá.
             <br>
             Debes fijarte objetivos a largo plazo y empezar a dar otros pasos necesarios para alcanzarlos. Más tarde cuando mires hacia atrás advertirás que los acontecimientos de este periodo te sirvieron como piedras angulares para construir una nueva vida. Empezas a desarrollar tus talentos y tus dones. Promove tus ideas, tene confianza en vos misma y no aceptes un NO como respuesta. Tus experiencias más importantes serán ahora las que vos misma inicias, por lo tanto debe mostrarte decidida y firme. Se te exigirá una gran fortaleza y autocontrol. Si fijas tu atención en una meta, la alcanzarás, ya que tenes conciencia, te has convertido en un canal de comunicación abierta entre tu subconsciencia y tu supra conciencia.
             <br>
@@ -3505,7 +3513,7 @@ switch ($sinoPina) {
             break;
 
         case 3:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración 3, es decir de desarrollo, viajes, diversión y autoexpresión. Se trata en general de un periodo feliz, durante el cual se superaran y se resolverán las dificultades anteriores. Rebosas de alegría de vivir y tu optimista perspectiva te induce a querer expresarte socialmente y a sentirte indulgente con tus propios deseos. La mayoría de los acontecimientos que se produzcan ahora incrementaran aún más tu entusiasmo. Sin la menor duda conseguirás dinero durante este periodo. Ascenderás en su trabajo, recibirás la herencia de un pariente casi olvidado o ganaras en cualquier juego. La suerte parece estar de tu lado, pero recorda que esa suerte se reduce a la manifestación externa de tu actitud positiva actual; que forjas tu propia suerte.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración 3, es decir de desarrollo, viajes, diversión y autoexpresión. Se trata en general de un periodo feliz, durante el cual se superaran y se resolverán las dificultades anteriores. Rebosas de alegría de vivir y tu optimista perspectiva te induce a querer expresarte socialmente y a sentirte indulgente con tus propios deseos. La mayoría de los acontecimientos que se produzcan ahora incrementaran aún más tu entusiasmo. Sin la menor duda conseguirás dinero durante este periodo. Ascenderás en su trabajo, recibirás la herencia de un pariente casi olvidado o ganaras en cualquier juego. La suerte parece estar de tu lado, pero recorda que esa suerte se reduce a la manifestación externa de tu actitud positiva actual; que forjas tu propia suerte.
             <br>
             En esta época, habrá crecimiento y expansión en todas las áreas de tu vida. Para algunos esto querrá decir el matrimonio o gestación o el nacimiento de un hijo. Para otros, la gestación y el nacimiento tendrán lugar en las artes creativas o la expansión de la mente. Quizás se una reconexión de tus talentos como escritora, pintora, escultora o actriz, por lo cual ha llegado el momento de escribir el artículo, pintar el cuadro o presentar el proyecto en el que llevas pensando tanto tiempo. La publicación y la admisión por parte de las autoridades en la maestría se presentan con el 3. Buen momento para estudiar un idioma extranjero, asistí a clases de elocución o recurrí a cualquier otro medio valedero para desarrollar tus cualidades expresivas.
             <br>
@@ -3521,7 +3529,7 @@ switch ($sinoPina) {
             break;
 
         case 4:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 4, es decir que está en movimiento la energía del trabajo, las finanzas, la construcción y la practicidad. El 4 aporta la necesidad de definir y ordenar las cosas, por lo que será una etapa de reordenamiento. Durante este período debes calcular, clasificar, archivar, regular y combinar, tanto en lo que respecta a tu propia persona como en lo que se refiere a tus asuntos y a tu medio ambiente.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 4, es decir que está en movimiento la energía del trabajo, las finanzas, la construcción y la practicidad. El 4 aporta la necesidad de definir y ordenar las cosas, por lo que será una etapa de reordenamiento. Durante este período debes calcular, clasificar, archivar, regular y combinar, tanto en lo que respecta a tu propia persona como en lo que se refiere a tus asuntos y a tu medio ambiente.
             <br>
             Vas a prestar atención a lo cotidiano, a las cuestiones terrenales y las dirigirás gracias a tus esfuerzos y actuación. El control de tu actividad diaria te permitirá cosechar recompensas materiales, ya que se trata de una época productiva, en la que controlarás y encaminaras tu impulso creativo. Ejercitá y cuidá tu cuerpo, tu hogar físico. Cuando el 4 se centra en el plano material, sus energías se manifiestan mediante la capacidad creativa. Si esas energías se centran en el aspecto espiritual, se entra en contacto con nuevos reinos psíquicos y espirituales. Dado que el 4 rige los aspectos físicos de la existencia, te serán ahora accesibles los placeres sensuales y una relación física gratificante con tu vínculo sexual.
             <br>
@@ -3532,7 +3540,7 @@ switch ($sinoPina) {
             break;
 
         case 5:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración numerológica 5. La energía del número 5 hará que te sientas inquieta y excitada. Será una etapa donde te sentirás atraída por el cambio, la aventura y el sueño de nuevas perspectivas. Los viajes ocupan una gran parte de este ciclo y, aunque no viajes físicamente, lo harás con toda seguridad mentalmente. El periodo está destinado a romper las condiciones de estancamiento y a investigar nuevas oportunidades. Te sentirás atraída por los cursos sobre cuestiones del hogar, por la enseñanza de adultos, por nuevos entretenimientos e intereses mentales de todo tipo, puesto que se trata de un tiempo de expansión y desarrollo mental.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración numerológica 5. La energía del número 5 hará que te sientas inquieta y excitada. Será una etapa donde te sentirás atraída por el cambio, la aventura y el sueño de nuevas perspectivas. Los viajes ocupan una gran parte de este ciclo y, aunque no viajes físicamente, lo harás con toda seguridad mentalmente. El periodo está destinado a romper las condiciones de estancamiento y a investigar nuevas oportunidades. Te sentirás atraída por los cursos sobre cuestiones del hogar, por la enseñanza de adultos, por nuevos entretenimientos e intereses mentales de todo tipo, puesto que se trata de un tiempo de expansión y desarrollo mental.
             <br>
             Tal vez, en esta etapa, te encuentres frente a situaciones que exijan el tomar decisiones, ya que el 5 señala dos caminos; esto puede significar que, en oportunidades, atravieses verdaderas encrucijadas. Al tratarse de una época de cambio continuo, debes mostrarte flexible y aprender a adaptarte en lugar de trazar planes rígidos. Esta etapa tiene un paso rápido, se podrán presentan acontecimientos inesperados con esta vibración, por lo que será necesario que te mantengas libre de salir al encuentro de la experiencia con flexibilidad, de lo contrario, te invadirá una energía inquieta y nerviosa. Será productivo canalizar tus energías en una acción constructiva, recurriendo a tu aplicación mental.
             <br>
@@ -3543,7 +3551,7 @@ switch ($sinoPina) {
             break;
 
         case 6:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración 6, es decir que será un año relacionado al hogar, la familia y los eventos domésticos. Mudanzas, nacimientos, uniones o separaciones afectivas.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración 6, es decir que será un año relacionado al hogar, la familia y los eventos domésticos. Mudanzas, nacimientos, uniones o separaciones afectivas.
             <br>
             En relación a este cuatrimestre se relaciona a la consolidación de la pareja, matrimonio y cambios de hogar, nueva decoración y reformas; responsabilidades domésticas y comunitaria. Las energías de este período giran en torno al hogar y a la comunidad. Fija primero tu atención en el hogar, donde se están produciendo cambios. Tal vez entren a formar parte de él o lo abandone alguna persona, por matrimonio, nacimiento, muerte, divorcio u otras circunstancias. También cabe un traslado de residencia.
             <br>
@@ -3555,7 +3563,7 @@ switch ($sinoPina) {
             break;
 
         case 7:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 7, es decir que será un tiempo de reflexión, descanso, salud, vacaciones. Permanecer inactiva, aunque receptiva; realizar un análisis de tus objetivos, tus proyectos y relaciones. Sera una etapa para dedicarte tiempo a vos misma y escuchar la inspiración que procede de tu interior.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 7, es decir que será un tiempo de reflexión, descanso, salud, vacaciones. Permanecer inactiva, aunque receptiva; realizar un análisis de tus objetivos, tus proyectos y relaciones. Sera una etapa para dedicarte tiempo a vos misma y escuchar la inspiración que procede de tu interior.
             <br>
             Será una buena tarea poner por escrito tus pensamientos. La inspiración puede venir también de los sueños, las visiones y las intuiciones. Por consiguiente, podes ser canal intuitivo; será importante que puedas abrirte a estas experiencias energéticas y espirituales. Será un momento de apertura del plano terrenal y del plano espiritual. Aprovechá las energías de este periodo para ejercitarte mentalmente y para disciplinarte. Será momento de aprender las habilidades técnicas que te ayudarán en tu profesión; también puede ser un despertar espiritual, en el cual te beneficiarás de las disciplinas filosóficas y metafísicas, incluyendo la religión, el yoga, la meditación y cualquier disciplina holística.
             <br>
@@ -3567,7 +3575,7 @@ switch ($sinoPina) {
             break;
 
         case 8:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 8, es decir que estamos en un periodo relacionado con el dicho «Cada uno recoge lo que siembra.» Esta verdad se hace más evidente bajo el 8. Durante este periodo Kármico, recibirás exactamente lo que mereces, puesto que se trata de un tiempo destinado a cobrar y pagar deudas. Dado que en el 8 rige el plano material, si has sembrado de manera acertada, podés esperar prestigio y recompensa. Conseguirás el avance o la promoción que esperabas, claro está, de mayor responsabilidad y tensión.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración regida por el número 8, es decir que estamos en un periodo relacionado con el dicho «Cada uno recoge lo que siembra.» Esta verdad se hace más evidente bajo el 8. Durante este periodo Kármico, recibirás exactamente lo que mereces, puesto que se trata de un tiempo destinado a cobrar y pagar deudas. Dado que en el 8 rige el plano material, si has sembrado de manera acertada, podés esperar prestigio y recompensa. Conseguirás el avance o la promoción que esperabas, claro está, de mayor responsabilidad y tensión.
             <br>
             Si planeas aventuras de negocios, ha llegado el momento de asentar bases firmes para tus empresas comerciales. Mira de frente la realidad práctica y mantené tus cuentas al corriente. Te aguarda éxito en el plano material. Por lo tanto, hace proyectos desde el punto de vista de las finanzas.
             <br>
@@ -3579,7 +3587,7 @@ switch ($sinoPina) {
             break;
 
         case 9:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 9, es decir que puede haber cambios, consumación, caridad, inspiración. Los acontecimientos se suceden con rapidez en esta temporada, con muchas detenciones y nuevos arranques, puesto que estarías pasando por un periodo de cambio y transición. Hay que hacer una buena selección entre aquello que te sirve y suma para tu crecimiento y saber desechar y soltar aquello que no; tener el valor y sabiduría de eliminar lo que no vale y apartarse de los errores pasados, puede que esto te provoque una experiencia emocional, ya que cuesta trabajo superar los obstáculos que se nos ponen en la vida. Si no alcanzas a librarte de asociaciones y situaciones que ya no resultan apropiadas para tu desarrollo, deja actuar al ciclo, que lo hará por vos, ya que es un ciclo de cambios inminentes. Unas vacaciones o un viaje supondrían una buena terapia en esta época, ya que te concederían tiempo para pensar y apartarte de los problemas emocionales con que tal vez te enfrentes durante esta vibración.
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 9, es decir que puede haber cambios, consumación, caridad, inspiración. Los acontecimientos se suceden con rapidez en esta temporada, con muchas detenciones y nuevos arranques, puesto que estarías pasando por un periodo de cambio y transición. Hay que hacer una buena selección entre aquello que te sirve y suma para tu crecimiento y saber desechar y soltar aquello que no; tener el valor y sabiduría de eliminar lo que no vale y apartarse de los errores pasados, puede que esto te provoque una experiencia emocional, ya que cuesta trabajo superar los obstáculos que se nos ponen en la vida. Si no alcanzas a librarte de asociaciones y situaciones que ya no resultan apropiadas para tu desarrollo, deja actuar al ciclo, que lo hará por vos, ya que es un ciclo de cambios inminentes. Unas vacaciones o un viaje supondrían una buena terapia en esta época, ya que te concederían tiempo para pensar y apartarte de los problemas emocionales con que tal vez te enfrentes durante esta vibración.
             <br>
             Alcanzaras en este periodo muchos de sus objetivos y veras el cumplimiento de todos los proyectos que estaban llegando a su término. Puesto que se halla en un ciclo final, no te embarques en nuevos compromisos. Los proyectos iniciados bajo el 9 carecen de porvenir.
             <br>
@@ -3591,7 +3599,7 @@ switch ($sinoPina) {
             break;
 
         case 11:
-            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 11, es decir un cuatrimestre con idealismo, inspiración y liderazgo, con gran iluminación psíquica que deben vivirse según estas vibraciones para no quedar relegado a un ciclo 2 (de dualidades). Tu intuición no va a faltar ni fallar, es el momento de agigantar tu fe porque el periodo de prueba será breve. Es posible que tengas que tomar decisiones rápidas sobretodo en cuestiones legales, todo aquello que tiene que ver con documentos o papeles. También ahora son posibles arreglos financieros o soluciones con algún tipo de asociación o en cuestiones de orden educativo. Cualquier trámite puede resultar apresurado. Es un buen periodo para desarrollar tus facultades psíquicas o intuitivas. Si canalizas bien tus fuertes energías en la búsqueda de algo, lo conseguirás. Te consejo ser paciente, tolerante ante las experiencias que vivas y tu trato con los demás, es un buen momento para seguir algún curso o perfeccionar alguna de sus capacidades. Es importante purificar la expresión de la energía del 2, la sensibilidad, confianza, deseos y los impulsos demasiados egocéntricos, porque la lección de este 11 es básicamente la humildad para alcanzar el éxito. El reto consiste en afrontar esta área con honestidad y sin reservas para efectuar una evolución de tu conciencia. Esta vibración fluctúa entre lo interno y lo externo. Lo ideal es que manejes tu parte emocional y los poderes creativos que están latentes en vos de manera serena y equilibrada. Todo lo que ocurra durante este periodo te dejara una sabiduría con la que podrás captar tu verdadero yo soy.';
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!! hay una vibración regida por el número 11, es decir un cuatrimestre con idealismo, inspiración y liderazgo, con gran iluminación psíquica que deben vivirse según estas vibraciones para no quedar relegado a un ciclo 2 (de dualidades). Tu intuición no va a faltar ni fallar, es el momento de agigantar tu fe porque el periodo de prueba será breve. Es posible que tengas que tomar decisiones rápidas sobretodo en cuestiones legales, todo aquello que tiene que ver con documentos o papeles. También ahora son posibles arreglos financieros o soluciones con algún tipo de asociación o en cuestiones de orden educativo. Cualquier trámite puede resultar apresurado. Es un buen periodo para desarrollar tus facultades psíquicas o intuitivas. Si canalizas bien tus fuertes energías en la búsqueda de algo, lo conseguirás. Te consejo ser paciente, tolerante ante las experiencias que vivas y tu trato con los demás, es un buen momento para seguir algún curso o perfeccionar alguna de sus capacidades. Es importante purificar la expresión de la energía del 2, la sensibilidad, confianza, deseos y los impulsos demasiados egocéntricos, porque la lección de este 11 es básicamente la humildad para alcanzar el éxito. El reto consiste en afrontar esta área con honestidad y sin reservas para efectuar una evolución de tu conciencia. Esta vibración fluctúa entre lo interno y lo externo. Lo ideal es que manejes tu parte emocional y los poderes creativos que están latentes en vos de manera serena y equilibrada. Todo lo que ocurra durante este periodo te dejara una sabiduría con la que podrás captar tu verdadero yo soy.';
             break;
         
         case 22:
@@ -3604,7 +3612,9 @@ switch ($sinoPina) {
 
     switch ($sinoInter) {
         case 'si':
-            echo 'Se calcula en tres partes, un primer y un segundo semestre y por último la energía de ese año. Este análisis es un señalamiento sobre aquello a lo cual se debe prestar atención, tanto para comprender las situaciones que se presentan, las emociones que se deben trabajar, cómo manejar las energías que se movilizan y sobre aquello que se debe evitar. A diferencia del análisis anterior éste se centra más en las actitudes e intereses, las emociones y los estados de ánimo, las energías que se mueven en ese tiempo pueden estabilizar o desestabilizarnos, comprender esto será una gran herramienta.';
+            echo 'Interpretación por semestre del 2022
+            <br>
+            Esta interpretación se calcula en tres partes, un primer y un segundo semestre y por último la energía de ese año. Este análisis es un señalamiento sobre aquello a lo cual se debe prestar atención, tanto para comprender las situaciones que se presentan, las emociones que se deben trabajar, cómo manejar las energías que se movilizan y sobre aquello que se debe evitar. A diferencia del análisis anterior éste se centra más en las actitudes e intereses, las emociones y los estados de ánimo, las energías que se mueven en ese tiempo pueden estabilizar o desestabilizarnos, comprender esto será una gran herramienta.';
             break;
         
         case 'no':
@@ -3667,7 +3677,7 @@ switch ($sinoPina) {
     switch ($semestre2) {
         
         case 1:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 1, señala nuevas actitudes e intereses, hay nuevas ideas y nuevos rumbos de independencia en varios aspectos de la vida. Hay que evitar cualquier actitud vacilante y tomar las decisiones a tiempo, siempre controlando emociones impulsivas.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 1, señala nuevas actitudes e intereses, hay nuevas ideas y nuevos rumbos de independencia en varios aspectos de la vida. Hay que evitar cualquier actitud vacilante y tomar las decisiones a tiempo, siempre controlando emociones impulsivas.';
             break;
 
         case 2:
@@ -3675,35 +3685,35 @@ switch ($sinoPina) {
             break;
 
         case 3:
-            echo 'Primer semestre de MES!!! a MES!!!, está regida por el número 3, señala un periodo de mucha vida social, nuevas relaciones, diversión, deseos de comunicación y creatividad, viajes y actividades sociales. Todo señala un periodo de oportunidades ya que se cuenta con optimismo y jovialidad. Hay que tener cuidado con la dispersión y el derroche.';
+            echo 'Segundo semestre de MES!!! a MES!!!, está regida por el número 3, señala un periodo de mucha vida social, nuevas relaciones, diversión, deseos de comunicación y creatividad, viajes y actividades sociales. Todo señala un periodo de oportunidades ya que se cuenta con optimismo y jovialidad. Hay que tener cuidado con la dispersión y el derroche.';
             break;
 
         case 4:
-            echo 'Primer semestre de MES!!! a MES!!!, está regido por la energía del número 4, señala un periodo de orden e intensa actividad que advierte un esfuerzo constante y trabajo, en el que hay una gran necesidad de acomodar todos los aspectos de la vida, la casa, el trabajo y el cuerpo. Esta relacionando también con la construcción, reparación, remodelación y una nueva adquisición de vivienda en algunos casos.';
+            echo 'Segundo semestre de MES!!! a MES!!!, está regido por la energía del número 4, señala un periodo de orden e intensa actividad que advierte un esfuerzo constante y trabajo, en el que hay una gran necesidad de acomodar todos los aspectos de la vida, la casa, el trabajo y el cuerpo. Esta relacionando también con la construcción, reparación, remodelación y una nueva adquisición de vivienda en algunos casos.';
             break;
 
         case 5:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 5, señala un período cambiante, fluctuante, en el que suelen surgir imprevistos en cualquier aspecto de la vida. Se descartan viejas rutinas, es muy movilizador. Pueden surgir mudanzas, traslados, cambios de trabajo, cambios internos, todo lo relacionado a la energía de libertad con la que vibra este digito. Hay que evitar excesos.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 5, señala un período cambiante, fluctuante, en el que suelen surgir imprevistos en cualquier aspecto de la vida. Se descartan viejas rutinas, es muy movilizador. Pueden surgir mudanzas, traslados, cambios de trabajo, cambios internos, todo lo relacionado a la energía de libertad con la que vibra este digito. Hay que evitar excesos.';
             break;
 
         case 6:
-            echo 'Primer semestre de MES!!! a MES!!!, está regido por el número 6, que se relaciona con un periodo en el que el hogar, la casa, la familia, las responsabilidades afectivas, familiares y sociales se vuelven prioridad ocupando el primer lugar. Conlleva posibles nacimientos, reencuentros, reconciliaciones y hasta la constitución de un nuevo hogar. Se requiere armonía, tolerancia y consideración.';
+            echo 'Segundo semestre de MES!!! a MES!!!, está regido por el número 6, que se relaciona con un periodo en el que el hogar, la casa, la familia, las responsabilidades afectivas, familiares y sociales se vuelven prioridad ocupando el primer lugar. Conlleva posibles nacimientos, reencuentros, reconciliaciones y hasta la constitución de un nuevo hogar. Se requiere armonía, tolerancia y consideración.';
             break;
 
         case 7:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 7, señala periodo de crecimiento interno, probarás necesidad de realizar actividades profesionales, capacitarte, comenzar a estudiar, investigar, proyectar nuevas ideas; despertarás un interés particular en relación a la investigación y el estudio de índole espiritual. Toma la precaución de no aislarte excesivamente y evita reprimir emociones. Es un periodo de introspección, de replanteo de lo vivido hasta ahora, propicio para empezar cualquier tipo de terapia que acompañe este proceso.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 7, señala periodo de crecimiento interno, probarás necesidad de realizar actividades profesionales, capacitarte, comenzar a estudiar, investigar, proyectar nuevas ideas; despertarás un interés particular en relación a la investigación y el estudio de índole espiritual. Toma la precaución de no aislarte excesivamente y evita reprimir emociones. Es un periodo de introspección, de replanteo de lo vivido hasta ahora, propicio para empezar cualquier tipo de terapia que acompañe este proceso.';
             break;
 
         case 8:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 8, lo que señala un período de decisiones financieras en el que podés realizar operaciones comerciales de toda índole, pero también exige mayores responsabilidades. Evitá dejarte llevar por las emociones y mantené una actitud objetiva.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 8, lo que señala un período de decisiones financieras en el que podés realizar operaciones comerciales de toda índole, pero también exige mayores responsabilidades. Evitá dejarte llevar por las emociones y mantené una actitud objetiva.';
             break;
 
         case 9:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 9, señala la conclusión de una etapa en todos los niveles de la vida, ya sea afectivos, laborales, económico, familiares, algo que puede llegar a provocar la desestabilización emocional. Hay necesidad de ordenar, sanar, concluir asuntos pendientes, especialmente aquellos que se dejaban atrás definitivamente. Lo importante en este periodo es aceptar el flujo de los hechos.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 9, señala la conclusión de una etapa en todos los niveles de la vida, ya sea afectivos, laborales, económico, familiares, algo que puede llegar a provocar la desestabilización emocional. Hay necesidad de ordenar, sanar, concluir asuntos pendientes, especialmente aquellos que se dejaban atrás definitivamente. Lo importante en este periodo es aceptar el flujo de los hechos.';
             break;
 
         case 11:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
             break;
         
         case 22:
@@ -3717,7 +3727,7 @@ switch ($sinoPina) {
     switch ($interAnual) {
         
         case 1:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 1, señala nuevas actitudes e intereses, hay nuevas ideas y nuevos rumbos de independencia en varios aspectos de la vida. Hay que evitar cualquier actitud vacilante y tomar las decisiones a tiempo, siempre controlando emociones impulsivas.';
+            echo 'En el tercer tiempo que implica la energía anual, rige con la energía del número 1, señala nuevas actitudes e intereses, hay nuevas ideas y nuevos rumbos de independencia en varios aspectos de la vida. Hay que evitar cualquier actitud vacilante y tomar las decisiones a tiempo, siempre controlando emociones impulsivas.';
             break;
 
         case 2:
@@ -3725,35 +3735,35 @@ switch ($sinoPina) {
             break;
 
         case 3:
-            echo 'Primer semestre de MES!!! a MES!!!, está regida por el número 3, señala un periodo de mucha vida social, nuevas relaciones, diversión, deseos de comunicación y creatividad, viajes y actividades sociales. Todo señala un periodo de oportunidades ya que se cuenta con optimismo y jovialidad. Hay que tener cuidado con la dispersión y el derroche.';
+            echo 'En el tercer tiempo que implica la energía anual, está regida por el número 3, señala un periodo de mucha vida social, nuevas relaciones, diversión, deseos de comunicación y creatividad, viajes y actividades sociales. Todo señala un periodo de oportunidades ya que se cuenta con optimismo y jovialidad. Hay que tener cuidado con la dispersión y el derroche.';
             break;
 
         case 4:
-            echo 'Primer semestre de MES!!! a MES!!!, está regido por la energía del número 4, señala un periodo de orden e intensa actividad que advierte un esfuerzo constante y trabajo, en el que hay una gran necesidad de acomodar todos los aspectos de la vida, la casa, el trabajo y el cuerpo. Esta relacionando también con la construcción, reparación, remodelación y una nueva adquisición de vivienda en algunos casos.';
+            echo 'En el tercer tiempo que implica la energía anual, está regida por la energía del número 4, señala un periodo de orden e intensa actividad que advierte un esfuerzo constante y trabajo, en el que hay una gran necesidad de acomodar todos los aspectos de la vida, la casa, el trabajo y el cuerpo. Esta relacionando también con la construcción, reparación, remodelación y una nueva adquisición de vivienda en algunos casos.';
             break;
 
         case 5:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 5, señala un período cambiante, fluctuante, en el que suelen surgir imprevistos en cualquier aspecto de la vida. Se descartan viejas rutinas, es muy movilizador. Pueden surgir mudanzas, traslados, cambios de trabajo, cambios internos, todo lo relacionado a la energía de libertad con la que vibra este digito. Hay que evitar excesos.';
+            echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 5, señala un período cambiante, fluctuante, en el que suelen surgir imprevistos en cualquier aspecto de la vida. Se descartan viejas rutinas, es muy movilizador. Pueden surgir mudanzas, traslados, cambios de trabajo, cambios internos, todo lo relacionado a la energía de libertad con la que vibra este digito. Hay que evitar excesos.';
             break;
 
         case 6:
-            echo 'Primer semestre de MES!!! a MES!!!, está regido por el número 6, que se relaciona con un periodo en el que el hogar, la casa, la familia, las responsabilidades afectivas, familiares y sociales se vuelven prioridad ocupando el primer lugar. Conlleva posibles nacimientos, reencuentros, reconciliaciones y hasta la constitución de un nuevo hogar. Se requiere armonía, tolerancia y consideración.';
+            echo 'En el tercer tiempo que implica la energía anual, está regida por el número 6, que se relaciona con un periodo en el que el hogar, la casa, la familia, las responsabilidades afectivas, familiares y sociales se vuelven prioridad ocupando el primer lugar. Conlleva posibles nacimientos, reencuentros, reconciliaciones y hasta la constitución de un nuevo hogar. Se requiere armonía, tolerancia y consideración.';
             break;
 
         case 7:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 7, señala periodo de crecimiento interno, probarás necesidad de realizar actividades profesionales, capacitarte, comenzar a estudiar, investigar, proyectar nuevas ideas; despertarás un interés particular en relación a la investigación y el estudio de índole espiritual. Toma la precaución de no aislarte excesivamente y evita reprimir emociones. Es un periodo de introspección, de replanteo de lo vivido hasta ahora, propicio para empezar cualquier tipo de terapia que acompañe este proceso.';
+            echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 7, señala periodo de crecimiento interno, probarás necesidad de realizar actividades profesionales, capacitarte, comenzar a estudiar, investigar, proyectar nuevas ideas; despertarás un interés particular en relación a la investigación y el estudio de índole espiritual. Toma la precaución de no aislarte excesivamente y evita reprimir emociones. Es un periodo de introspección, de replanteo de lo vivido hasta ahora, propicio para empezar cualquier tipo de terapia que acompañe este proceso.';
             break;
 
         case 8:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 8, lo que señala un período de decisiones financieras en el que podés realizar operaciones comerciales de toda índole, pero también exige mayores responsabilidades. Evitá dejarte llevar por las emociones y mantené una actitud objetiva.';
+            echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 8, lo que señala un período de decisiones financieras en el que podés realizar operaciones comerciales de toda índole, pero también exige mayores responsabilidades. Evitá dejarte llevar por las emociones y mantené una actitud objetiva.';
             break;
 
         case 9:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 9, señala la conclusión de una etapa en todos los niveles de la vida, ya sea afectivos, laborales, económico, familiares, algo que puede llegar a provocar la desestabilización emocional. Hay necesidad de ordenar, sanar, concluir asuntos pendientes, especialmente aquellos que se dejaban atrás definitivamente. Lo importante en este periodo es aceptar el flujo de los hechos.';
+            echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 9, señala la conclusión de una etapa en todos los niveles de la vida, ya sea afectivos, laborales, económico, familiares, algo que puede llegar a provocar la desestabilización emocional. Hay necesidad de ordenar, sanar, concluir asuntos pendientes, especialmente aquellos que se dejaban atrás definitivamente. Lo importante en este periodo es aceptar el flujo de los hechos.';
             break;
 
         case 11:
-            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
+            echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
             break;
         
         case 22:
