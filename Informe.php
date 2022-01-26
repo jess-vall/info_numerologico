@@ -692,6 +692,139 @@
             <br>
             <hr>
             <br>
+            <label for=""><h4>Numerología Predictiva</h4></label>
+            <br>
+            Encabezado<input class="radios" type="radio" name="sinoNumPre" value="si">Si
+            <input class="radios" type="radio" name="sinoNumPre" value="no" checked>No
+            <br>
+            Tu número personal en 2022<select class="controls" name="numPredi1" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+            </select>
+            
+            <br>
+            <br>
+            <hr>
+            <br>
+
+            <label for=""><h4>Ciclo Anual Personal</h4></label>
+            <br>
+            Encabezado<input class="radios" type="radio" name="sinoCiclo" value="si">Si
+            <input class="radios" type="radio" name="sinoCiclo" value="no" checked>No
+            <br>
+            Primer Cuatrimestre<select class="controls" name="cuatri1" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+            </select>
+            <br>
+            Segundo Cuatrimestre<select class="controls" name="cuatri2" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+            </select>
+            <br>
+            Tercer Cuatrimestre<select class="controls" name="cuatri3" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+            </select>
+            <br>
+
+            <br>
+            <br>
+            <hr>
+            <br>
+
+            <label for=""><h4>Interpretación por semestre del 2022</h4></label>
+            <br>
+            Encabezado<input class="radios" type="radio" name="sinoInter" value="si">Si
+            <input class="radios" type="radio" name="sinoInter" value="no" checked>No
+            <br>
+            Primer semestre<select class="controls" name="semestre1" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+            </select>
+            <br>
+            Segundo Semestre<select class="controls" name="semestre2" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+            </select>
+            <br>
+            Interpretación Anual<select class="controls" name="interAnual" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="11">11</option>
+                <option value="22">22</option>
+            </select>
+
+            
+
+
+            
             
                 
                  
@@ -710,7 +843,7 @@
 
     <footer class="footer">
         <p>Formulario Numerología - Jardín Reiki - <b>Jesica Vallasciani</b> -Numeróloga Holística</p>
-        <p>Desarrollado por H83?</p>
+        <p>Desarrollado por -H-</p>
     </footer>
 
 
