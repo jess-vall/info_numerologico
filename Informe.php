@@ -128,7 +128,6 @@
                 <input class="controls" type="text" name="pimerNombreEnv">
                 <select class="controls" name="evn1" id="">
                     <option value=""></option>
-                    <option value="0">0</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
@@ -278,28 +277,34 @@
             <br>
             <label for=""><h4>Número kármico</h4></label>
             <br>
-            <input class="radios" type="radio" name="siN" value="si">Encabezado
+            <input class="radios" type="radio" name="siNoNuka" value="si">Encabezado
             <input type="checkbox" class="check" name="13Nuka" value="13Nuka">13
             <input type="checkbox" class="check" name="14Nuka" value="14Nuka">14
             <input type="checkbox" class="check" name="16Nuka" value="16Nuka">16
             <input type="checkbox" class="check" name="19Nuka" value="19Nuka">19
-            <input class="radios" type="radio" name="siN" value="no" checked>vacio
+            <input class="radios" type="radio" name="siNoNuka" value="vacio1" checked>vacio
             <br>
             <br>
             <hr>
             <br>
-            <input class="radios" type="radio" name="noNuk" value="no"><b>Sin Número kármico</b> 
-            <input class="radios" type="radio" name="noNuk" value="vacio" checked>vacio
+            <input class="radios" type="radio" name="noNuka" value="no"><b>Sin Número kármico</b> 
+            <input class="radios" type="radio" name="noNuka" value="vacio2" checked>vacio
             <br>
             <br>
             <hr>
             <br>
             <label for=""><h4>Número Problemático</h4></label>
             <br>
-            <input class="radios" type="radio" name="siProblematico" value="siProblematico">Encabezado
+            <input class="radios" type="radio" name="siNoProblematico" value="siProblematico">Encabezado
             <input type="checkbox" class="check" name="12Problematico" value="12Problematico">12
             <input type="checkbox" class="check" name="15Problematico" value="15Problematico">15
-            <input class="radios" type="radio" name="siProblematico" value="noProblematico" checked>vacio
+            <input class="radios" type="radio" name="siNoProblematico" value="vacio3" checked>vacio
+            <br>
+            <br>
+            <hr>
+            <br>
+            <input class="radios" type="radio" name="noProblem" value="no" checked><b>No Posee</b>
+            <input class="radios" type="radio" name="noProblem" value="vacio4" checked>vacio
             <br>            
             <br>
             <hr>
@@ -380,46 +385,53 @@
             <hr>
             <br>
 
-                <label for=""><h4>Día de nacimiento y su influencia</h4></label>
-                <br>
-                SI<input class="radios" type="radio" name="sinoDia" value="si">
-                NO<input class="radios" type="radio" name="sinoDia" value="no" checked>  
+            <label for=""><h4>Día de nacimiento y su influencia</h4></label>
             <br>
-            <select class="controls" name="diaNac" id="">
-                        <option value=""></option>
-                        <option value="1">1</option>
-                        <option value="2">2</option>
-                        <option value="3">3</option>
-                        <option value="4">4</option>
-                        <option value="5">5</option>
-                        <option value="6">6</option>
-                        <option value="7">7</option>
-                        <option value="8">8</option>
-                        <option value="9">9</option>
-                        <option value="10">10</option>
-                        <option value="11">11</option>
-                        <option value="12">12</option>
-                        <option value="13">13</option>
-                        <option value="14">14</option>
-                        <option value="15">15</option>
-                        <option value="16">16</option>
-                        <option value="17">17</option>
-                        <option value="18">18</option>
-                        <option value="19">19</option>
-                        <option value="20">20</option>
-                        <option value="21">21</option>
-                        <option value="22">22</option>
-                        <option value="23">23</option>
-                        <option value="24">24</option>
-                        <option value="25">25</option>
-                        <option value="26">26</option>
-                        <option value="27">27</option>
-                        <option value="28">28</option>
-                        <option value="29">29</option>
-                        <option value="30">30</option>
-                        <option value="31">31</option>
-                </select>
-
+            Encabezado<input class="radios" type="radio" name="sinoDiaNacIn" value="si">Si
+            <input class="radios" type="radio" name="sinoDiaNacIn" value="no" checked>No
+            <br>
+            <b>AGUA</b><select class="controls" name="agua" id=""> 
+                <option value=""></option>
+                <option value="1">1</option>
+                <option value="5">5</option>
+                <option value="7">7</option>
+                <option value="10">10</option>
+                <option value="14">14</option>
+                <option value="16">16</option>
+                <option value="19">19</option>
+                <option value="23">23</option>
+                <option value="25">25</option>
+                <option value="28">28</option>
+            </select>
+            <br>
+            <b>FUEGO</b><select class="controls" name="fuego"> 
+                <option value=""></option>
+                <option value="2">2</option>
+                <option value="4">4</option>
+                <option value="8">8</option>
+                <option value="11">11</option>
+                <option value="13">13</option>
+                <option value="17">17</option>
+                <option value="20">20</option>
+                <option value="22">22</option>
+                <option value="26">26</option>
+                <option value="29">29</option>
+                <option value="31">31</option>
+            </select>
+            <br>
+            <b>AIRE</b><select class="controls" name="aire" id=""> 
+                <option value=""></option>
+                <option value="3">3</option>
+                <option value="6">6</option>
+                <option value="9">9</option>
+                <option value="12">12</option>
+                <option value="15">15</option>
+                <option value="18">18</option>
+                <option value="21">21</option>
+                <option value="24">24</option>
+                <option value="27">27</option>
+                <option value="30">30</option>
+            </select>
         
 
                                                                
@@ -676,56 +688,6 @@
                 <option value="8">8</option>
                 <option value="9">9</option>
             </select>
-            <br>
-            <br>
-            <hr>
-            <br>
-            <label for=""><h4>Día de nacimiento y su influencia</h4></label>
-            <br>
-            <b>AGUA</b><select class="controls" name="agua" id=""> 
-                <option value=""></option>
-                <option value="1">1</option>
-                <option value="5">5</option>
-                <option value="7">7</option>
-                <option value="10">10</option>
-                <option value="14">14</option>
-                <option value="16">16</option>
-                <option value="19">19</option>
-                <option value="23">23</option>
-                <option value="25">25</option>
-                <option value="28">28</option>
-            </select>
-            <br>
-            <b>FUEGO</b><select class="controls" name="agua" id=""> 
-                <option value=""></option>
-                <option value="2">2</option>
-                <option value="4">4</option>
-                <option value="8">8</option>
-                <option value="11">11</option>
-                <option value="13">13</option>
-                <option value="17">17</option>
-                <option value="20">20</option>
-                <option value="22">22</option>
-                <option value="26">26</option>
-                <option value="29">29</option>
-                <option value="31">31</option>
-            </select>
-            <br>
-            <b>AIRE</b><select class="controls" name="agua" id=""> 
-                <option value=""></option>
-                <option value="3">3</option>
-                <option value="6">6</option>
-                <option value="9">9</option>
-                <option value="12">12</option>
-                <option value="15">15</option>
-                <option value="18">18</option>
-                <option value="21">21</option>
-                <option value="24">24</option>
-                <option value="27">27</option>
-                <option value="30">30</option>
-            </select>
-
-
             <br>
             <br>
             <hr>

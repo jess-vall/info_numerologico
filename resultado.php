@@ -26,8 +26,10 @@ $coseno = $_POST['coseno'];
 $sinoLeka = $_POST['sinoLeka'];
 $leka = $_POST['leka'];
 
-$siN = $_POST['siN'];
-$noNuk = $_POST['noNuk'];
+$siNoNuka = $_POST['siNoNuka'];
+$noNuka = $_POST['noNuka'];
+$siNoProblematico = $_POST['siNoProblematico'];
+$noProblem = $_POST['noProblem'];
  
 
 $sinoPla = $_POST['sinoPla'];
@@ -35,9 +37,6 @@ $planoMental = $_POST['planoMental'];
 $planoFisico = $_POST['planoFisico'];
 $planoEmocional = $_POST['planoEmocional'];
 $planoEspiritual = $_POST['planoEspiritual'];
-
-$sinoDia = $_POST['sinoDia'];
-$diaNac = $_POST['diaNac'];
 
 $sinoMadu = $_POST['sinoMadu'];
 $madu = $_POST['madu'];
@@ -61,6 +60,12 @@ $hastaAño1 = $_POST['hastaAño1'];
 $transitoLetras2 = $_POST['transitoLetras2'];
 $desdeAño2 = $_POST['desdeAño2'];
 $hastaAño2 = $_POST['hastaAño2'];
+
+$sinoDiaNacIn = $_POST['sinoDiaNacIn'];
+$agua = $_POST['agua'];
+$fuego = $_POST['fuego'];
+$aire = $_POST['aire'];
+
 
 
 
@@ -565,19 +570,20 @@ echo "<br>";
         break;
 
         case 11:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu arquetipo numerológico es La Mensajera Divina, es quien ilumina el camino de los demás buscando relaciones que hagan florecer lo más elevado de las personas, a través de sus grandes dones psíquicos. Su misión es la de transmitir la riqueza interior y la apertura espiritual. Profundamente espirituales, místicos y clarividentes se imponen a sí mismos la obligación de ayudar a sus semejantes no sólo en sus problemas, sino tambien en su desarrollo y progreso espiritual. Su paso por la vida deja una huella profunda y provechosa ya que quienes se relacionan con ellos salen enriquecidos con su contacto. Su influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerlos, porque tienen el don de animar a las personas a perfeccionarse material y espiritualmente. Su luz ilumina la vida de todos.
+            ';
         break;
 
         case 22:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu arquetipo numerológico es La maestra mística, también se comprende como el arquetipo de la Maestra Constructora. Desea construir y enseñar a diseminar amor y luz por el mundo. Impulsa a construir una estructura que contenga las verdades eternas. El veintidós es un maestro constructor, da al mundo orden y sistema; sus proyectos están relacionados al beneficio de la humanidad. Dos veces 11, este número maestro, tienen una amplia capacidad intuitiva y trabaja arduamente para cumplir sus sueños. Un genuino 22 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y están a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados.';
         break;
         
         case 33:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu arquetipo numerológico es La Guía, deseás despertar las consciencias de las masas, para permitirles escuchar su voz interior y sabiduría. Tenés grandes deseos de proteger a los demás, sacrificando tus propios intereses. Profundamente espirituales, místicos y clarividentes se imponen a sí mismos la obligación de ayudar a sus semejantes no sólo en sus problemas, sino que sobre todo en su desarrollo y progreso espiritual. Su paso por la vida deja una huella profunda y provechosa ya que quienes se relacionan con ellos salen enriquecidos con su contacto. Su influencia es tan grande y beneficiosa que nadie vuelve a ser el mismo después de conocerlos, porque tienen el don de animar a las personas a perfeccionarse material y espiritualmente y .Su luz ilumina la vida de todos.';
         break;
 
         case 44:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu arquetipo numerológico es La Gran Hacedora del Mundo, deseas que todos participen de la prosperidad universal y que se convierta en realidad. Está en tu Ser el crear grandes obras originales que inspirarán a quienes lleguen a tu vida. Es el símbolo del poder puesto al servicio del espíritu y la entrega a todos los seres humanos. Un genuino 44 es consciente de que tiene una misión que cumplir, de manera que dedica parte de sus ingresos y sobre todo de sus esfuerzos a trabajar para solucionar los problemas materiales de su comunidad y están a la cabeza de las conquistas sociales que benefician a los más necesitados y desamparados.';
         break;
             
     }
@@ -605,11 +611,6 @@ echo "<br>";
                                             
     switch ($evn1){
             
-        case '0':
-        echo 'SIN CONTENIDO //////////';
-        break;
-
-
         case 1:
             echo 'Tu nombre ' . $pimerNombreEnv . ' posee una vibración interna 1, lo que significa que te mostrás independiente en lo que respecta a tus creencias. La libertad e independencia de pensamiento constituyen el objetivo y anhelo más interno. No permitas que ese fuerte impulso obstaculice la persecución de las metas prácticas correspondientes a tu vida presente. Permaneces en todo momento consciente de tu fuerza interior y te resulta difícil aceptar una posición secundaria entre tus semejantes. Si pensás en la construcción de un vínculo amoroso (convivencia, matrimonio, etc.) o en una asociación cualquiera, procurá averiguar los anhelos internos de tu futuro compañero, a fin de salvaguardar el éxito de la relación. Si posees una individualidad demasiado fuerte, tal vez se exprese en una actitud de mando, a costa de tu felicidad personal. Tan firme es la intensidad de tu foco de atracción y tan fuerte la memoria de tu gloria pasada que serás capaz de mantenerte firme en tus convicciones, incluso pensando que obstaculizan importantes relaciones. Tu fuerza interior te proporciona confianza cuando el camino se vuelve difícil y podés presentarte como una fortaleza de inspiración para los demás en épocas de inseguridad.';
         break;
@@ -652,11 +653,6 @@ echo "<br>";
 
     switch ($evn2){
             
-        case '0':
-        echo 'SIN CONTENIDO //////////';
-        break;
-
-
         case 1:
             echo 'Tu segundo nombre ' . $segundoNombreEnv . ' posee una vibración interna 1, lo que significa que te mostrás independiente en lo que respecta a tus creencias. La libertad e independencia de pensamiento constituyen el objetivo y anhelo más interno. No permitas que ese fuerte impulso obstaculice la persecución de las metas prácticas correspondientes a tu vida presente. Permaneces en todo momento consciente de tu fuerza interior y te resulta difícil aceptar una posición secundaria entre tus semejantes. Si pensás en la construcción de un vínculo amoroso (convivencia, matrimonio, etc.) o en una asociación cualquiera, procurá averiguar los anhelos internos de tu futuro compañero, a fin de salvaguardar el éxito de la relación. Si posees una individualidad demasiado fuerte, tal vez se exprese en una actitud de mando, a costa de tu felicidad personal. Tan firme es la intensidad de tu foco de atracción y tan fuerte la memoria de tu gloria pasada que serás capaz de mantenerte firme en tus convicciones, incluso pensando que obstaculizan importantes relaciones. Tu fuerza interior te proporciona confianza cuando el camino se vuelve difícil y podés presentarte como una fortaleza de inspiración para los demás en épocas de inseguridad.';
         break;
@@ -1189,7 +1185,7 @@ echo '<br>';
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
                                                         // NUMERO KÁRMICO
-     switch ($siN){
+     switch ($siNoNuka){
 
          case 'si':
              echo 'Numero Kármico';
@@ -1199,25 +1195,24 @@ echo '<br>';
             Implica la necesidad de manejar y equilibrar estas energías, tal vez, con un poco más de trabajo. Los números Kármicos se refieren al mal uso o abuso de las leyes naturales en vidas anteriores, lo cual está delineando una reconstrucción que deberás realizar. Si aceptas las premisas de este karma, estarás ante un nuevo punto de partida para iniciar un nuevo ciclo ascendente, de lo contrario, volverás a repetir el aprendizaje con mayor dificultad. El karma está vinculado a la ley de causa y efecto, esto quiere decir que todo efecto tuvo una causa anterior que lo originó. Toda persona puede terminar con su karma negativo aquí y ahora y comenzar a generar Dharma, es decir, que comprender este significado, es tener en tus manos las herramientas necesarias para la toma de consciencia y de accionar para cambiarlo o trabajarlo, al punto de conseguir Dharma, el aprendizaje.<br>';
             break;
 
-        case 'no':
+        case 'vacio1':
             echo '';
             break;
-        
-     }
+    }
+
      echo '<br>';
      
-     switch ($noNuk){
+     switch ($noNuka){
         
         case 'no':
             echo 'Se puede observar que en tu mapa numerológico no existen números Kármicos.';
         echo '<br>';
             break;
         
-        case 'vacio':
+        case 'vacio2':
             echo '';
             break;
      }
-
 
     if(isset($_POST["calcular"])){
 
@@ -1248,15 +1243,34 @@ echo '<br>';
         <br>';
     }
 
+    echo '<br>';
+
+    switch ($siNoProblematico) {
+        case 'siProblematico':
+            echo 'Se puede observar que en tu mapa numerológico no existen números Kármicos, sin embargo, pude encontrar un número problemático que aparece en tu ///(ESENCIA/IMAGEN/DESTINO/SENDERO NATAL)///; éste último al no ser un número Kármico no referencia lo que debes trabajar en este plano; pero es relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.';
+        echo '<br>';
+            break;
+
+        case 'vacio3':
+            echo '';
+            break;
+    }
+
+    echo '<br>';
+     
+     switch ($noProblem){
+        
+        case 'no':
+            echo'NO POSEES NÚMEROS PROBLEMÁTICOS';
+            break;
+        
+        case 'vacio4':
+            echo '';
+            break;
+     }
+
     if(isset($_POST["calcular"]))
     {
-        if(isset($_POST["siProblematico"]))
-        echo 'Se puede observar que en tu mapa numerológico no existen números Kármicos, sin embargo, pude encontrar un número problemático que aparece en tu ///(ESENCIA/IMAGEN/DESTINO/SENDERO NATAL)///; éste último al no ser un número Kármico no referencia lo que debes trabajar en este plano; pero es relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.';
-        echo '<br>';
-
-        if(isset($_POST["noProblematico"]))
-        echo'NO POSEES NÚMEROS PROBLEMÁTICOS';
-
         if(isset($_POST["12Problematico"]))
         echo 'Pude encontrar el número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
         <br>
@@ -1555,157 +1569,199 @@ echo '<br>';
 
     echo '<br>';
 
-                                        // SELECTOR DIA DE NACIMIENTO (FICHA 1 Pag.34 Y 3 Pag.11)
-                                        // SELECTOR DIA DE NACIMIENTO (FICHA 1 Pag.34 Y 3 Pag.11)
-                                        // SELECTOR DIA DE NACIMIENTO (FICHA 1 Pag.34 Y 3 Pag.11)
+                                        // DIA DE NACIMIENTO Y SU INFLULENCIA
+                                        // DIA DE NACIMIENTO Y SU INFLULENCIA
+                                        // DIA DE NACIMIENTO Y SU INFLULENCIA
 
-    switch ($sinoDia){
-
+    switch ($sinoDiaNacIn) {
         case 'si':
-            echo 'Tu día de nacimiento y su influencia';
-            echo '<br>';
-            echo 'Tu día de nacimiento marca como una tinta indeleble todos aquellos talentos y cualidades que te servirán en el camino de la vida para sobrevivir y destacarte; si bien se verá a lo largo de toda tu existencia vital, tomara mucha más fuerza a partir de los 28 años en adelante (se hace más crítica desde los 25 hasta 56 años ya que corresponde a dos ciclos fundamentales de la existencia del ser humano), entonces es muy útil que tengas en cuenta estos talentos para que los puedas utilizar para el logro de los objetivo que te hayas propuesto.';
-            echo '<br>';
+            echo 'Tu día de nacimiento marca como una tinta indeleble todos aquellos talentos y cualidades que te servirán en el camino de la vida para sobrevivir y destacarte; si bien se verá a lo largo de toda tu existencia vital, tomará mucha más fuerza a partir de los 28 años en adelante (se hace más crítica desde los 25 hasta 56 años ya que corresponde a dos ciclos fundamentales de la existencia del ser humano), entonces es muy útil que tengas en cuenta estos talentos para que los puedas utilizar para el logro de los objetivo que te hayas propuesto. Desde la numerología se dividen los días del mes en tres elementos: Agua (ciencia), Fuego (negocios), Aire (arte), conocé sobre qué elemento rige tu día de nacimiento.';
+            break;
         
+        case 'no':
+            echo '';
+            break;
     }
-        
-    switch ($diaNac){
+
+    echo '<br>';
+
+    switch ($agua){
 
         case '1':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '2':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '3':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '4':
-            echo 'SIN CONTENIDO';
-        break;
-
+            echo 'Tu día de nacimiento es el 1, influenciado por el elemento Agua, al cual pertenecen las personas que son originales y creativas, odian la rutina, buscan la individualidad y detestan “copiarse” de los demás, siendo desde niña independientes y autosuficiente (esto puede no desplegarse si la persona ha recibido algún tipo de abuso, lo que ha bloqueado este flujo energético) Los que nacieron el 1, Se convierten pronto en líderes ocupando cargos de alto rango, pero deben controlar su necesidad de dominio.';
+            break;
+        
         case '5':
-            echo 'Tu día de nacimiento es el 5, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron un 5 son inquietos e inestables; no les gusta la rutina, buscan trabajos independientes donde no tengan la presión de jefes, ni de horarios. Les gusta ser sorprendidos con detalles por parte del ser amado. Tienen poderes psíquicos.
-            <br>
-            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, en este caso, el 5 posee una tendencia marcada por los excesos. Esto afecta su sistema nervioso, lo que acarrea a una predisposición a la depresión nerviosa, insomnio; dolores musculares y de huesos.';
-        break;
-
-        case '6':
-            echo 'Tu día de nacimiento es el 6, influenciado por el elemento Aire al cual pertenecen las personas que se destacan por sus tendencias creativas, logrando con esto impactar a quienes los rodean, gustan del movimiento y la agitación. 
-            Para los nacidos un 6 el hogar es esencial, son muy entregados a él, por ello son excelentes decoradores de interiores, empeñados en brindar la máxima comodidad a sus visitas. Son afectuosos y sensibles. Su trabajo con niños se destaca ya que poseen habilidad para la recreación.
-            <br>
-            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, en este caso, el 6 es un número que marca la necesidad de vivir en armonía. Cuando esto no ocurre, sienten literalmente que les falta el oxígeno, por lo tanto, lo vuelcan en el aparato respiratorio. ';
-        break;
+            echo 'Tu día de nacimiento es el 5, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron un 5 son inquietos e inestables; no les gusta la rutina, buscan trabajos independientes donde no tengan presión ni de jefes, ni de horarios. Les gusta ser sorprendidos con detalles por parte del ser amado. Tienen poderes psíquicos, sería muy nutricio para su alma que puedan despertar, desplegar y potenciar esta cualidad.';
+            break;
 
         case '7':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '8':
-            echo 'Tu día de nacimiento está influenciado por el elemento Fuego, son quienes están orientados hacia las actividades financieras. Los que nacieron un 8, tienen facilidad para conseguir dinero y gracias a su magnetismo encuentran oportunidades excepcionales para mejorar sus ingresos.
-            <br>
-            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, en este caso, el 8 es un número que marca la tendencia a agredir tu físico a través de caídas, accidentes, operaciones. Las partes más delicadas de tu organismo son el hígado e intestinos.';
-        break;
-
-        case '9':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 7, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron el 7, son los eternos estudiantes, con su alto sentido de la observación se pueden destacar en el campo científico, les cuesta mucho trabajar en equipo, de hecho prefieren la soledad. La duda es uno de sus grandes enemigos, ya que opaca su intuición.';
+            break;
 
         case '10':
-            echo 'Tu día de nacimiento está influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los nacidos el 10 son originales y creativos, odian la rutina, buscan la individualidad y detestan “copiarse” de los demás, siendo desde niños independientes y autosuficientes (Esto se menoscaba si han recibido abusos). Se convierten pronto en líderes, ocupando cargos de alto rango, pero deben controlar su necesidad de dominio.
-            <br>
-            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, buscarás volcar en tu físico los problemas y las emociones. Si éstas te paralizan tendrás una tendencia hacia el reumatismo y la artrosis. También se verá involucrado el sistema circulatorio. Como el número 1, debido a su actitud autosuficiente, no quiere ver sus problemas, es aconsejable una revisión médica periódica.';
-        break;
-
-        case '11':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '12':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '13':
-            echo 'SIN CONTENIDO';
-        break;
-
+            echo 'Tu día de nacimiento es el 10, influenciado por el elemento Agua, al cual pertenecen las personas que son originales y creativas, odian la rutina, buscan la individualidad y detestan “copiarse” de los demás, siendo desde niña independientes y autosuficiente (esto puede no desplegarse si la persona ha recibido algún tipo de abuso, lo que ha bloqueado este flujo energético) Los que nacieron el 10, Se convierten pronto en líderes ocupando cargos de alto rango, pero deben controlar su necesidad de dominio.';
+            break;
+        
         case '14':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '15':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 14, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron un 14 son inquietos e inestables; no les gusta la rutina, buscan trabajos independientes donde no tengan presión ni de jefes, ni de horarios. Les gusta ser sorprendidos con detalles por parte del ser amado. Tienen poderes psíquicos, sería muy nutricio para su alma que puedan despertar, desplegar y potenciar esta cualidad.';
+            break;
 
         case '16':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '17':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '18':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 16, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron el 16, son los eternos estudiantes, con su alto sentido de la observación se pueden destacar en el campo científico, les cuesta mucho trabajar en equipo, de hecho prefieren la soledad. La duda es uno de sus grandes enemigos, ya que opaca su intuición.';
+            break;
 
         case '19':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '20':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '21':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '22':
-            echo 'SIN CONTENIDO';
-        break;
-
+            echo 'Tu día de nacimiento es el 19, influenciado por el elemento Agua, al cual pertenecen las personas que son originales y creativas, odian la rutina, buscan la individualidad y detestan “copiarse” de los demás, siendo desde niña independientes y autosuficiente (esto puede no desplegarse si la persona ha recibido algún tipo de abuso, lo que ha bloqueado este flujo energético) Los que nacieron el 19, Se convierten pronto en líderes ocupando cargos de alto rango, pero deben controlar su necesidad de dominio.';
+            break;
+        
         case '23':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '24':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 23, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron un 23 son inquietos e inestables; no les gusta la rutina, buscan trabajos independientes donde no tengan presión ni de jefes, ni de horarios. Les gusta ser sorprendidos con detalles por parte del ser amado. Tienen poderes psíquicos, sería muy nutricio para su alma que puedan despertar, desplegar y potenciar esta cualidad.';
+            break;
 
         case '25':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '26':
-            echo 'Tu día de nacimiento es el 26, influenciado por el elemento Fuego, son quienes están orientados hacia las actividades financieras. Los que nacieron un 26 rara vez tienen dificultades económicas, la providencia te beneficia colocando en tu camino aquellas personas que te brindarán ayuda para alcanzar tus metas. Sos dinámica y arriesgada, por ello, sos hábil para los negocios, aunque a veces puedas sufrir algún que otro traspié. La vida familiar es importante para vos.
-            <br>
-            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, en éste caso, el 26 es un número que marca una tendencia a agredir tu físico a través de caídas, accidentes, operaciones. Las partes más delicadas de tu organismo son el hígado e intestinos.';
-        break;
-
-        case '27':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 25, influenciado por el elemento Agua, son quienes se destacan por sus cualidades intelectuales. Los que nacieron el 25, son los eternos estudiantes, con su alto sentido de la observación se pueden destacar en el campo científico, les cuesta mucho trabajar en equipo, de hecho prefieren la soledad. La duda es uno de sus grandes enemigos, ya que opaca su intuición.';
+            break;
 
         case '28':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 28, influenciado por el elemento Agua, al cual pertenecen las personas que son originales y creativas, odian la rutina, buscan la individualidad y detestan “copiarse” de los demás, siendo desde niña independientes y autosuficiente (esto puede no desplegarse si la persona ha recibido algún tipo de abuso, lo que ha bloqueado este flujo energético) Los que nacieron el 28, Se convierten pronto en líderes ocupando cargos de alto rango, pero deben controlar su necesidad de dominio.';
+            break;
+    }
+
+    echo '<br>';
+
+    switch ($fuego){
+
+        case '2':
+            echo 'Tu día de nacimiento es el 2, influenciado por el elemento Fuego, al cual pertenecen las personas que están orientadas hacia las actividades financieras. Los nacidos el día 2 son sociables por naturaleza, son excelentes para trabajar en grupo, grandes colaboradores y deben cuidarse de anteponer las necesidades de los demás antes que las propias. Poseen talentos en todas las artes.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 2, la marca su tendencia a la dualidad, lo que podría llevarla a un estado de estrés, que puede tener su epicentro en el aparato digestivo y en la vista.';
+            break;
+        
+        case '4':
+            echo 'Si consideramos tu día de nacimiento 4, influenciado por el elemento Fuego, son quienes poseen practicidad y los domina la razón, no encuentran difícil llevar a cabo sus ideas. Los que nacieron un 4, manifiestan una gran metodología, la que los lleva a tener progresos en las finanzas, son muy entusiastas por eso son el alma de las fiestas.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 4, la marca su tendencia a encerrarse y no tener en cuenta el propio cuerpo. Esto deriva comúnmente en dolores de cabeza, anemia, accidentes en piernas y pies, en dolencias con exceso de sintomatología.';
+            break;
+
+        case '8':
+            echo 'Si consideramos tu día de nacimiento 8, influenciado por el elemento Fuego, son quienes están orientados hacia las actividades financieras. Los que nacieron un 8, tienen facilidad para conseguir dinero y gracias a su magnetismo encuentran oportunidades excepcionales para mejorar sus ingresos.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 8, la marca su predisposición a agredir su físico a través de caídas, accidentes, operaciones. Las partes más delicadas de su organismo son el hígado e intestinos.';
+            break;
+
+        case '11':
+            echo 'Si consideramos tu día de nacimiento 11, influenciado por el elemento Fuego, son quienes llevan en su cabeza grandes proyectos, pero debido a su desmedida fantasía no logran concretarlos. Las ciencias exactas son muy aburridas para ellos, aunque cada regla tiene su excepción, la mayoría prefiere dedicarse a carreras como la sociología, ciencias sociales y todo lo que esto conlleva. Los que nacieron un 11, tienen creencias arraigadas y por ello son convincentes en sus discursos.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 11, la marca su tendencia a la dualidad, lo que podría llevarla a un estado de estrés, que puede tener su epicentro en el aparato digestivo y en la vista.';
+            break;
+        
+        case '13':
+            echo 'Si consideramos tu día de nacimiento 13, influenciado por el elemento Fuego, son quienes  saben el terreno que pisan, son ambiciosos, pero no se ilusionan, ya que rezan el lema de que en esta vida nada es gratis. Los que nacieron un 13, dirigen su talento en gerenciar, planificar y administrar. Son muy críticos con ellos mismos y con los demás. Sensibles e intuitivos aunque su aspecto denota lo contrario.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 13, la marca su tendencia a encerrarse y no tener en cuenta el propio cuerpo. Esto deriva comúnmente en dolores de cabeza, anemia, accidentes en piernas y pies, en dolencias con exceso de sintomatología.';
+            break;
+
+        case '17':
+            echo 'Tu día de nacimiento es el 17, influenciado por el elemento Fuego, son quienes están orientados hacia las actividades financieras. El 17 tiene nativos muy trabajadores y tienen muchas cualidades relacionadas con la mercadotecnia, economía y contaduría. Sobresalen por su honestidad, son firmes e implacables cuando quieren conseguir algo, siendo el dinero algo muy primordial en sus vidas. Cuando están en privado con familiares y amigos se tornan cálidos.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 17, la marca su predisposición a agredir su físico a través de caídas, accidentes, operaciones. Las partes más delicadas de su organismo son el hígado e intestinos.';
+            break;
+
+        case '20':
+            echo 'Tu día de nacimiento es el 20, influenciado por el elemento Fuego, son quienes dominan el arte de la diplomacia, pero son indecisos. También tienen un gran espíritu de servicio, y pueden fácilmente trabajar en grupo, son los árbitros de peleas y discusiones, buenos consejeros y muy generosos. El 20 tiene nativos que promueven el bien común, para nada les interesa destacarse individualmente, a pesar de ser idealistas poseen habilidad para hacer inversiones y obtener grandes ganancias. Muy buenos para todo lo que se relacione con el público.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 20, la marca su tendencia a la dualidad, lo que podría llevarla a un estado de estrés, que puede tener su epicentro en el aparato digestivo y en la vista.';
+            break;
+        
+        case '22':
+            echo 'SIN CONTENIDO!!!!
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 22, la marca su tendencia a encerrarse y no tener en cuenta el propio cuerpo. Esto deriva comúnmente en dolores de cabeza, anemia, accidentes en piernas y pies, en dolencias con exceso de sintomatología.';
+            break;
+
+        case '26':
+            echo 'Tu día de nacimiento es el 26, influenciado por el elemento Fuego, son quienes casi nunca tienen dificultades económicas, la providencia les beneficia colocándoles en el camino a todos aquellos que les ayudarán en sus metas. El 26 tiene nativos que son dinámicos y arriesgados, por ello son buenos para los negocios, aunque algunas veces pueden sufrir estrellones. La vida familiar es importante para ellos.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 26, la marca su predisposición a agredir su físico a través de caídas, accidentes, operaciones. Las partes más delicadas de su organismo son el hígado e intestinos.';
+            break;
 
         case '29':
-            echo 'SIN CONTENIDO';
-        break;
+            echo 'Tu día de nacimiento es el 29, influenciado por el elemento Fuego, son quienes poseen una gran intuición. Son excelentes para expresar sus sentimientos a través de su gran talento artístico. El 29 tiene nativos que son muy receptivos, muchas veces captan el malestar de los que les rodean sin dificultad, es importante que escuchen esta cualidad y puedan desplegarla. Son grandes psicólogos, investigadores, abogados; por su destreza intuitiva.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 29, la marca su tendencia a la dualidad, lo que podría llevarla a un estado de estrés, que puede tener su epicentro en el aparato digestivo y en la vista.';
+            break;
+        
+        case '31':
+            echo 'Tu día de nacimiento es el 31, influenciado por el elemento Fuego, son personas dedicadas por excelencia. Suelen ser grandes arquitectos e ingenieros. El 31 tiene nativos que no les gusta la soledad, comparten éxitos y fracasos con los seres queridos, nunca olvidan a quien les tendió la mano en un difícil momento.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 31, la marca su tendencia a encerrarse y no tener en cuenta el propio cuerpo. Esto deriva comúnmente en dolores de cabeza, anemia, accidentes en piernas y pies, en dolencias con exceso de sintomatología.';
+            break;
+
+    }
+
+    echo '<br>';
+
+    switch ($aire){
+
+        case '3':
+            echo 'Tu día de nacimiento es el 3, influenciado por el elemento Aire, al cual pertenecen las personas que poseen mucha capacidad intelectual y de expresión con gran fluidez verbal y escrita, lo que los hace grandes periodistas, pedagogos y literatos. Los nacidos el día 3 posen una simpatía que es contagiosa y esto los hace grandes anfitriones.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 3, la marca su tendencia el desborde energético en todo su accionar, por lo tanto es importante cuidar las tendencias nerviosas que pueden llevarlo a trastornos en la piel, del nervio ciático y cuadros cardiacos.';
+            break;
+        
+        case '6':
+            echo 'Si consideramos tu día de nacimiento 6, influenciado por el elemento Aire, son quienes consideran que el hogar es básico, son muy entregados a él, por ello son excelentes decoradores de interiores, les encanta hacer sentir cómodos a los que visiten su casa. Los que nacieron un 6, son afectuosos y sensibles. Su trabajo con niños se destaca porque tienen habilidad para la recreación.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 6, la marca su tendencia a vivir en armonía. Cuando esto no ocurre, sienten literalmente que les falta el oxígeno, por lo tanto lo vuelcan en el aparato respiratorio. Las mujeres también lo vuelcan en el aparato circulatorio, y en tener problemas en los senos.';
+            break;
+
+        case '9':
+            echo 'Si consideramos tu día de nacimiento 9, influenciado por el elemento Aire, son humanitarios, buscan el beneficio común y dedican a esto mucho de su tiempo. Los que nacieron un 9, son excelentes para ofrecer consejos. Aman los cambios en lo profesional, lo afectivo y en el plano económico. Les fascina viajar.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 9, la marca su predisposición a la vida espiritual, en el plano material nos habla de las pruebas y los excesos. Es importante que eviten el alcohol y todo aquello que genere una adicción. Por lo general, la persona estalla de adentro hacia fuera, provocando fiebres y erupciones.';
+            break;
+
+        case '12':
+            echo 'Si consideramos tu día de nacimiento 12, influenciado por el elemento Aire, son quienes no tienen ningún problema en expresarse. Sus profesiones son el diseño industrial, la publicidad, la literatura y las artes gráficas. Los que nacieron un 12, son impacientes y versátiles, pueden ocuparse de varios proyectos a la vez. Su fuerza interna y perseverancia los hace exitosos.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 12, la marca su tendencia el desborde energético en todo su accionar, por lo tanto es importante cuidar las tendencias nerviosas que pueden llevarlo a trastornos en la piel, del nervio ciático y cuadros cardiacos.';
+            break;
+        
+        case '15':
+            echo 'Si consideramos tu día de nacimiento 15, influenciado por el elemento Aire, son quienes  establecen vínculos amorosos prematuramente (se juntan, se casan, tienen hijos, etc), y a lo cual se dedican en cuerpo y alma. Los que nacieron un 15, dirigen su talento al arte, poseen una gran comprensión hacia los demás.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 15, la marca su tendencia a vivir en armonía. Cuando esto no ocurre, sienten literalmente que les falta el oxígeno, por lo tanto lo vuelcan en el aparato respiratorio. Las mujeres también lo vuelcan en el aparato circulatorio, y en tener problemas en los senos.';
+            break;
+
+        case '18':
+            echo 'Tu día de nacimiento es el 18, influenciado por el elemento Aire, son quienes están orientados hacia la entrega, más que nada en el ámbito familiar, por eso no es de extrañar que se dediquen al cuidado de un familiar enfermo o a un anciano, sin que esto se convierta en obligación. De aquí nacen los médicos, enfermeros, acompañantes terapéuticos, cuidadores, niñeras, psicólogas, trabajadores sociales. El 18 tiene nativos que vibran con la salud y el cuidado, es el número del sanador por excelencia, pero no buscan reconocimiento.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 18, la marca su predisposición a la vida espiritual, en el plano material nos habla de las pruebas y los excesos. Es importante que eviten el alcohol y todo aquello que genere una adicción. Por lo general, la persona estalla de adentro hacia fuera, provocando fiebres y erupciones.';
+            break;
+        
+        case '21':
+            echo 'Tu día de nacimiento es el 21, influenciado por el elemento Aire, pertenecen a las personas sociales. Son quienes encuentran oportunidades en la pintura y el teatro, aunque deben desarrollarla concentración, pues les es difícil concretar. El 21 tiene nativos en quienes la emotividad está a flor de piel, por ello su vida afectiva interfiere en su profesión.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 21, la marca su tendencia el desborde energético en todo su accionar, por lo tanto es importante cuidar las tendencias nerviosas que pueden llevarlo a trastornos en la piel, del nervio ciático y cuadros cardiacos.';
+            break;
+
+        case '24':
+            echo 'Tu día de nacimiento es el 24, influenciado por el elemento Aire, son seres activos, quienes asumen con facilidad responsabilidades de todo tipo. Sus profesiones son el magisterio y el Derecho, poseen oído musical y gran disposición para las comunicaciones.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 24, la marca su tendencia a vivir en armonía. Cuando esto no ocurre, sienten literalmente que les falta el oxígeno, por lo tanto lo vuelcan en el aparato respiratorio. Las mujeres también lo vuelcan en el aparato circulatorio, y en tener problemas en los senos.';
+            break;
+
+        case '27':
+            echo 'Tu día de nacimiento es el 27, influenciado por el elemento Aire, son independientes y con gran seguridad en sí mismo. No les gusta apoyarse en nadie. Sus profesiones son la política y la milicia, ya que son individualistas, son grandes psíquicos y mentalistas.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 27, la marca su predisposición a la vida espiritual, en el plano material nos habla de las pruebas y los excesos. Es importante que eviten el alcohol y todo aquello que genere una adicción. Por lo general, la persona estalla de adentro hacia fuera, provocando fiebres y erupciones.';
+            break;
 
         case '30':
-            echo 'SIN CONTENIDO';
-        break;
-
-        case '31':
-            echo 'SIN CONTENIDO';
-        break;
-        
+            echo 'Tu día de nacimiento es el 30, influenciado por el elemento Aire, son quienes necesitan expresarse urgentemente y lo hacen por medios artísticos, manifiestan gran capacidad para actuar. Dominan la palabra, poseen ideas fijas y convencen en sus discursos. Las actividades rutinarias no son para ellos ni los ambientes cerrados.
+            <br>
+            Otro dato sobre tu día de nacimiento es en relación a los cuidados de la salud, la tendencia del número 30, la marca su tendencia el desborde energético en todo su accionar, por lo tanto es importante cuidar las tendencias nerviosas que pueden llevarlo a trastornos en la piel, del nervio ciático y cuadros cardiacos.';
+            break;
     }
 
     echo '<br>';
@@ -2239,7 +2295,7 @@ switch ($sinoPina) {
     
 
       if ($primera == 11 || $primera == 22) {
-        echo "Primera etapa es igual a " .  $primera;
+        // echo "Primera etapa es igual a " .  $primera;
         echo'<br>';
         
         switch ($primera) {
@@ -2256,7 +2312,7 @@ switch ($sinoPina) {
       }else{
        $respuestaPrimera = $primera % 9;
        $respuestaPrimera = ($primera % 9 ?: 9);
-        echo "Primera etapa es igual a " .  $respuestaPrimera;
+        // echo "Primera etapa es igual a " .  $respuestaPrimera;
         echo'<br>';
        
        switch ($respuestaPrimera) {
@@ -2305,7 +2361,7 @@ switch ($sinoPina) {
 
 
       if ($segunda == 11 || $segunda == 22) {
-        echo "Segunda etapa es igual a " .  $segunda;
+        // echo "Segunda etapa es igual a " .  $segunda;
         echo'<br>';
 
         switch ($segunda) {
@@ -2322,7 +2378,7 @@ switch ($sinoPina) {
       }else{
        $respuestaSegunda = $segunda % 9;
        $respuestaSegunda = ($segunda % 9 ?: 9);
-        echo "Segunda etapa es igual a " .  $respuestaSegunda;
+        // echo "Segunda etapa es igual a " .  $respuestaSegunda;
         echo'<br>';
 
        switch ($respuestaSegunda) {
@@ -2382,7 +2438,7 @@ switch ($sinoPina) {
       
 
        if ($terceraUno == 11 || $terceraUno == 22 || $terceraDos == 11|| $terceraDos == 22|| $terceraTres == 11|| $terceraTres == 22|| $terceraCuatro == 11||$terceraCuatro == 22){
-           echo 'esto es tercerauno' . $terceraUno, $terceraDos, $terceraTres, $terceraCuatro;
+        //    echo 'esto es tercerauno' . $terceraUno, $terceraDos, $terceraTres, $terceraCuatro;
 
            switch ($terceraUno || $terceraDos || $terceraTres ||$terceraCuatro) {
             
@@ -2472,7 +2528,7 @@ switch ($sinoPina) {
       }else{
        $respuestaTercera = $tercera % 9;
        $respuestaTercera = ($tercera % 9 ?: 9);
-        echo "Tercera etapa es igual a " .  $respuestaTercera;
+        // echo "Tercera etapa es igual a " .  $respuestaTercera;
         echo'<br>';
 
         switch ($respuestaTercera) {
@@ -2520,7 +2576,7 @@ switch ($sinoPina) {
     echo '<br>';
 
     if ($cuarta == 11 || $cuarta == 22) {
-        echo "Cuarta etapa es igual a " .  $cuarta;
+        // echo "Cuarta etapa es igual a " .  $cuarta;
         echo'<br>';
 
         switch ($cuarta) {
@@ -2536,7 +2592,7 @@ switch ($sinoPina) {
       }else{
        $respuestaCuarta = $cuarta % 9;
        $respuestaCuarta = ($cuarta % 9 ?: 9);
-        echo "Cuarta etapa es igual a " .  $respuestaCuarta;
+        // echo "Cuarta etapa es igual a " .  $respuestaCuarta;
         echo'<br>';
 
         switch ($respuestaCuarta) {
@@ -2961,11 +3017,8 @@ switch ($sinoPina) {
             echo 'Desde tus ' . $desdeAño2 . ' a ' . $hastaAño2 . ' años, estarás transitando por la vibración del número 9, te verás ante 9 años de muchas fluctuaciones, ambigüedades, y puede que atravieses momentos de mucha felicidad o un sinfín de pérdidas y pruebas. Vivirás bajo mucha emotividad; en lo afectivo, vivirás una gran sensibilidad, podes llegar a concretar tu relación de pareja en casamiento o darle un fin con una separación; también puede que haya algunas pérdidas de seres queridos o que ganes en número familiar (tener hijos, sobrinos, nietos, etc.). Serán sucesos intensos. Este tránsito de letra dependerá siempre de los factores a tu alrededor para un mayor análisis. En lo mental, existirá una gran apertura de visión humanitaria, la necesidad de comprender ante las pérdidas o pruebas. Se despierta en este tránsito un gran humanismo universal. En cuanto a la salud, el sistema nervioso, y el desequilibrio emocional son las partes más afectadas de este tránsito, debido a las fluctuaciones, cambios y transformaciones en todos los aspectos; es necesario preverlo para que no haya complicaciones severas.';
             break;
     }
-    
 
-
-
-
+    echo '<br>';
 
 
 ?>
