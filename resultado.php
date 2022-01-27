@@ -1336,11 +1336,28 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 33:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu número de vida es 33, al estar regida bajo la vibración de este número podemos decir que estas llamada a aprender a seguir un camino de sacrificio y compasión, mediante la entrega y el desapego material.
+            La gran lección que viniste a prender es sobre el sacrificio y la compasión, debes aprender de amor y de entrega. Estamos hablando de sacrificio en relación a la humanidad y no para el bien individual o por algún motivo particular con interés singular.
+            <br> 
+            Lo que has venido a prender es a desapegarte de todo lo material por amor a tus semejantes y de dar todo sin esperar nada a cambio. Has venido a aprender a poder vivir al nivel de esta energía, que pide una vida de servicio, transmitiendo los conocimientos fundamentales y más elevados.
+            <br>
+            Profesiones y oficios que vibrarían con vos: misionera, consejera, investigadora científica, paisajista, diseñadora de arte, antropóloga, socióloga, embajadora; terapeuta holística, sanadora; tareas de servicio público.
+            <br>
+            //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
+            <br>';
             break;
 
         case 44:
-            echo 'sin contenido///////////////////////////////';
+            echo 'Tu número de vida es 44, al estar regida bajo la vibración de este número podemos decir que estas llamada a aprender a hacerte cargo de grandísimas responsabilidades.
+            <br>
+            La gran lección que viniste a prender es sobre disciplina y perseverancia, a trabajar mucho para conseguir tus objetivos. Debes trabajar y ejercitar la constancia, lógica del método, la eficacia, practicidad, estabilidad, autoridad, disciplina, paciencia y el domino de tu inteligencia instintiva. Tu trabajo es para la humanidad, grandes masas sociales.
+            <br>
+            Has venido a aprender sobre la facultad de elegir el mejor camino ante situaciones complicadas. Luchando por grandes avances, te harás cargo de grandes responsabilidades.
+            <br> 
+            Profesiones y oficios que vibrarían con vos: constructora, ingeniera, arquitecta, política, persona de negocios y de empresas, trabajos sociales u organismos gubernamentales. Conducción, social y /o política.
+            <br>
+            //////////////////ACÁ VA LA CONCLUSIÓN//////////////////
+            <br>';
             break;
 
     }
