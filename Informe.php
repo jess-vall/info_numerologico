@@ -18,7 +18,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Escencia/Deseo del Alma</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Escencia/Deseo del Alma</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -35,7 +35,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Imagen/Personalidad Externa</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Imagen/Personalidad Externa</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -52,7 +52,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Misión/Destino</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Misión/Destino</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -69,7 +69,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Arquetipo Numerológico</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Arquetipo Numerológico</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -86,7 +86,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Sobre la energía que vibra en tu nombre</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Sobre la energía que vibra en tu nombre</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -103,7 +103,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Lecciones Kármicas</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Lecciones Kármicas</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -120,7 +120,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Número kármico</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Número kármico</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -137,7 +137,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Número Problemático</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Número Problemático</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -154,7 +154,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Planos de existencia</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Planos de existencia</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -171,7 +171,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Día de nacimiento y su influencia</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Día de nacimiento y su influencia</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -188,7 +188,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Número de madurez</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Número de madurez</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -205,7 +205,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Clave personal</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Clave personal</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -222,7 +222,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Número oculto</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Número oculto</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -239,7 +239,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Números en Equilibrio</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Números en Equilibrio</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -256,7 +256,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Números en Exceso</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Números en Exceso</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -273,7 +273,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Números en Carencia</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Números en Carencia</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -290,7 +290,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Pináculos / Desafíos</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Pináculos / Desafíos</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -307,7 +307,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Tránsito de Letras</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Tránsito de Letras</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -324,7 +324,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Numerología Predictiva</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Numerología Predictiva</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -341,7 +341,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Ciclo Anual Personal</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Ciclo Anual Personal</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -358,7 +358,7 @@
                <div class="modal-dialog modal-dialog-scrollable">
                <div class="modal-content">
                    <div class="modal-header">
-                   <h3 class="modal-title" id="exampleModalLabel">Interpretación por semestre del 2022</h3>
+                   <h5 class="modal-title" id="exampleModalLabel">Interpretación por semestre del 2022</h5>
                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                    </div>
                    <div class="modal-body">
@@ -1221,7 +1221,7 @@
 
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
             
-                <button class="btn btn-outline-warning" type="reset">Reset</button> <input class="btn btn-outline-info" type="submit" name="calcular" value="Enviar" />       
+                <button class="btn btn-outline-warning btn-lg col-3" type="reset">Reset</button> <input class="btn btn-outline-info btn-lg col-6" type="submit" name="calcular" value="Enviar" />       
             
             
         </section>
@@ -1230,8 +1230,9 @@
     </form>
     
     <footer class="footer">
-        <p>Formulario Numerología - Jardín Reiki - <b>Jesica Vallasciani</b> -Numeróloga Holística</p>
-        <p>Desarrollado por -H-</p>
+        Formulario Numerología - Jardín Reiki - Jesica Vallasciani - Numeróloga Holística
+        <br>
+        Desarrollado por GBU
     </footer>
 
 
