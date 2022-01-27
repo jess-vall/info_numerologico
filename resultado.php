@@ -1450,8 +1450,7 @@ $interAnual = $_POST['interAnual'];
             break;
     }
 
-    if(isset($_POST["calcular"]))
-    { 
+    if(isset($_POST["calcular"])){ 
         if(isset($_POST["12Problematico"]))
         echo 'Pude encontrar el número problemático 12; que aparece en tu ////// ATENCION EDITAR!! ////////; éste, al no ser un número Kármico no referencia lo que debes trabajar en este plano debido a lo que pudo haberse traído de una vida anterior; pero es un número relevante para poder tener en cuenta aquello que puede ser un bloqueo o dificultad para tu crecimiento.
         <br>
@@ -2042,7 +2041,11 @@ $interAnual = $_POST['interAnual'];
     switch ($clavePer) {
         
         case '1':
-            echo '//////////////SIN CONTENIDO//////////////';
+            echo 'Tu clave personal: 1
+            <br>
+            Tu clave personal 1 pide que potencies lo positivo, esto sería tu capacidad de innovar, de ser original, emprendedora y una gran líder. Sobre todo, tu parte creativa, determinada y optimista, confiando en tu alta energía e inspiración. Es importante que te sientas segura con vos misma.
+            <br> 
+            A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir la parte restrictiva, mandona, testaruda y recluida. La parte negativa tiene una tendencia a encerrarse y esconderse del mundo, con sensaciones bloqueadas, muy apegada, frustrada; con sentimientos de inferioridad. Muchas veces recayendo en enfermedades, con letargos; posiblemente adicta o con dependencias. Como parte negativa puede caer en egoísmo; algo estancada; arrogante e indecisa.';
             break;
 
         case '2':
@@ -2054,7 +2057,11 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '3':
-            echo '//////////////SIN CONTENIDO//////////////';
+            echo 'Tu clave personal: 3
+            <br>
+            Tu clave personal 3 pide que potencies lo positivo, esto sería tu parte expresiva, artística, creativa, leal a vos misma, siendo muy independiente, entusiasta y sociable. Promoviendo una expresión franca y altruista. Tu lado positivo te empuja hacia el talento, haciendo que puedas comunicarte con inspiración, sensibilidad, y disfrute.
+            <br> 
+            A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir excesivamente sensible; con caídas en la queja y critica; llena de dudas sobre sí misma; descuidada; chismosa y poco conformista. En su parte negativa tendría que ver la sensación de estar bajo presión contantemente; con una gran necesidad de aprobación, que llevaría a dispersión de talentos. Tendría que trabajar sobre su sentimiento de decepción ante los demás.';
             break;
 
         case '4':
@@ -2084,7 +2091,11 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '7':
-            echo '//////////////SIN CONTENIDO//////////////';
+            echo 'Tu clave personal: 7
+            <br>
+            Tu clave personal 7 pide que potencies lo positivo, esto sería la franqueza, tu percepción y aceptación espiritual. Sobre todo, las sensaciones íntimas de confianza; confianza en los demás como para abrir el corazón y sentirte parte de los lugares de la de las personas. Potenciar la toma de riesgos emocionales. Conectar con tu sabiduría interna; filosofía; intelecto y espíritu.
+            <br>
+            A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir la falta de confianza en vos misma y en los demás, lo que te llevaría a que te sientas amargada, traicionada, paranoica, ignorante, sarcástica, escéptica y pesimista; siendo muy cerrada y rígida.  Otra cuestión a trabajar es la constante lucha y los obstáculos.';
             break;
 
         case '8':
@@ -2120,11 +2131,19 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '12':
-            echo '//////////////SIN CONTENIDO//////////////';
+            echo 'Tu clave personal: 12
+            <br>
+            Tu clave personal 12 pide que potencies lo positivo, esto sería tu expresión, sensibilidad y alegría de vivir. Es importante que puedas potenciar la forma en cómo te expresas con los demás, tu ser sociable y tu lealtad vincular. Expandir tu lado positivo de cómo te comunicas con el mundo con inspiración, sensibilidad, y disfrute.
+            <br>
+            A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir los problemas de mando, teniendo conflictos con la autoridad; muchas veces cayendo en una falta de tacto, antipatía, queja y critica.';
             break;
 
         case '13':
-            echo '//////////////SIN CONTENIDO//////////////';
+            echo 'Tu clave personal: 13
+            <br>
+            Tu clave personal 13 pide que potencies lo positivo, esto sería tu espíritu de fuerza dominante positiva, con una independencia natural, con una gran capacidad para el desarrollo y progreso. Potenciar tu lado paciente; balanceando bien la lógica y la emoción.
+            <br> 
+            A su vez, tu clave personal pone frente a vos aquello tendrías que trabajar, lo negativo, es decir la negativa a ser manejada o dominada que te pone en estado de guarda contante. Esto podría llevarte a ser dominadora por miedo. También será necesario trabajar en aquellas caídas ambiciosas, impacientes y confusa; que finalizan en bloqueos emocionales e inestabilidad.';
             break;
 
     }
@@ -2499,7 +2518,7 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'veintidos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
         }
 
@@ -2516,7 +2535,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'dos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
 
         case '3':
@@ -2565,7 +2584,7 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'veintidos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
         }
 
@@ -2582,7 +2601,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'dos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
 
         case '3':
@@ -2617,7 +2636,7 @@ $interAnual = $_POST['interAnual'];
 
       echo '<br>';
       echo '<br>';
-                                //   NO TOCAR ESTO HACE LLEGAR EL RESULTADO 11 EN LA TERCER ETAPA DE MELINA INES INSAURRALDE
+                    //   NO TOCAR ESTO HACE LLEGAR EL RESULTADO 11 EN LA TERCER ETAPA DE MELINA INES INSAURRALDE
        $terceraUno = $primera + $segunda; //29
     //    var_dump($terceraUno);
        
@@ -2631,19 +2650,19 @@ $interAnual = $_POST['interAnual'];
     //    var_dump($terceraCuatro); 
       
 
-       if ($terceraUno == 11 || $terceraUno == 22 || $terceraDos == 11|| $terceraDos == 22|| $terceraTres == 11|| $terceraTres == 22|| $terceraCuatro == 11||$terceraCuatro == 22){
-        //    echo 'esto es tercerauno' . $terceraUno, $terceraDos, $terceraTres, $terceraCuatro;
+    if ($terceraUno == 11 || $terceraUno == 22 || $terceraDos == 11|| $terceraDos == 22|| $terceraTres == 11|| $terceraTres == 22|| $terceraCuatro == 11||$terceraCuatro == 22){
+    //    echo 'esto es tercerauno' . $terceraUno, $terceraDos, $terceraTres, $terceraCuatro;
 
-           switch ($terceraUno || $terceraDos || $terceraTres ||$terceraCuatro) {
-            
-            case '11':
-                echo 'La tercera etapa desde desde los ' . $inicioEtapa3 . ' años hasta los ' . $finEtapa3 . ' años, será un periodo de oportunidad de ser notable y aparecer en público. Muy buen periodo para la expansión espiritual. Podría vivirse bajo gran tensión nerviosa si no se apunta lo suficientemente alto, elevándote en espíritu, trabajando y potenciando tus dones y cualidades; dejando de lado las ataduras vulgares del común de la gente. Por lo general esta etapa conduce a la separación de la pareja, o en una nueva manera de vincularse; por lo general se relaciona a una ruptura. Puede que seas inducida a revelar capacidad inventiva o tendencias espirituales; esto habla de una nueva manera de verte a vos misma y al mundo que te rodea.';
-                break;
-            
-            case '22':
-                echo 'veintidos';
-                break;
-            }
+        switch ($terceraUno || $terceraDos || $terceraTres ||$terceraCuatro) {
+        
+        case '11':
+            echo 'La tercera etapa desde desde los ' . $inicioEtapa3 . ' años hasta los ' . $finEtapa3 . ' años, será un periodo de oportunidad de ser notable y aparecer en público. Muy buen periodo para la expansión espiritual. Podría vivirse bajo gran tensión nerviosa si no se apunta lo suficientemente alto, elevándote en espíritu, trabajando y potenciando tus dones y cualidades; dejando de lado las ataduras vulgares del común de la gente. Por lo general esta etapa conduce a la separación de la pareja, o en una nueva manera de vincularse; por lo general se relaciona a una ruptura. Puede que seas inducida a revelar capacidad inventiva o tendencias espirituales; esto habla de una nueva manera de verte a vos misma y al mundo que te rodea.';
+            break;
+        
+        case '22':
+            echo 'SIN CONTENIDO!!!!!!!!!!!!';
+            break;
+        }
 
     }
        
@@ -2705,7 +2724,7 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'veintidos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
         }
       }else{
@@ -2721,7 +2740,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'dos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
 
         case '3':
@@ -2769,7 +2788,7 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'veintidos';
+            echo 'SIN CONTENIDO!!!!!!!!';
             break;
         }
       }else{
@@ -2785,7 +2804,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'dos';
+            echo 'SIN CONTENIDO!!!';
             break;
 
         case '3':
@@ -2818,16 +2837,9 @@ $interAnual = $_POST['interAnual'];
             echo 'La cuarta etapa desde los ' . $inicioEtapa4 . ' años en adelante, será un periodo de realización en el campo espiritual, debes transitar esta etapa despojada de toda ambición material, no tendrás que pretender ni amores, ni bienes personales, sino apuntar únicamente a ayudar a los demás a que logren sus objetivos alegrándote de corazón por ello, sin esperar agradecimiento. Es un periodo de prueba en la entrega, ya que se espera mucha compasión, tolerancia y dedicación. Si te tornaras resentida o egoísta será un tiempo de desdicha.En la última etapa, este número actuará como recolector, revisará nuestros actos en la vida. Si se vive como se te ha pedido (en relación a tu deseo del alma y tu destino) te colmarás de positividad; de no ser así, puede que esta etapa se lleve todo, abarca amores y posesiones. La etapa 9 es una de las más rigurosas en cuanto a exigir que se viva según el mandato del número.';
             break;
         }
-      }
+    }
     
-      echo'<br>';
-
-      
-   
-
-    
-      
-
+    echo'<br>';
 
     echo '<br>';
                                                 //DESAFIOS//DESAFIOS//DESAFIOS//DESAFIOS
@@ -2944,10 +2956,8 @@ $interAnual = $_POST['interAnual'];
 
     }
       
-
     echo '<br>';
 
-   
         //echo "Tercer desafío es igual a " .  $tercerDesa;
         
     switch ($tercerDesa) {
