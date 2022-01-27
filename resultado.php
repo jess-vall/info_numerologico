@@ -2518,7 +2518,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'Tu primera etapa desde el nacimiento hasta los ' . $etapa1 . ' años, será un tiempo excelente en que lo material y el idealismo se combinan. Abarca varios campos, pudiendo sobrevenir grandeza material.
+            <br>
+            Podrás interesarte por asuntos que trasciendan las fronteras. Muy pocas personas tienen el privilegio de transitar esta etapa, pues pocos evolucionaron lo suficiente como para satisfacer sus demandas. Aquí se debe pensar en grande, sin miedo a los límites.';
             break;
         }
 
@@ -2535,7 +2537,8 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'Tu primera etapa desde el nacimiento hasta los ' . $etapa1 . ' años, exige cooperación y diplomacia, otorga inclinación para concretar sociedades de todo tipo, ya que por su influencia queda claro que trabajara mejor en compañía de otros que sola, e incluso transitaras mejor este periodo si estas afectivamente en pareja, estará a prueba tu paciencia, ya que la prisa provocara pérdidas durante esta etapa.
+            Evitar ser hipersensible y referirlo todo a vos misma como si lo que ocurriera fuera en contra tuyo. Trabajarás bien en los por menores.';
             break;
 
         case '3':
@@ -2584,7 +2587,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'La segunda etapa desde los ' . $etapa2 . ' años hasta los ' . $finEtapa2 . ' años, será un tiempo excelente en que lo material y el idealismo se combinan. Abarca varios campos, pudiendo sobrevenir grandeza material.
+            <br>
+            Podrás interesarte por asuntos que trasciendan las fronteras. Muy pocas personas tienen el privilegio de transitar esta etapa, pues pocos evolucionaron lo suficiente como para satisfacer sus demandas. Aquí se debe pensar en grande, sin miedo a los límites.';
             break;
         }
 
@@ -2601,7 +2606,8 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'La segunda etapa desde los ' . $etapa2 . ' años hasta los ' . $finEtapa2 . ' años, exige cooperación y diplomacia, otorga inclinación para concretar sociedades de todo tipo, ya que por su influencia queda claro que trabajara mejor en compañía de otros que sola, e incluso transitaras mejor este periodo si estas afectivamente en pareja, estará a prueba tu paciencia, ya que la prisa provocara pérdidas durante esta etapa.
+            Evitar ser hipersensible y referirlo todo a vos misma como si lo que ocurriera fuera en contra tuyo. Trabajarás bien en los por menores.';
             break;
 
         case '3':
@@ -2660,7 +2666,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'SIN CONTENIDO!!!!!!!!!!!!';
+            echo 'La tercera etapa desde desde los ' . $inicioEtapa3 . ' años hasta los ' . $finEtapa3 . ' años, será un tiempo excelente en que lo material y el idealismo se combinan. Abarca varios campos, pudiendo sobrevenir grandeza material.
+            <br>
+            Podrás interesarte por asuntos que trasciendan las fronteras. Muy pocas personas tienen el privilegio de transitar esta etapa, pues pocos evolucionaron lo suficiente como para satisfacer sus demandas. Aquí se debe pensar en grande, sin miedo a los límites.';
             break;
         }
 
@@ -2724,7 +2732,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'La tercera etapa desde desde los ' . $inicioEtapa3 . ' años hasta los ' . $finEtapa3 . ' años, será un tiempo excelente en que lo material y el idealismo se combinan. Abarca varios campos, pudiendo sobrevenir grandeza material.
+            <br>
+            Podrás interesarte por asuntos que trasciendan las fronteras. Muy pocas personas tienen el privilegio de transitar esta etapa, pues pocos evolucionaron lo suficiente como para satisfacer sus demandas. Aquí se debe pensar en grande, sin miedo a los límites.';
             break;
         }
       }else{
@@ -2740,7 +2750,8 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'La tercera etapa desde desde los ' . $inicioEtapa3 . ' años hasta los ' . $finEtapa3 . ' años, exige cooperación y diplomacia, otorga inclinación para concretar sociedades de todo tipo, ya que por su influencia queda claro que trabajara mejor en compañía de otros que sola, e incluso transitaras mejor este periodo si estas afectivamente en pareja, estará a prueba tu paciencia, ya que la prisa provocara pérdidas durante esta etapa.
+            Evitar ser hipersensible y referirlo todo a vos misma como si lo que ocurriera fuera en contra tuyo. Trabajarás bien en los por menores.';
             break;
 
         case '3':
@@ -2788,7 +2799,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case '22':
-            echo 'SIN CONTENIDO!!!!!!!!';
+            echo 'La cuarta etapa desde los ' . $inicioEtapa4 . ' años en adelante, será un tiempo excelente en que lo material y el idealismo se combinan. Abarca varios campos, pudiendo sobrevenir grandeza material.
+            <br>
+            Podrás interesarte por asuntos que trasciendan las fronteras. Muy pocas personas tienen el privilegio de transitar esta etapa, pues pocos evolucionaron lo suficiente como para satisfacer sus demandas. Aquí se debe pensar en grande, sin miedo a los límites.';
             break;
         }
       }else{
@@ -2804,7 +2817,8 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case '2':
-            echo 'SIN CONTENIDO!!!';
+            echo 'La cuarta etapa desde los ' . $inicioEtapa4 . ' años en adelante, exige cooperación y diplomacia, otorga inclinación para concretar sociedades de todo tipo, ya que por su influencia queda claro que trabajara mejor en compañía de otros que sola, e incluso transitaras mejor este periodo si estas afectivamente en pareja, estará a prueba tu paciencia, ya que la prisa provocara pérdidas durante esta etapa.
+            Evitar ser hipersensible y referirlo todo a vos misma como si lo que ocurriera fuera en contra tuyo. Trabajarás bien en los por menores.';
             break;
 
         case '3':
@@ -3335,7 +3349,23 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 2, es decir un cuatrimestre con una vibración temporal de gestación, cooperación, diplomacia y autoconocimiento. Te hayas en un periodo de gestación, durante el cual no debes tratar de afirmarte, sino esperar resultados. Es una época para ordenar y asimilar las experiencias del pasado, dándoles tiempo para desarrollarse poco a poco. Se trata de un período de reserva, en que tus asuntos, situaciones y relaciones se desenvuelven bajo el elemento de lo desconocido. Al no conocer todas las circunstancias que concurren en esa situación particular, acaso fluctuante, debes procurar mantener la mesura y el equilibrio. Conserva la serenidad en este tiempo.
+            <br>
+            Es un periodo también de encuentros, conversaciones, idas y venidas. Presta atención a lo que decis sobre tus esperanzas y tus ambiciones, ya que tus palabras tal vez sean mal interpretadas inconsciente o deliberadamente. Emplea la diplomacia en todos tus tratos y mostrate cautelosa con las personas a quienes habla y en quienes pones tu confianza. El descuido y la falta de tacto te acarrearan problemas en tus relaciones, degenerando en discusiones tormentosas y acciones decepcionantes.
+            <br>
+            Se paciente, considerada, discreta y receptiva a las ideas de otras personas. Procura llegar a acuerdos y a la conciliación, pero no a expensas de tu integridad. Al encontrarte en un periodo pasivo, receptivo, será apropiado para reflexionar, meditar y escuchar tu voz interior. Al tener este tiempo para vos misma puede ser una gran ventaja para garantizar la paz que necesitarás en momentos turbulentos.
+            <br> 
+            Si ejercitas el lado positivo del 2, entablarás cálidas relaciones con otras personas. Serás una buena mediadora y trabajarás en pro de la paz. Buena vibración para las cuestiones de amor, pero tene cuidado, puesto que resultas emocionalmente vulnerable. Bajo un 2, las cuestiones amorosas están sujetas a vaivenes. Mantene el equilibrio.
+            Durante este periodo, quizás el futuro te parezca poco claro, ya que intervienen energías ocultas, que saldrán a la superficie más adelante. Teniendo en cuenta que bajo un 2 cuesta trabajo tomar decisiones, pospone las cuestiones importantes hasta que tu mente se sienta más resuelta. La época no resulta demasiado buena para las especulaciones en materia de negocios, debido, también en este caso a tu indecisión.
+            <br>
+            Los recuerdos constituyen una motivación esencial para tus acciones presentes. No te dejes atrapar en la trampa de los recuerdos desdichados o por auto condicionamientos. Al contrario, aprovecha la sabiduría almacenada en tus pasadas experiencias para eliminar los obstáculos que se te oponen en cualquier asociación, mediación o esfuerzo cooperativo. Analiza tus reacciones frente a los demás, ya que este periodo pone a prueba tu capacidad de coexistencia. 
+            Tené en cuenta qué pensamientos estas manejando en cada ocasión, jerarquízalos y libera aquellos que no te sirvan. Por lo tanto, debes ajustarte a lo qué se está formulando en tu mente durante este periodo. En caso contrario, seguirás en la oscuridad. El número 2 tiene tendencias a la dualidad, no tener una mente clara hará que caigas en estados de ambivalencia y las ideas fluctuarán negativamente.
+            <br>
+            Un uso negativo del 2 te hará mostrarte intolerante con respecto a cuestiones triviales. Reaccionarás emocionalmente a las confrontaciones, retrayéndote en vez de plantear los problemas con serenidad. Las emociones pueden determinar tu confianza en vos misma y perturbar tu equilibrio, así que será necesario que mantengas tu cuerpo, mente y emoción en total balance. Será importante que puedas pedir ayuda a un profesional si no lo logras.
+            <br>
+            El 2 es la época perfecta para las personas creativas, como los pintores, compositores, inventores, o místicos, que ensancharán su conciencia a través de técnicas diversas, ya que el 2 encierra poderes creativos latentes. Supone este un periodo de espera y también de sabiduría en el que podrás captar tu verdadero yo soy, reflejado en tu ser interior.
+            <br>
+            Debe permanecer pasiva y receptiva a las presentes fuerzas activas y creativas, sin vacilaciones, sin hipersensibilidad ni retraimiento. La calma, la silenciosa contemplación de tu potencial creativo interno te ayudarán a producir formas artísticas de exquisita belleza, a tener ideas innovadoras y a encontrar soluciones únicas para los problemas cotidianos.';
             break;
 
         case 3:
@@ -3429,7 +3459,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case 22:
-            echo 'SIN CONTENIDO!!!';
+            echo 'En AÑO!!!, el cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 22, es decir un cuatrimestre con una vibración temporal que requiere liberarte de las normas conocidas para establecer un camino personal, que quizás te haga sentir incomprendida por los demás por no querer seguir las pautas de conducta que todo el mundo sigue. Trata de actuar tal y como creas que debes actuar, pensa lo que desees pensar y sentí lo que sienta tu corazón. Si sos capaz de actuar de acuerdo a tus deseos, estos podrán convertirse en realidad. Será un tiempo de conexión con tu Ser, dejando de lado las viejas normas, limpiando los mandatos sociales y familiares y renunciando a todo aquello que no te hace feliz. Puede que en este tiempo te alejes de algunas personas y elijas la soledad; también es posible que estes en contacto solo con aquellas almas que te hacen crecer. Será un tiempo de aprendizaje. 
+            El éxito de tus emprendimientos a gran escala y de tus sueños imposibles se encuentran muy probablemente a tu alcance. Traza planes grandiosos, atrevete a poner en marcha aquellos proyectos del pasado o los que solo quedaban en pensamientos; ahora, para que esto sea fructuoso será necesario que sean conceptos bien organizados, con responsabilidad y criterios prácticos. Será poner en marcha tus sueños con los pies en la tierra. 
+            Podrás trabajar con grupos de personas y beneficiar también a mucha gente con tus opiniones y consejos. Confía en tu intuición.';
             break;
            
     }
@@ -3449,7 +3481,23 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 2, es decir un cuatrimestre con una vibración temporal de gestación, cooperación, diplomacia y autoconocimiento. Te hayas en un periodo de gestación, durante el cual no debes tratar de afirmarte, sino esperar resultados. Es una época para ordenar y asimilar las experiencias del pasado, dándoles tiempo para desarrollarse poco a poco. Se trata de un período de reserva, en que tus asuntos, situaciones y relaciones se desenvuelven bajo el elemento de lo desconocido. Al no conocer todas las circunstancias que concurren en esa situación particular, acaso fluctuante, debes procurar mantener la mesura y el equilibrio. Conserva la serenidad en este tiempo.
+            <br>
+            Es un periodo también de encuentros, conversaciones, idas y venidas. Presta atención a lo que decis sobre tus esperanzas y tus ambiciones, ya que tus palabras tal vez sean mal interpretadas inconsciente o deliberadamente. Emplea la diplomacia en todos tus tratos y mostrate cautelosa con las personas a quienes habla y en quienes pones tu confianza. El descuido y la falta de tacto te acarrearan problemas en tus relaciones, degenerando en discusiones tormentosas y acciones decepcionantes.
+            <br>
+            Se paciente, considerada, discreta y receptiva a las ideas de otras personas. Procura llegar a acuerdos y a la conciliación, pero no a expensas de tu integridad. Al encontrarte en un periodo pasivo, receptivo, será apropiado para reflexionar, meditar y escuchar tu voz interior. Al tener este tiempo para vos misma puede ser una gran ventaja para garantizar la paz que necesitarás en momentos turbulentos.
+            <br> 
+            Si ejercitas el lado positivo del 2, entablarás cálidas relaciones con otras personas. Serás una buena mediadora y trabajarás en pro de la paz. Buena vibración para las cuestiones de amor, pero tene cuidado, puesto que resultas emocionalmente vulnerable. Bajo un 2, las cuestiones amorosas están sujetas a vaivenes. Mantene el equilibrio.
+            Durante este periodo, quizás el futuro te parezca poco claro, ya que intervienen energías ocultas, que saldrán a la superficie más adelante. Teniendo en cuenta que bajo un 2 cuesta trabajo tomar decisiones, pospone las cuestiones importantes hasta que tu mente se sienta más resuelta. La época no resulta demasiado buena para las especulaciones en materia de negocios, debido, también en este caso a tu indecisión.
+            <br>
+            Los recuerdos constituyen una motivación esencial para tus acciones presentes. No te dejes atrapar en la trampa de los recuerdos desdichados o por auto condicionamientos. Al contrario, aprovecha la sabiduría almacenada en tus pasadas experiencias para eliminar los obstáculos que se te oponen en cualquier asociación, mediación o esfuerzo cooperativo. Analiza tus reacciones frente a los demás, ya que este periodo pone a prueba tu capacidad de coexistencia. 
+            Tené en cuenta qué pensamientos estas manejando en cada ocasión, jerarquízalos y libera aquellos que no te sirvan. Por lo tanto, debes ajustarte a lo qué se está formulando en tu mente durante este periodo. En caso contrario, seguirás en la oscuridad. El número 2 tiene tendencias a la dualidad, no tener una mente clara hará que caigas en estados de ambivalencia y las ideas fluctuarán negativamente.
+            <br>
+            Un uso negativo del 2 te hará mostrarte intolerante con respecto a cuestiones triviales. Reaccionarás emocionalmente a las confrontaciones, retrayéndote en vez de plantear los problemas con serenidad. Las emociones pueden determinar tu confianza en vos misma y perturbar tu equilibrio, así que será necesario que mantengas tu cuerpo, mente y emoción en total balance. Será importante que puedas pedir ayuda a un profesional si no lo logras.
+            <br>
+            El 2 es la época perfecta para las personas creativas, como los pintores, compositores, inventores, o místicos, que ensancharán su conciencia a través de técnicas diversas, ya que el 2 encierra poderes creativos latentes. Supone este un periodo de espera y también de sabiduría en el que podrás captar tu verdadero yo soy, reflejado en tu ser interior.
+            <br>
+            Debe permanecer pasiva y receptiva a las presentes fuerzas activas y creativas, sin vacilaciones, sin hipersensibilidad ni retraimiento. La calma, la silenciosa contemplación de tu potencial creativo interno te ayudarán a producir formas artísticas de exquisita belleza, a tener ideas innovadoras y a encontrar soluciones únicas para los problemas cotidianos.';
             break;
 
         case 3:
@@ -3543,7 +3591,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case 22:
-            echo 'SIN CONTENIDO!!!';
+            echo 'El segundo cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 22, es decir un cuatrimestre con una vibración temporal que requiere liberarte de las normas conocidas para establecer un camino personal, que quizás te haga sentir incomprendida por los demás por no querer seguir las pautas de conducta que todo el mundo sigue. Trata de actuar tal y como creas que debes actuar, pensa lo que desees pensar y sentí lo que sienta tu corazón. Si sos capaz de actuar de acuerdo a tus deseos, estos podrán convertirse en realidad. Será un tiempo de conexión con tu Ser, dejando de lado las viejas normas, limpiando los mandatos sociales y familiares y renunciando a todo aquello que no te hace feliz. Puede que en este tiempo te alejes de algunas personas y elijas la soledad; también es posible que estes en contacto solo con aquellas almas que te hacen crecer. Será un tiempo de aprendizaje. 
+            El éxito de tus emprendimientos a gran escala y de tus sueños imposibles se encuentran muy probablemente a tu alcance. Traza planes grandiosos, atrevete a poner en marcha aquellos proyectos del pasado o los que solo quedaban en pensamientos; ahora, para que esto sea fructuoso será necesario que sean conceptos bien organizados, con responsabilidad y criterios prácticos. Será poner en marcha tus sueños con los pies en la tierra. 
+            Podrás trabajar con grupos de personas y beneficiar también a mucha gente con tus opiniones y consejos. Confía en tu intuición.';
             break;
            
     }
@@ -3563,7 +3613,23 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 2, es decir un cuatrimestre con una vibración temporal de gestación, cooperación, diplomacia y autoconocimiento. Te hayas en un periodo de gestación, durante el cual no debes tratar de afirmarte, sino esperar resultados. Es una época para ordenar y asimilar las experiencias del pasado, dándoles tiempo para desarrollarse poco a poco. Se trata de un período de reserva, en que tus asuntos, situaciones y relaciones se desenvuelven bajo el elemento de lo desconocido. Al no conocer todas las circunstancias que concurren en esa situación particular, acaso fluctuante, debes procurar mantener la mesura y el equilibrio. Conserva la serenidad en este tiempo.
+            <br>
+            Es un periodo también de encuentros, conversaciones, idas y venidas. Presta atención a lo que decis sobre tus esperanzas y tus ambiciones, ya que tus palabras tal vez sean mal interpretadas inconsciente o deliberadamente. Emplea la diplomacia en todos tus tratos y mostrate cautelosa con las personas a quienes habla y en quienes pones tu confianza. El descuido y la falta de tacto te acarrearan problemas en tus relaciones, degenerando en discusiones tormentosas y acciones decepcionantes.
+            <br>
+            Se paciente, considerada, discreta y receptiva a las ideas de otras personas. Procura llegar a acuerdos y a la conciliación, pero no a expensas de tu integridad. Al encontrarte en un periodo pasivo, receptivo, será apropiado para reflexionar, meditar y escuchar tu voz interior. Al tener este tiempo para vos misma puede ser una gran ventaja para garantizar la paz que necesitarás en momentos turbulentos.
+            <br> 
+            Si ejercitas el lado positivo del 2, entablarás cálidas relaciones con otras personas. Serás una buena mediadora y trabajarás en pro de la paz. Buena vibración para las cuestiones de amor, pero tene cuidado, puesto que resultas emocionalmente vulnerable. Bajo un 2, las cuestiones amorosas están sujetas a vaivenes. Mantene el equilibrio.
+            Durante este periodo, quizás el futuro te parezca poco claro, ya que intervienen energías ocultas, que saldrán a la superficie más adelante. Teniendo en cuenta que bajo un 2 cuesta trabajo tomar decisiones, pospone las cuestiones importantes hasta que tu mente se sienta más resuelta. La época no resulta demasiado buena para las especulaciones en materia de negocios, debido, también en este caso a tu indecisión.
+            <br>
+            Los recuerdos constituyen una motivación esencial para tus acciones presentes. No te dejes atrapar en la trampa de los recuerdos desdichados o por auto condicionamientos. Al contrario, aprovecha la sabiduría almacenada en tus pasadas experiencias para eliminar los obstáculos que se te oponen en cualquier asociación, mediación o esfuerzo cooperativo. Analiza tus reacciones frente a los demás, ya que este periodo pone a prueba tu capacidad de coexistencia. 
+            Tené en cuenta qué pensamientos estas manejando en cada ocasión, jerarquízalos y libera aquellos que no te sirvan. Por lo tanto, debes ajustarte a lo qué se está formulando en tu mente durante este periodo. En caso contrario, seguirás en la oscuridad. El número 2 tiene tendencias a la dualidad, no tener una mente clara hará que caigas en estados de ambivalencia y las ideas fluctuarán negativamente.
+            <br>
+            Un uso negativo del 2 te hará mostrarte intolerante con respecto a cuestiones triviales. Reaccionarás emocionalmente a las confrontaciones, retrayéndote en vez de plantear los problemas con serenidad. Las emociones pueden determinar tu confianza en vos misma y perturbar tu equilibrio, así que será necesario que mantengas tu cuerpo, mente y emoción en total balance. Será importante que puedas pedir ayuda a un profesional si no lo logras.
+            <br>
+            El 2 es la época perfecta para las personas creativas, como los pintores, compositores, inventores, o místicos, que ensancharán su conciencia a través de técnicas diversas, ya que el 2 encierra poderes creativos latentes. Supone este un periodo de espera y también de sabiduría en el que podrás captar tu verdadero yo soy, reflejado en tu ser interior.
+            <br>
+            Debe permanecer pasiva y receptiva a las presentes fuerzas activas y creativas, sin vacilaciones, sin hipersensibilidad ni retraimiento. La calma, la silenciosa contemplación de tu potencial creativo interno te ayudarán a producir formas artísticas de exquisita belleza, a tener ideas innovadoras y a encontrar soluciones únicas para los problemas cotidianos.';
             break;
 
         case 3:
@@ -3657,7 +3723,9 @@ $interAnual = $_POST['interAnual'];
             break;
         
         case 22:
-            echo 'SIN CONTENIDO!!!';
+            echo 'En el tercer cuatrimestre de COMPLETAR MES!!! a COMPLETAR MES!!!, hay una vibración numerológica 22, es decir un cuatrimestre con una vibración temporal que requiere liberarte de las normas conocidas para establecer un camino personal, que quizás te haga sentir incomprendida por los demás por no querer seguir las pautas de conducta que todo el mundo sigue. Trata de actuar tal y como creas que debes actuar, pensa lo que desees pensar y sentí lo que sienta tu corazón. Si sos capaz de actuar de acuerdo a tus deseos, estos podrán convertirse en realidad. Será un tiempo de conexión con tu Ser, dejando de lado las viejas normas, limpiando los mandatos sociales y familiares y renunciando a todo aquello que no te hace feliz. Puede que en este tiempo te alejes de algunas personas y elijas la soledad; también es posible que estes en contacto solo con aquellas almas que te hacen crecer. Será un tiempo de aprendizaje. 
+            El éxito de tus emprendimientos a gran escala y de tus sueños imposibles se encuentran muy probablemente a tu alcance. Traza planes grandiosos, atrevete a poner en marcha aquellos proyectos del pasado o los que solo quedaban en pensamientos; ahora, para que esto sea fructuoso será necesario que sean conceptos bien organizados, con responsabilidad y criterios prácticos. Será poner en marcha tus sueños con los pies en la tierra. 
+            Podrás trabajar con grupos de personas y beneficiar también a mucha gente con tus opiniones y consejos. Confía en tu intuición.';
             break;
            
     }
@@ -3685,7 +3753,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 2, es un periodo de altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vinculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
             break;
 
         case 3:
@@ -3718,12 +3786,7 @@ $interAnual = $_POST['interAnual'];
 
         case 11:
             echo 'Primer semestre de MES!!! a MES!!!, rige con la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
-            break;
-        
-        case 22:
-            echo 'SIN CONTENIDO!!!';
-            break;
-         
+            break;    
     }
 
     echo '<br>';
@@ -3735,7 +3798,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 2, es un periodo de altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vinculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
             break;
 
         case 3:
@@ -3768,12 +3831,7 @@ $interAnual = $_POST['interAnual'];
 
         case 11:
             echo 'Segundo semestre de MES!!! a MES!!!, rige con la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
-            break;
-        
-        case 22:
-            echo 'SIN CONTENIDO!!!';
-            break;
-         
+            break;  
     }
 
     echo '<br>';
@@ -3785,7 +3843,7 @@ $interAnual = $_POST['interAnual'];
             break;
 
         case 2:
-            echo 'SIN CONTENIDO!!!';
+            echo 'En el tercer tiempo que implica la energía anual, rige con la energía del número 2, es un periodo de altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vinculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
             break;
 
         case 3:
@@ -3818,12 +3876,7 @@ $interAnual = $_POST['interAnual'];
 
         case 11:
             echo 'En el tercer tiempo que implica la energía anual, rige la energía del número 11, este será un ciclo de inspiración, de paz y dará la posibilidad de proyectarte. Sera conveniente que vivas según tus plenas aspiraciones sin resignar tus verdaderos deseos. Soltar con los pesos del pasado y controlar estados emocionales. Tener suma consciencia, ya que este ciclo también puede conllevar altibajos emocionales, en donde se vuelve necesario contar con el consejo y ayuda de los demás. Se pueden consolidar o desestabilizar las asociaciones como trabajo, pareja, comerciales y cualquier otro tipo de vínculo, hay que evitar actitudes de baja autoestima o hipersensibilidad.';
-            break;
-        
-        case 22:
-            echo 'SIN CONTENIDO!!!';
-            break;
-         
+            break;    
     }
 
 ?>

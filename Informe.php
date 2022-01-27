@@ -827,7 +827,6 @@
                 <option value="8">8</option>
                 <option value="9">9</option>
                 <option value="11">11</option>
-                <option value="22">22</option>
             </select>
 
                                                         <!-- BOTON ENVIAR  -->
